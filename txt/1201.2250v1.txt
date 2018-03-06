@@ -423,7 +423,7 @@ D. Jaksch, J. I. Cirac, P. Zoller, S. L. Rolston, R. Côté,
 and M. D. Lukin Phys. Rev. Lett. 85, 2208 (2000).
 F.-Y. Hong, Y. Xiang, Z.Y. Zhu, and W.H. Tang, Quan-
 
-|eÚa
+|eÚ
 
 m
 Ω1 ( t )
@@ -432,8 +432,7 @@ ga
 
 a
 
-|sÚa |gÚ
-a
+|sÚ |gÚ
 
 %
 
@@ -451,17 +450,13 @@ a
 
 |rÚ |1|0ÚÚ
 |r'Ú
-
-n
-n
-
 |sÚ
 |gÚ
 
-|1Ún
-|0Ún
-|1Ún
-|0Ún
+|1Ú
+|0Ú
+|1Ú
+|0Ú
 
 m
 
