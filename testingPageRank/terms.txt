@@ -1,0 +1,18 @@
+batch
+batch file
+command
+extern
+extern command
+file
+intern
+intern extern
+intern extern command
+oper
+oper program
+oper program batch
+program
+program batch
+program batch file
+recogn
+recogn intern
+recogn intern extern
