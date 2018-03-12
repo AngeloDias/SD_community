@@ -1,0 +1,853 @@
+################################
+BASE DE DADOS ##################
+################################
+Nome: doc_term_matrix_tfidf_wo_header_discrete
+Total Colunas (atributos): 4275
+Total de Linhas (exemplos/amostras): 432
+CLASSES: 104, 116, 134, 145, 151, 153, 156, 256, 6, 80
+
+################################
+INFORMAÇÕES TÉCNICAS ###########
+################################
+Métrica de avaliação: Qg
+Operador entre características: AND
+
+
+
+################################
+INVESTIGANDO: CLASSE = 6
+################################
+CLASSE = 6: 51 linhas (11.81%)
+DEMAIS CLASSES: 381 linhas (88.19%)
+
+### TOP-10 catacterísticas:
+{lang=alto}->6 (6=8, outros=1)
+	[Qualidade=4|Size=1|WRAcc=0.0161|Qg=4|DiffSup=0.1542|Lift=7.53|Conf=0.8889|Cov=0.0208|Chi2=52.45|pValue=0|Sup(+)=0.1569|Sup(-)=0.0026]
+{littman=alto}->6 (6=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0178|Qg=3|DiffSup=0.1712|Lift=6.93|Conf=0.8182|Cov=0.0255|Chi2=53.14|pValue=0|Sup(+)=0.1765|Sup(-)=0.0052]
+{scienc univers british=alto}->6 (6=6, outros=1)
+	[Qualidade=3|Size=1|WRAcc=0.012|Qg=3|DiffSup=0.115|Lift=7.26|Conf=0.8571|Cov=0.0162|Chi2=37.33|pValue=0|Sup(+)=0.1176|Sup(-)=0.0026]
+{vancouv canada=medio}->6 (6=6, outros=1)
+	[Qualidade=3|Size=1|WRAcc=0.012|Qg=3|DiffSup=0.115|Lift=7.26|Conf=0.8571|Cov=0.0162|Chi2=37.33|pValue=0|Sup(+)=0.1176|Sup(-)=0.0026]
+{columbia=alto}->6 (6=8, outros=2)
+	[Qualidade=2.6667|Size=1|WRAcc=0.0158|Qg=2.67|DiffSup=0.1516|Lift=6.78|Conf=0.8|Cov=0.0231|Chi2=45.72|pValue=0|Sup(+)=0.1569|Sup(-)=0.0052]
+{british columbia=alto}->6 (6=7, outros=2)
+	[Qualidade=2.3333|Size=1|WRAcc=0.0137|Qg=2.33|DiffSup=0.132|Lift=6.59|Conf=0.7778|Cov=0.0208|Chi2=38.42|pValue=0|Sup(+)=0.1373|Sup(-)=0.0052]
+{univers british=alto}->6 (6=7, outros=2)
+	[Qualidade=2.3333|Size=1|WRAcc=0.0137|Qg=2.33|DiffSup=0.132|Lift=6.59|Conf=0.7778|Cov=0.0208|Chi2=38.42|pValue=0|Sup(+)=0.1373|Sup(-)=0.0052]
+{univers british columbia=alto}->6 (6=7, outros=2)
+	[Qualidade=2.3333|Size=1|WRAcc=0.0137|Qg=2.33|DiffSup=0.132|Lift=6.59|Conf=0.7778|Cov=0.0208|Chi2=38.42|pValue=0|Sup(+)=0.1373|Sup(-)=0.0052]
+{british=alto}->6 (6=8, outros=3)
+	[Qualidade=2|Size=1|WRAcc=0.0155|Qg=2|DiffSup=0.149|Lift=6.16|Conf=0.7273|Cov=0.0255|Chi2=40.24|pValue=0|Sup(+)=0.1569|Sup(-)=0.0079]
+{british columbia=medio}->6 (6=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0117|Qg=2|DiffSup=0.1124|Lift=6.35|Conf=0.75|Cov=0.0185|Chi2=31.26|pValue=0|Sup(+)=0.1176|Sup(-)=0.0052]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 6: 52.94%
+{columbia=alto,univers british columbia=alto}->6 (6=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.1373|Lift=8.47|Conf=1|Cov=0.0162|Chi2=53.16|pValue=0|Sup(+)=0.1373|Sup(-)=0]
+{build=baixo,pool=alto}->6 (6=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.1373|Lift=8.47|Conf=1|Cov=0.0162|Chi2=53.16|pValue=0|Sup(+)=0.1373|Sup(-)=0]
+{pool=alto,scienc univers=alto}->6 (6=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.1373|Lift=8.47|Conf=1|Cov=0.0162|Chi2=53.16|pValue=0|Sup(+)=0.1373|Sup(-)=0]
+{agent=alto,littman=alto}->6 (6=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.1373|Lift=8.47|Conf=1|Cov=0.0162|Chi2=53.16|pValue=0|Sup(+)=0.1373|Sup(-)=0]
+{element=alto,whi=baixo}->6 (6=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0122|Qg=6|DiffSup=0.1176|Lift=8.47|Conf=1|Cov=0.0139|Chi2=45.45|pValue=0|Sup(+)=0.1176|Sup(-)=0]
+{pool=alto,univers british columbia=alto}->6 (6=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0122|Qg=6|DiffSup=0.1176|Lift=8.47|Conf=1|Cov=0.0139|Chi2=45.45|pValue=0|Sup(+)=0.1176|Sup(-)=0]
+{british=alto,univers british columbia=alto}->6 (6=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0122|Qg=6|DiffSup=0.1176|Lift=8.47|Conf=1|Cov=0.0139|Chi2=45.45|pValue=0|Sup(+)=0.1176|Sup(-)=0]
+{pool=alto,research=baixo}->6 (6=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0122|Qg=6|DiffSup=0.1176|Lift=8.47|Conf=1|Cov=0.0139|Chi2=45.45|pValue=0|Sup(+)=0.1176|Sup(-)=0]
+{pool=alto,scienc univers british=alto}->6 (6=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0122|Qg=6|DiffSup=0.1176|Lift=8.47|Conf=1|Cov=0.0139|Chi2=45.45|pValue=0|Sup(+)=0.1176|Sup(-)=0]
+{british=alto,pool=alto}->6 (6=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0122|Qg=6|DiffSup=0.1176|Lift=8.47|Conf=1|Cov=0.0139|Chi2=45.45|pValue=0|Sup(+)=0.1176|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{scienc univers british=alto}->6 (6=6, outros=1)
+	[Qualidade=3|Size=1|WRAcc=0.012|Qg=3|DiffSup=0.115|Lift=7.26|Conf=0.8571|Cov=0.0162|Chi2=37.33|pValue=0|Sup(+)=0.1176|Sup(-)=0.0026]
+{littman=alto}->6 (6=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0178|Qg=3|DiffSup=0.1712|Lift=6.93|Conf=0.8182|Cov=0.0255|Chi2=53.14|pValue=0|Sup(+)=0.1765|Sup(-)=0.0052]
+{columbia=alto}->6 (6=8, outros=2)
+	[Qualidade=2.6667|Size=1|WRAcc=0.0158|Qg=2.67|DiffSup=0.1516|Lift=6.78|Conf=0.8|Cov=0.0231|Chi2=45.72|pValue=0|Sup(+)=0.1569|Sup(-)=0.0052]
+{univers british columbia=alto}->6 (6=7, outros=2)
+	[Qualidade=2.3333|Size=1|WRAcc=0.0137|Qg=2.33|DiffSup=0.132|Lift=6.59|Conf=0.7778|Cov=0.0208|Chi2=38.42|pValue=0|Sup(+)=0.1373|Sup(-)=0.0052]
+{british=alto}->6 (6=8, outros=3)
+	[Qualidade=2|Size=1|WRAcc=0.0155|Qg=2|DiffSup=0.149|Lift=6.16|Conf=0.7273|Cov=0.0255|Chi2=40.24|pValue=0|Sup(+)=0.1569|Sup(-)=0.0079]
+{pool=alto}->6 (6=16, outros=12)
+	[Qualidade=1.2308|Size=1|WRAcc=0.0294|Qg=1.23|DiffSup=0.2822|Lift=4.84|Conf=0.5714|Cov=0.0648|Chi2=59.11|pValue=0|Sup(+)=0.3137|Sup(-)=0.0315]
+{agent=alto}->6 (6=11, outros=23)
+	[Qualidade=0.4583|Size=1|WRAcc=0.0162|Qg=0.46|DiffSup=0.1553|Lift=2.74|Conf=0.3235|Cov=0.0787|Chi2=14.96|pValue=0.0001|Sup(+)=0.2157|Sup(-)=0.0604]
+{whi=baixo}->6 (6=9, outros=25)
+	[Qualidade=0.3462|Size=1|WRAcc=0.0115|Qg=0.35|DiffSup=0.1109|Lift=2.24|Conf=0.2647|Cov=0.0787|Chi2=7.62|pValue=0.0058|Sup(+)=0.1765|Sup(-)=0.0656]
+{scienc univers=alto}->6 (6=8, outros=27)
+	[Qualidade=0.2857|Size=1|WRAcc=0.009|Qg=0.29|DiffSup=0.086|Lift=1.94|Conf=0.2286|Cov=0.081|Chi2=4.47|pValue=0.0345|Sup(+)=0.1569|Sup(-)=0.0709]
+{build=baixo}->6 (6=14, outros=51)
+	[Qualidade=0.2692|Size=1|WRAcc=0.0146|Qg=0.27|DiffSup=0.1407|Lift=1.82|Conf=0.2154|Cov=0.1505|Chi2=6.96|pValue=0.0083|Sup(+)=0.2745|Sup(-)=0.1339]
+{element=alto}->6 (6=13, outros=59)
+	[Qualidade=0.2167|Size=1|WRAcc=0.0104|Qg=0.22|DiffSup=0.1|Lift=1.53|Conf=0.1806|Cov=0.1667|Chi2=3.24|pValue=0.0718|Sup(+)=0.2549|Sup(-)=0.1549]
+{research=baixo}->6 (6=21, outros=106)
+	[Qualidade=0.1963|Size=1|WRAcc=0.0139|Qg=0.2|DiffSup=0.1335|Lift=1.4|Conf=0.1654|Cov=0.294|Chi2=3.87|pValue=0.0493|Sup(+)=0.4118|Sup(-)=0.2782]
+
+
+
+################################
+INVESTIGANDO: CLASSE = 80
+################################
+CLASSE = 80: 40 linhas (9.26%)
+DEMAIS CLASSES: 392 linhas (90.74%)
+
+### TOP-10 catacterísticas:
+{kaufmann publish inc.=alto}->80 (80=7, outros=2)
+	[Qualidade=2.3333|Size=1|WRAcc=0.0143|Qg=2.33|DiffSup=0.1699|Lift=8.4|Conf=0.7778|Cov=0.0208|Chi2=51.36|pValue=0|Sup(+)=0.175|Sup(-)=0.0051]
+{publish inc.=alto}->80 (80=7, outros=2)
+	[Qualidade=2.3333|Size=1|WRAcc=0.0143|Qg=2.33|DiffSup=0.1699|Lift=8.4|Conf=0.7778|Cov=0.0208|Chi2=51.36|pValue=0|Sup(+)=0.175|Sup(-)=0.0051]
+{druzdzel=alto}->80 (80=8, outros=3)
+	[Qualidade=2|Size=1|WRAcc=0.0162|Qg=2|DiffSup=0.1923|Lift=7.85|Conf=0.7273|Cov=0.0255|Chi2=54.12|pValue=0|Sup(+)=0.2|Sup(-)=0.0077]
+{univers pittsburgh=alto}->80 (80=8, outros=4)
+	[Qualidade=1.6|Size=1|WRAcc=0.0159|Qg=1.6|DiffSup=0.1898|Lift=7.2|Conf=0.6667|Cov=0.0278|Chi2=48.41|pValue=0|Sup(+)=0.2|Sup(-)=0.0102]
+{given network=alto}->80 (80=6, outros=3)
+	[Qualidade=1.5|Size=1|WRAcc=0.012|Qg=1.5|DiffSup=0.1423|Lift=7.2|Conf=0.6667|Cov=0.0208|Chi2=36.05|pValue=0|Sup(+)=0.15|Sup(-)=0.0077]
+{pittsburgh=alto}->80 (80=9, outros=5)
+	[Qualidade=1.5|Size=1|WRAcc=0.0178|Qg=1.5|DiffSup=0.2122|Lift=6.94|Conf=0.6429|Cov=0.0324|Chi2=52.14|pValue=0|Sup(+)=0.225|Sup(-)=0.0128]
+{darwich=alto}->80 (80=10, outros=6)
+	[Qualidade=1.4286|Size=1|WRAcc=0.0197|Qg=1.43|DiffSup=0.2347|Lift=6.75|Conf=0.625|Cov=0.037|Chi2=56.06|pValue=0|Sup(+)=0.25|Sup(-)=0.0153]
+{scienc depart univers=baixo}->80 (80=7, outros=4)
+	[Qualidade=1.4|Size=1|WRAcc=0.0138|Qg=1.4|DiffSup=0.1648|Lift=6.87|Conf=0.6364|Cov=0.0255|Chi2=39.72|pValue=0|Sup(+)=0.175|Sup(-)=0.0102]
+{node network=medio}->80 (80=9, outros=6)
+	[Qualidade=1.2857|Size=1|WRAcc=0.0176|Qg=1.29|DiffSup=0.2097|Lift=6.48|Conf=0.6|Cov=0.0347|Chi2=47.62|pValue=0|Sup(+)=0.225|Sup(-)=0.0153]
+{provid better=medio}->80 (80=5, outros=3)
+	[Qualidade=1.25|Size=1|WRAcc=0.0099|Qg=1.25|DiffSup=0.1173|Lift=6.75|Conf=0.625|Cov=0.0185|Chi2=27.5|pValue=0|Sup(+)=0.125|Sup(-)=0.0077]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 80: 70%
+{darwich=alto,moreov=alto}->80 (80=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0189|Qg=9|DiffSup=0.225|Lift=10.8|Conf=1|Cov=0.0208|Chi2=90.08|pValue=0|Sup(+)=0.225|Sup(-)=0]
+{kaufmann publish=alto,pearl=medio}->80 (80=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0168|Qg=8|DiffSup=0.2|Lift=10.8|Conf=1|Cov=0.0185|Chi2=79.88|pValue=0|Sup(+)=0.2|Sup(-)=0]
+{pittsburgh=alto,veri=alto}->80 (80=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0168|Qg=8|DiffSup=0.2|Lift=10.8|Conf=1|Cov=0.0185|Chi2=79.88|pValue=0|Sup(+)=0.2|Sup(-)=0]
+{druzdzel=alto,publish=alto}->80 (80=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0147|Qg=7|DiffSup=0.175|Lift=10.8|Conf=1|Cov=0.0162|Chi2=69.73|pValue=0|Sup(+)=0.175|Sup(-)=0]
+{univers pittsburgh=alto,veri=alto}->80 (80=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0147|Qg=7|DiffSup=0.175|Lift=10.8|Conf=1|Cov=0.0162|Chi2=69.73|pValue=0|Sup(+)=0.175|Sup(-)=0]
+{depart univers=baixo,moreov=alto}->80 (80=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0147|Qg=7|DiffSup=0.175|Lift=10.8|Conf=1|Cov=0.0162|Chi2=69.73|pValue=0|Sup(+)=0.175|Sup(-)=0]
+{morgan kaufmann publish=alto,pearl=medio}->80 (80=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0147|Qg=7|DiffSup=0.175|Lift=10.8|Conf=1|Cov=0.0162|Chi2=69.73|pValue=0|Sup(+)=0.175|Sup(-)=0]
+{druzdzel=alto,practic=alto}->80 (80=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0126|Qg=6|DiffSup=0.15|Lift=10.8|Conf=1|Cov=0.0139|Chi2=59.63|pValue=0|Sup(+)=0.15|Sup(-)=0]
+{network=alto,scienc depart univers=baixo}->80 (80=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0126|Qg=6|DiffSup=0.15|Lift=10.8|Conf=1|Cov=0.0139|Chi2=59.63|pValue=0|Sup(+)=0.15|Sup(-)=0]
+{druzdzel=alto,pittsburgh=alto}->80 (80=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0126|Qg=6|DiffSup=0.15|Lift=10.8|Conf=1|Cov=0.0139|Chi2=59.63|pValue=0|Sup(+)=0.15|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{druzdzel=alto}->80 (80=8, outros=3)
+	[Qualidade=2|Size=1|WRAcc=0.0162|Qg=2|DiffSup=0.1923|Lift=7.85|Conf=0.7273|Cov=0.0255|Chi2=54.12|pValue=0|Sup(+)=0.2|Sup(-)=0.0077]
+{univers pittsburgh=alto}->80 (80=8, outros=4)
+	[Qualidade=1.6|Size=1|WRAcc=0.0159|Qg=1.6|DiffSup=0.1898|Lift=7.2|Conf=0.6667|Cov=0.0278|Chi2=48.41|pValue=0|Sup(+)=0.2|Sup(-)=0.0102]
+{pittsburgh=alto}->80 (80=9, outros=5)
+	[Qualidade=1.5|Size=1|WRAcc=0.0178|Qg=1.5|DiffSup=0.2122|Lift=6.94|Conf=0.6429|Cov=0.0324|Chi2=52.14|pValue=0|Sup(+)=0.225|Sup(-)=0.0128]
+{darwich=alto}->80 (80=10, outros=6)
+	[Qualidade=1.4286|Size=1|WRAcc=0.0197|Qg=1.43|DiffSup=0.2347|Lift=6.75|Conf=0.625|Cov=0.037|Chi2=56.06|pValue=0|Sup(+)=0.25|Sup(-)=0.0153]
+{scienc depart univers=baixo}->80 (80=7, outros=4)
+	[Qualidade=1.4|Size=1|WRAcc=0.0138|Qg=1.4|DiffSup=0.1648|Lift=6.87|Conf=0.6364|Cov=0.0255|Chi2=39.72|pValue=0|Sup(+)=0.175|Sup(-)=0.0102]
+{depart univers=baixo}->80 (80=7, outros=5)
+	[Qualidade=1.1667|Size=1|WRAcc=0.0136|Qg=1.17|DiffSup=0.1622|Lift=6.3|Conf=0.5833|Cov=0.0278|Chi2=35.38|pValue=0|Sup(+)=0.175|Sup(-)=0.0128]
+{kaufmann publish=alto}->80 (80=11, outros=9)
+	[Qualidade=1.1|Size=1|WRAcc=0.0212|Qg=1.1|DiffSup=0.252|Lift=5.94|Conf=0.55|Cov=0.0463|Chi2=52.22|pValue=0|Sup(+)=0.275|Sup(-)=0.023]
+{morgan kaufmann publish=alto}->80 (80=10, outros=9)
+	[Qualidade=1|Size=1|WRAcc=0.0191|Qg=1|DiffSup=0.227|Lift=5.68|Conf=0.5263|Cov=0.044|Chi2=44.5|pValue=0|Sup(+)=0.25|Sup(-)=0.023]
+{publish=alto}->80 (80=14, outros=28)
+	[Qualidade=0.4828|Size=1|WRAcc=0.0234|Qg=0.48|DiffSup=0.2786|Lift=3.6|Conf=0.3333|Cov=0.0972|Chi2=32.09|pValue=0|Sup(+)=0.35|Sup(-)=0.0714]
+{pearl=medio}->80 (80=20, outros=47)
+	[Qualidade=0.4167|Size=1|WRAcc=0.0319|Qg=0.42|DiffSup=0.3801|Lift=3.22|Conf=0.2985|Cov=0.1551|Chi2=40.02|pValue=0|Sup(+)=0.5|Sup(-)=0.1199]
+{network=alto}->80 (80=26, outros=84)
+	[Qualidade=0.3059|Size=1|WRAcc=0.0366|Qg=0.31|DiffSup=0.4357|Lift=2.55|Conf=0.2364|Cov=0.2546|Chi2=36.31|pValue=0|Sup(+)=0.65|Sup(-)=0.2143]
+{moreov=alto}->80 (80=13, outros=46)
+	[Qualidade=0.2766|Size=1|WRAcc=0.0174|Qg=0.28|DiffSup=0.2077|Lift=2.38|Conf=0.2203|Cov=0.1366|Chi2=13.27|pValue=0.0003|Sup(+)=0.325|Sup(-)=0.1173]
+{practic=alto}->80 (80=16, outros=79)
+	[Qualidade=0.2|Size=1|WRAcc=0.0167|Qg=0.2|DiffSup=0.1985|Lift=1.82|Conf=0.1684|Cov=0.2199|Chi2=8.33|pValue=0.0039|Sup(+)=0.4|Sup(-)=0.2015]
+{veri=alto}->80 (80=15, outros=88)
+	[Qualidade=0.1685|Size=1|WRAcc=0.0126|Qg=0.17|DiffSup=0.1505|Lift=1.57|Conf=0.1456|Cov=0.2384|Chi2=4.53|pValue=0.0333|Sup(+)=0.375|Sup(-)=0.2245]
+
+
+
+################################
+INVESTIGANDO: CLASSE = 104
+################################
+CLASSE = 104: 66 linhas (15.28%)
+DEMAIS CLASSES: 366 linhas (84.72%)
+
+### TOP-10 catacterísticas:
+{toronto=alto}->104 (104=9, outros=0)
+	[Qualidade=9|Size=1|WRAcc=0.0177|Qg=9|DiffSup=0.1364|Lift=6.55|Conf=1|Cov=0.0208|Chi2=50.97|pValue=0|Sup(+)=0.1364|Sup(-)=0]
+{daphn=baixo}->104 (104=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0212|Qg=5.5|DiffSup=0.1639|Lift=6|Conf=0.9167|Cov=0.0278|Chi2=55.64|pValue=0|Sup(+)=0.1667|Sup(-)=0.0027]
+{daphn=alto}->104 (104=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0212|Qg=5.5|DiffSup=0.1639|Lift=6|Conf=0.9167|Cov=0.0278|Chi2=55.64|pValue=0|Sup(+)=0.1667|Sup(-)=0.0027]
+{daphn koller=baixo}->104 (104=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0212|Qg=5.5|DiffSup=0.1639|Lift=6|Conf=0.9167|Cov=0.0278|Chi2=55.64|pValue=0|Sup(+)=0.1667|Sup(-)=0.0027]
+{daphn koller=alto}->104 (104=10, outros=1)
+	[Qualidade=5|Size=1|WRAcc=0.0193|Qg=5|DiffSup=0.1488|Lift=5.95|Conf=0.9091|Cov=0.0255|Chi2=49.88|pValue=0|Sup(+)=0.1515|Sup(-)=0.0027]
+{particl=baixo}->104 (104=5, outros=0)
+	[Qualidade=5|Size=1|WRAcc=0.0098|Qg=5|DiffSup=0.0758|Lift=6.55|Conf=1|Cov=0.0116|Chi2=28.05|pValue=0|Sup(+)=0.0758|Sup(-)=0]
+{darpa=baixo}->104 (104=8, outros=1)
+	[Qualidade=4|Size=1|WRAcc=0.0153|Qg=4|DiffSup=0.1185|Lift=5.82|Conf=0.8889|Cov=0.0208|Chi2=38.48|pValue=0|Sup(+)=0.1212|Sup(-)=0.0027]
+{bacchus=alto}->104 (104=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0169|Qg=3|DiffSup=0.1309|Lift=5.36|Conf=0.8182|Cov=0.0255|Chi2=38.61|pValue=0|Sup(+)=0.1364|Sup(-)=0.0055]
+{discuss abov=baixo}->104 (104=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0169|Qg=3|DiffSup=0.1309|Lift=5.36|Conf=0.8182|Cov=0.0255|Chi2=38.61|pValue=0|Sup(+)=0.1364|Sup(-)=0.0055]
+{halpern=alto}->104 (104=8, outros=2)
+	[Qualidade=2.6667|Size=1|WRAcc=0.015|Qg=2.67|DiffSup=0.1157|Lift=5.24|Conf=0.8|Cov=0.0231|Chi2=33.13|pValue=0|Sup(+)=0.1212|Sup(-)=0.0055]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 104: 42.42%
+{toronto=alto}->104 (104=9, outros=0)
+	[Qualidade=9|Size=1|WRAcc=0.0177|Qg=9|DiffSup=0.1364|Lift=6.55|Conf=1|Cov=0.0208|Chi2=50.97|pValue=0|Sup(+)=0.1364|Sup(-)=0]
+{daphn koller=baixo,koller=alto}->104 (104=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0177|Qg=9|DiffSup=0.1364|Lift=6.55|Conf=1|Cov=0.0208|Chi2=50.97|pValue=0|Sup(+)=0.1364|Sup(-)=0]
+{koller=alto,stanford univers=medio}->104 (104=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0177|Qg=9|DiffSup=0.1364|Lift=6.55|Conf=1|Cov=0.0208|Chi2=50.97|pValue=0|Sup(+)=0.1364|Sup(-)=0]
+{koller=alto,stanford=medio}->104 (104=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0177|Qg=9|DiffSup=0.1364|Lift=6.55|Conf=1|Cov=0.0208|Chi2=50.97|pValue=0|Sup(+)=0.1364|Sup(-)=0]
+{daphn=baixo,signific=medio}->104 (104=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0157|Qg=8|DiffSup=0.1212|Lift=6.55|Conf=1|Cov=0.0185|Chi2=45.2|pValue=0|Sup(+)=0.1212|Sup(-)=0]
+{daphn=baixo,factor=alto}->104 (104=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0157|Qg=8|DiffSup=0.1212|Lift=6.55|Conf=1|Cov=0.0185|Chi2=45.2|pValue=0|Sup(+)=0.1212|Sup(-)=0]
+{futur=baixo,koller=alto}->104 (104=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0157|Qg=8|DiffSup=0.1212|Lift=6.55|Conf=1|Cov=0.0185|Chi2=45.2|pValue=0|Sup(+)=0.1212|Sup(-)=0]
+{distribut use=baixo,factor=alto}->104 (104=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0157|Qg=8|DiffSup=0.1212|Lift=6.55|Conf=1|Cov=0.0185|Chi2=45.2|pValue=0|Sup(+)=0.1212|Sup(-)=0]
+{daphn koller=baixo,stanford=medio}->104 (104=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0157|Qg=8|DiffSup=0.1212|Lift=6.55|Conf=1|Cov=0.0185|Chi2=45.2|pValue=0|Sup(+)=0.1212|Sup(-)=0]
+{koller=alto,test=alto}->104 (104=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0157|Qg=8|DiffSup=0.1212|Lift=6.55|Conf=1|Cov=0.0185|Chi2=45.2|pValue=0|Sup(+)=0.1212|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{toronto=alto}->104 (104=9, outros=0)
+	[Qualidade=9|Size=1|WRAcc=0.0177|Qg=9|DiffSup=0.1364|Lift=6.55|Conf=1|Cov=0.0208|Chi2=50.97|pValue=0|Sup(+)=0.1364|Sup(-)=0]
+{daphn=baixo}->104 (104=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0212|Qg=5.5|DiffSup=0.1639|Lift=6|Conf=0.9167|Cov=0.0278|Chi2=55.64|pValue=0|Sup(+)=0.1667|Sup(-)=0.0027]
+{daphn koller=baixo}->104 (104=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0212|Qg=5.5|DiffSup=0.1639|Lift=6|Conf=0.9167|Cov=0.0278|Chi2=55.64|pValue=0|Sup(+)=0.1667|Sup(-)=0.0027]
+{koller=alto}->104 (104=20, outros=12)
+	[Qualidade=1.5385|Size=1|WRAcc=0.035|Qg=1.54|DiffSup=0.2702|Lift=4.09|Conf=0.625|Cov=0.0741|Chi2=59.54|pValue=0|Sup(+)=0.303|Sup(-)=0.0328]
+{distribut use=baixo}->104 (104=11, outros=15)
+	[Qualidade=0.6875|Size=1|WRAcc=0.0163|Qg=0.69|DiffSup=0.1257|Lift=2.77|Conf=0.4231|Cov=0.0602|Chi2=15.62|pValue=0.0001|Sup(+)=0.1667|Sup(-)=0.041]
+{stanford univers=medio}->104 (104=12, outros=22)
+	[Qualidade=0.5217|Size=1|WRAcc=0.0158|Qg=0.52|DiffSup=0.1217|Lift=2.31|Conf=0.3529|Cov=0.0787|Chi2=11.42|pValue=0.0007|Sup(+)=0.1818|Sup(-)=0.0601]
+{stanford=medio}->104 (104=15, outros=29)
+	[Qualidade=0.5|Size=1|WRAcc=0.0192|Qg=0.5|DiffSup=0.148|Lift=2.23|Conf=0.3409|Cov=0.1019|Chi2=13.4|pValue=0.0003|Sup(+)=0.2273|Sup(-)=0.0792]
+{futur=baixo}->104 (104=23, outros=53)
+	[Qualidade=0.4259|Size=1|WRAcc=0.0264|Qg=0.43|DiffSup=0.2037|Lift=1.98|Conf=0.3026|Cov=0.1759|Chi2=16|pValue=0.0001|Sup(+)=0.3485|Sup(-)=0.1448]
+{factor=alto}->104 (104=25, outros=64)
+	[Qualidade=0.3846|Size=1|WRAcc=0.0264|Qg=0.38|DiffSup=0.2039|Lift=1.84|Conf=0.2809|Cov=0.206|Chi2=14.22|pValue=0.0002|Sup(+)=0.3788|Sup(-)=0.1749]
+{signific=medio}->104 (104=20, outros=65)
+	[Qualidade=0.303|Size=1|WRAcc=0.0162|Qg=0.3|DiffSup=0.1254|Lift=1.54|Conf=0.2353|Cov=0.1968|Chi2=5.57|pValue=0.0183|Sup(+)=0.303|Sup(-)=0.1776]
+{test=alto}->104 (104=14, outros=75)
+	[Qualidade=0.1842|Size=1|WRAcc=0.0009|Qg=0.18|DiffSup=0.0072|Lift=1.03|Conf=0.1573|Cov=0.206|Chi2=0.02|pValue=0.8941|Sup(+)=0.2121|Sup(-)=0.2049]
+
+
+
+################################
+INVESTIGANDO: CLASSE = 116
+################################
+CLASSE = 116: 32 linhas (7.41%)
+DEMAIS CLASSES: 400 linhas (92.59%)
+
+### TOP-10 catacterísticas:
+{fuzzi set=alto}->116 (116=10, outros=0)
+	[Qualidade=10|Size=1|WRAcc=0.0214|Qg=10|DiffSup=0.3125|Lift=13.5|Conf=1|Cov=0.0231|Chi2=127.96|pValue=0|Sup(+)=0.3125|Sup(-)=0]
+{fuzzi=alto}->116 (116=16, outros=1)
+	[Qualidade=8|Size=1|WRAcc=0.0341|Qg=8|DiffSup=0.4975|Lift=12.71|Conf=0.9412|Cov=0.0394|Chi2=193.99|pValue=0|Sup(+)=0.5|Sup(-)=0.0025]
+{duboi=alto}->116 (116=11, outros=3)
+	[Qualidade=2.75|Size=1|WRAcc=0.0231|Qg=2.75|DiffSup=0.3362|Lift=10.61|Conf=0.7857|Cov=0.0324|Chi2=106.84|pValue=0|Sup(+)=0.3438|Sup(-)=0.0075]
+{natur languag=alto}->116 (116=8, outros=2)
+	[Qualidade=2.6667|Size=1|WRAcc=0.0168|Qg=2.67|DiffSup=0.245|Lift=10.8|Conf=0.8|Cov=0.0231|Chi2=78.65|pValue=0|Sup(+)=0.25|Sup(-)=0.005]
+{inform retriev=alto}->116 (116=5, outros=1)
+	[Qualidade=2.5|Size=1|WRAcc=0.0105|Qg=2.5|DiffSup=0.1537|Lift=11.25|Conf=0.8333|Cov=0.0139|Chi2=51.14|pValue=0|Sup(+)=0.1563|Sup(-)=0.0025]
+{prade=alto}->116 (116=10, outros=3)
+	[Qualidade=2.5|Size=1|WRAcc=0.0209|Qg=2.5|DiffSup=0.305|Lift=10.38|Conf=0.7692|Cov=0.0301|Chi2=94.44|pValue=0|Sup(+)=0.3125|Sup(-)=0.0075]
+{fuzzi set=medio}->116 (116=7, outros=2)
+	[Qualidade=2.3333|Size=1|WRAcc=0.0147|Qg=2.33|DiffSup=0.2137|Lift=10.5|Conf=0.7778|Cov=0.0208|Chi2=66.36|pValue=0|Sup(+)=0.2188|Sup(-)=0.005]
+{duboi prade=alto}->116 (116=8, outros=3)
+	[Qualidade=2|Size=1|WRAcc=0.0166|Qg=2|DiffSup=0.2425|Lift=9.82|Conf=0.7273|Cov=0.0255|Chi2=70.22|pValue=0|Sup(+)=0.25|Sup(-)=0.0075]
+{lang=medio}->116 (116=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0125|Qg=2|DiffSup=0.1825|Lift=10.13|Conf=0.75|Cov=0.0185|Chi2=54.3|pValue=0|Sup(+)=0.1875|Sup(-)=0.005]
+{linguist=alto}->116 (116=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0125|Qg=2|DiffSup=0.1825|Lift=10.13|Conf=0.75|Cov=0.0185|Chi2=54.3|pValue=0|Sup(+)=0.1875|Sup(-)=0.005]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 116: 53.13%
+{fuzzi=alto,theori=alto}->116 (116=13, outros=0)
+	[Qualidade=13|Size=2|WRAcc=0.0279|Qg=13|DiffSup=0.4063|Lift=13.5|Conf=1|Cov=0.0301|Chi2=167.54|pValue=0|Sup(+)=0.4063|Sup(-)=0]
+{fuzzi=alto,order=medio}->116 (116=12, outros=0)
+	[Qualidade=12|Size=2|WRAcc=0.0257|Qg=12|DiffSup=0.375|Lift=13.5|Conf=1|Cov=0.0278|Chi2=154.29|pValue=0|Sup(+)=0.375|Sup(-)=0]
+{fuzzi=alto,interpret=alto}->116 (116=11, outros=0)
+	[Qualidade=11|Size=2|WRAcc=0.0236|Qg=11|DiffSup=0.3438|Lift=13.5|Conf=1|Cov=0.0255|Chi2=141.09|pValue=0|Sup(+)=0.3438|Sup(-)=0]
+{fuzzi=alto,inform=alto}->116 (116=11, outros=0)
+	[Qualidade=11|Size=2|WRAcc=0.0236|Qg=11|DiffSup=0.3438|Lift=13.5|Conf=1|Cov=0.0255|Chi2=141.09|pValue=0|Sup(+)=0.3438|Sup(-)=0]
+{fuzzi set=alto}->116 (116=10, outros=0)
+	[Qualidade=10|Size=1|WRAcc=0.0214|Qg=10|DiffSup=0.3125|Lift=13.5|Conf=1|Cov=0.0231|Chi2=127.96|pValue=0|Sup(+)=0.3125|Sup(-)=0]
+{fuzzi=alto,languag=alto}->116 (116=10, outros=0)
+	[Qualidade=10|Size=2|WRAcc=0.0214|Qg=10|DiffSup=0.3125|Lift=13.5|Conf=1|Cov=0.0231|Chi2=127.96|pValue=0|Sup(+)=0.3125|Sup(-)=0]
+{fuzzi=alto,word=alto}->116 (116=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0193|Qg=9|DiffSup=0.2813|Lift=13.5|Conf=1|Cov=0.0208|Chi2=114.89|pValue=0|Sup(+)=0.2813|Sup(-)=0]
+{fuzzi=alto,user=alto}->116 (116=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0193|Qg=9|DiffSup=0.2813|Lift=13.5|Conf=1|Cov=0.0208|Chi2=114.89|pValue=0|Sup(+)=0.2813|Sup(-)=0]
+{fuzzi=alto,match=alto}->116 (116=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0193|Qg=9|DiffSup=0.2813|Lift=13.5|Conf=1|Cov=0.0208|Chi2=114.89|pValue=0|Sup(+)=0.2813|Sup(-)=0]
+{data=medio,fuzzi=alto}->116 (116=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0193|Qg=9|DiffSup=0.2813|Lift=13.5|Conf=1|Cov=0.0208|Chi2=114.89|pValue=0|Sup(+)=0.2813|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{fuzzi set=alto}->116 (116=10, outros=0)
+	[Qualidade=10|Size=1|WRAcc=0.0214|Qg=10|DiffSup=0.3125|Lift=13.5|Conf=1|Cov=0.0231|Chi2=127.96|pValue=0|Sup(+)=0.3125|Sup(-)=0]
+{fuzzi=alto}->116 (116=16, outros=1)
+	[Qualidade=8|Size=1|WRAcc=0.0341|Qg=8|DiffSup=0.4975|Lift=12.71|Conf=0.9412|Cov=0.0394|Chi2=193.99|pValue=0|Sup(+)=0.5|Sup(-)=0.0025]
+{interpret=alto}->116 (116=20, outros=52)
+	[Qualidade=0.3774|Size=1|WRAcc=0.034|Qg=0.38|DiffSup=0.495|Lift=3.75|Conf=0.2778|Cov=0.1667|Chi2=52.27|pValue=0|Sup(+)=0.625|Sup(-)=0.13]
+{match=alto}->116 (116=10, outros=26)
+	[Qualidade=0.3704|Size=1|WRAcc=0.017|Qg=0.37|DiffSup=0.2475|Lift=3.75|Conf=0.2778|Cov=0.0833|Chi2=23.76|pValue=0|Sup(+)=0.3125|Sup(-)=0.065]
+{user=alto}->116 (116=11, outros=30)
+	[Qualidade=0.3548|Size=1|WRAcc=0.0184|Qg=0.35|DiffSup=0.2687|Lift=3.62|Conf=0.2683|Cov=0.0949|Chi2=24.91|pValue=0|Sup(+)=0.3438|Sup(-)=0.075]
+{languag=alto}->116 (116=12, outros=34)
+	[Qualidade=0.3429|Size=1|WRAcc=0.0199|Qg=0.34|DiffSup=0.29|Lift=3.52|Conf=0.2609|Cov=0.1065|Chi2=26.19|pValue=0|Sup(+)=0.375|Sup(-)=0.085]
+{word=alto}->116 (116=13, outros=47)
+	[Qualidade=0.2708|Size=1|WRAcc=0.0198|Qg=0.27|DiffSup=0.2888|Lift=2.92|Conf=0.2167|Cov=0.1389|Chi2=20.66|pValue=0|Sup(+)=0.4063|Sup(-)=0.1175]
+{theori=alto}->116 (116=20, outros=81)
+	[Qualidade=0.2439|Size=1|WRAcc=0.029|Qg=0.24|DiffSup=0.4225|Lift=2.67|Conf=0.198|Cov=0.2338|Chi2=29.53|pValue=0|Sup(+)=0.625|Sup(-)=0.2025]
+{inform=alto}->116 (116=19, outros=110)
+	[Qualidade=0.1712|Size=1|WRAcc=0.0219|Qg=0.17|DiffSup=0.3187|Lift=1.99|Conf=0.1473|Cov=0.2986|Chi2=14.37|pValue=0.0001|Sup(+)=0.5938|Sup(-)=0.275]
+{data=medio}->116 (116=13, outros=78)
+	[Qualidade=0.1646|Size=1|WRAcc=0.0145|Qg=0.16|DiffSup=0.2112|Lift=1.93|Conf=0.1429|Cov=0.2106|Chi2=7.95|pValue=0.0048|Sup(+)=0.4063|Sup(-)=0.195]
+{order=medio}->116 (116=15, outros=111)
+	[Qualidade=0.1339|Size=1|WRAcc=0.0131|Qg=0.13|DiffSup=0.1912|Lift=1.61|Conf=0.119|Cov=0.2917|Chi2=5.25|pValue=0.022|Sup(+)=0.4688|Sup(-)=0.2775]
+
+
+
+################################
+INVESTIGANDO: CLASSE = 134
+################################
+CLASSE = 134: 50 linhas (11.57%)
+DEMAIS CLASSES: 382 linhas (88.43%)
+
+### TOP-10 catacterísticas:
+{algorithm improv=baixo}->134 (134=6, outros=1)
+	[Qualidade=3|Size=1|WRAcc=0.012|Qg=3|DiffSup=0.1174|Lift=7.41|Conf=0.8571|Cov=0.0162|Chi2=38.22|pValue=0|Sup(+)=0.12|Sup(-)=0.0026]
+{shimoni=alto}->134 (134=7, outros=2)
+	[Qualidade=2.3333|Size=1|WRAcc=0.0138|Qg=2.33|DiffSup=0.1348|Lift=6.72|Conf=0.7778|Cov=0.0208|Chi2=39.36|pValue=0|Sup(+)=0.14|Sup(-)=0.0052]
+{case possibl=baixo}->134 (134=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0117|Qg=2|DiffSup=0.1148|Lift=6.48|Conf=0.75|Cov=0.0185|Chi2=32.04|pValue=0|Sup(+)=0.12|Sup(-)=0.0052]
+{expect reward=baixo}->134 (134=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0117|Qg=2|DiffSup=0.1148|Lift=6.48|Conf=0.75|Cov=0.0185|Chi2=32.04|pValue=0|Sup(+)=0.12|Sup(-)=0.0052]
+{observ markov=medio}->134 (134=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0117|Qg=2|DiffSup=0.1148|Lift=6.48|Conf=0.75|Cov=0.0185|Chi2=32.04|pValue=0|Sup(+)=0.12|Sup(-)=0.0052]
+{program use=baixo}->134 (134=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0117|Qg=2|DiffSup=0.1148|Lift=6.48|Conf=0.75|Cov=0.0185|Chi2=32.04|pValue=0|Sup(+)=0.12|Sup(-)=0.0052]
+{program use=alto}->134 (134=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0117|Qg=2|DiffSup=0.1148|Lift=6.48|Conf=0.75|Cov=0.0185|Chi2=32.04|pValue=0|Sup(+)=0.12|Sup(-)=0.0052]
+{result demonstr=baixo}->134 (134=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0117|Qg=2|DiffSup=0.1148|Lift=6.48|Conf=0.75|Cov=0.0185|Chi2=32.04|pValue=0|Sup(+)=0.12|Sup(-)=0.0052]
+{shimoni=medio}->134 (134=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0117|Qg=2|DiffSup=0.1148|Lift=6.48|Conf=0.75|Cov=0.0185|Chi2=32.04|pValue=0|Sup(+)=0.12|Sup(-)=0.0052]
+{suffici statist=baixo}->134 (134=7, outros=3)
+	[Qualidade=1.75|Size=1|WRAcc=0.0135|Qg=1.75|DiffSup=0.1321|Lift=6.05|Conf=0.7|Cov=0.0231|Chi2=34.14|pValue=0|Sup(+)=0.14|Sup(-)=0.0079]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 134: 44%
+{expect valu=baixo,partial=alto}->134 (134=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0184|Qg=9|DiffSup=0.18|Lift=8.64|Conf=1|Cov=0.0208|Chi2=70.22|pValue=0|Sup(+)=0.18|Sup(-)=0]
+{optim=alto,thing=baixo}->134 (134=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0184|Qg=9|DiffSup=0.18|Lift=8.64|Conf=1|Cov=0.0208|Chi2=70.22|pValue=0|Sup(+)=0.18|Sup(-)=0]
+{acknowledg=baixo,limit=alto,solut=alto}->134 (134=9, outros=0)
+	[Qualidade=9|Size=3|WRAcc=0.0184|Qg=9|DiffSup=0.18|Lift=8.64|Conf=1|Cov=0.0208|Chi2=70.22|pValue=0|Sup(+)=0.18|Sup(-)=0]
+{limit=alto,optim=alto,use ani=baixo}->134 (134=8, outros=0)
+	[Qualidade=8|Size=3|WRAcc=0.0164|Qg=8|DiffSup=0.16|Lift=8.64|Conf=1|Cov=0.0185|Chi2=62.27|pValue=0|Sup(+)=0.16|Sup(-)=0]
+{bound=alto,use ani=baixo}->134 (134=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.14|Lift=8.64|Conf=1|Cov=0.0162|Chi2=54.36|pValue=0|Sup(+)=0.14|Sup(-)=0]
+{journal artifici=alto,solut=alto}->134 (134=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.14|Lift=8.64|Conf=1|Cov=0.0162|Chi2=54.36|pValue=0|Sup(+)=0.14|Sup(-)=0]
+{achiev=alto,reward function=baixo}->134 (134=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.14|Lift=8.64|Conf=1|Cov=0.0162|Chi2=54.36|pValue=0|Sup(+)=0.14|Sup(-)=0]
+{journal artifici intellig=alto,solv=alto}->134 (134=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.14|Lift=8.64|Conf=1|Cov=0.0162|Chi2=54.36|pValue=0|Sup(+)=0.14|Sup(-)=0]
+{earli=baixo,use ani=baixo}->134 (134=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.14|Lift=8.64|Conf=1|Cov=0.0162|Chi2=54.36|pValue=0|Sup(+)=0.14|Sup(-)=0]
+{polici=alto,thing=baixo}->134 (134=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0143|Qg=7|DiffSup=0.14|Lift=8.64|Conf=1|Cov=0.0162|Chi2=54.36|pValue=0|Sup(+)=0.14|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{reward function=baixo}->134 (134=8, outros=6)
+	[Qualidade=1.1429|Size=1|WRAcc=0.0148|Qg=1.14|DiffSup=0.1443|Lift=4.94|Conf=0.5714|Cov=0.0324|Chi2=29.36|pValue=0|Sup(+)=0.16|Sup(-)=0.0157]
+{journal artifici intellig=alto}->134 (134=8, outros=7)
+	[Qualidade=1|Size=1|WRAcc=0.0145|Qg=1|DiffSup=0.1417|Lift=4.61|Conf=0.5333|Cov=0.0347|Chi2=26.48|pValue=0|Sup(+)=0.16|Sup(-)=0.0183]
+{use ani=baixo}->134 (134=9, outros=9)
+	[Qualidade=0.9|Size=1|WRAcc=0.016|Qg=0.9|DiffSup=0.1564|Lift=4.32|Conf=0.5|Cov=0.0417|Chi2=27.1|pValue=0|Sup(+)=0.18|Sup(-)=0.0236]
+{journal artifici=alto}->134 (134=8, outros=8)
+	[Qualidade=0.8889|Size=1|WRAcc=0.0142|Qg=0.89|DiffSup=0.1391|Lift=4.32|Conf=0.5|Cov=0.037|Chi2=23.97|pValue=0|Sup(+)=0.16|Sup(-)=0.0209]
+{thing=baixo}->134 (134=10, outros=12)
+	[Qualidade=0.7692|Size=1|WRAcc=0.0173|Qg=0.77|DiffSup=0.1686|Lift=3.93|Conf=0.4545|Cov=0.0509|Chi2=26|pValue=0|Sup(+)=0.2|Sup(-)=0.0314]
+{expect valu=baixo}->134 (134=12, outros=18)
+	[Qualidade=0.6316|Size=1|WRAcc=0.0197|Qg=0.63|DiffSup=0.1929|Lift=3.46|Conf=0.4|Cov=0.0694|Chi2=25.45|pValue=0|Sup(+)=0.24|Sup(-)=0.0471]
+{earli=baixo}->134 (134=9, outros=16)
+	[Qualidade=0.5294|Size=1|WRAcc=0.0141|Qg=0.53|DiffSup=0.1381|Lift=3.11|Conf=0.36|Cov=0.0579|Chi2=15.47|pValue=0.0001|Sup(+)=0.18|Sup(-)=0.0419]
+{polici=alto}->134 (134=15, outros=29)
+	[Qualidade=0.5|Size=1|WRAcc=0.0229|Qg=0.5|DiffSup=0.2241|Lift=2.95|Conf=0.3409|Cov=0.1019|Chi2=24.27|pValue=0|Sup(+)=0.3|Sup(-)=0.0759]
+{solut=alto}->134 (134=25, outros=63)
+	[Qualidade=0.3906|Size=1|WRAcc=0.0343|Qg=0.39|DiffSup=0.3351|Lift=2.45|Conf=0.2841|Cov=0.2037|Chi2=30.6|pValue=0|Sup(+)=0.5|Sup(-)=0.1649]
+{solv=alto}->134 (134=23, outros=63)
+	[Qualidade=0.3594|Size=1|WRAcc=0.0302|Qg=0.36|DiffSup=0.2951|Lift=2.31|Conf=0.2674|Cov=0.1991|Chi2=24.14|pValue=0|Sup(+)=0.46|Sup(-)=0.1649]
+{partial=alto}->134 (134=22, outros=62)
+	[Qualidade=0.3492|Size=1|WRAcc=0.0284|Qg=0.35|DiffSup=0.2777|Lift=2.26|Conf=0.2619|Cov=0.1944|Chi2=21.77|pValue=0|Sup(+)=0.44|Sup(-)=0.1623]
+{bound=alto}->134 (134=21, outros=62)
+	[Qualidade=0.3333|Size=1|WRAcc=0.0264|Qg=0.33|DiffSup=0.2577|Lift=2.19|Conf=0.253|Cov=0.1921|Chi2=18.92|pValue=0|Sup(+)=0.42|Sup(-)=0.1623]
+{optim=alto}->134 (134=21, outros=73)
+	[Qualidade=0.2838|Size=1|WRAcc=0.0234|Qg=0.28|DiffSup=0.2289|Lift=1.93|Conf=0.2234|Cov=0.2176|Chi2=13.61|pValue=0.0002|Sup(+)=0.42|Sup(-)=0.1911]
+{limit=alto}->134 (134=18, outros=73)
+	[Qualidade=0.2432|Size=1|WRAcc=0.0173|Qg=0.24|DiffSup=0.1689|Lift=1.71|Conf=0.1978|Cov=0.2106|Chi2=7.59|pValue=0.0059|Sup(+)=0.36|Sup(-)=0.1911]
+{achiev=alto}->134 (134=14, outros=57)
+	[Qualidade=0.2414|Size=1|WRAcc=0.0134|Qg=0.24|DiffSup=0.1308|Lift=1.7|Conf=0.1972|Cov=0.1644|Chi2=5.51|pValue=0.0189|Sup(+)=0.28|Sup(-)=0.1492]
+{acknowledg=baixo}->134 (134=16, outros=84)
+	[Qualidade=0.1882|Size=1|WRAcc=0.0102|Qg=0.19|DiffSup=0.1001|Lift=1.38|Conf=0.16|Cov=0.2315|Chi2=2.49|pValue=0.1145|Sup(+)=0.32|Sup(-)=0.2199]
+
+
+
+################################
+INVESTIGANDO: CLASSE = 145
+################################
+CLASSE = 145: 19 linhas (4.4%)
+DEMAIS CLASSES: 413 linhas (95.6%)
+
+### TOP-10 catacterísticas:
+{alberta=alto}->145 (145=8, outros=0)
+	[Qualidade=8|Size=1|WRAcc=0.0177|Qg=8|DiffSup=0.4211|Lift=22.74|Conf=1|Cov=0.0185|Chi2=177.18|pValue=0|Sup(+)=0.4211|Sup(-)=0]
+{univers alberta=alto}->145 (145=7, outros=1)
+	[Qualidade=3.5|Size=1|WRAcc=0.0154|Qg=3.5|DiffSup=0.366|Lift=19.89|Conf=0.875|Cov=0.0185|Chi2=133.87|pValue=0|Sup(+)=0.3684|Sup(-)=0.0024]
+{alberta=medio}->145 (145=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0131|Qg=2|DiffSup=0.3109|Lift=17.05|Conf=0.75|Cov=0.0185|Chi2=96.63|pValue=0|Sup(+)=0.3158|Sup(-)=0.0048]
+{univers alberta=baixo}->145 (145=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0131|Qg=2|DiffSup=0.3109|Lift=17.05|Conf=0.75|Cov=0.0185|Chi2=96.63|pValue=0|Sup(+)=0.3158|Sup(-)=0.0048]
+{sutton=alto}->145 (145=5, outros=2)
+	[Qualidade=1.6667|Size=1|WRAcc=0.0109|Qg=1.67|DiffSup=0.2583|Lift=16.24|Conf=0.7143|Cov=0.0162|Chi2=76.03|pValue=0|Sup(+)=0.2632|Sup(-)=0.0048]
+{univers alberta=medio}->145 (145=5, outros=2)
+	[Qualidade=1.6667|Size=1|WRAcc=0.0109|Qg=1.67|DiffSup=0.2583|Lift=16.24|Conf=0.7143|Cov=0.0162|Chi2=76.03|pValue=0|Sup(+)=0.2632|Sup(-)=0.0048]
+{bandit=baixo}->145 (145=3, outros=2)
+	[Qualidade=1|Size=1|WRAcc=0.0064|Qg=1|DiffSup=0.1531|Lift=13.64|Conf=0.6|Cov=0.0116|Chi2=37.19|pValue=0|Sup(+)=0.1579|Sup(-)=0.0048]
+{error bar=alto}->145 (145=4, outros=3)
+	[Qualidade=1|Size=1|WRAcc=0.0085|Qg=1|DiffSup=0.2033|Lift=12.99|Conf=0.5714|Cov=0.0162|Chi2=47.08|pValue=0|Sup(+)=0.2105|Sup(-)=0.0073]
+{jun=baixo}->145 (145=2, outros=1)
+	[Qualidade=1|Size=1|WRAcc=0.0043|Qg=1|DiffSup=0.1028|Lift=15.16|Conf=0.6667|Cov=0.0069|Chi2=27.86|pValue=0|Sup(+)=0.1053|Sup(-)=0.0024]
+{nserc=alto}->145 (145=7, outros=6)
+	[Qualidade=1|Size=1|WRAcc=0.0149|Qg=1|DiffSup=0.3539|Lift=12.24|Conf=0.5385|Cov=0.0301|Chi2=77.94|pValue=0|Sup(+)=0.3684|Sup(-)=0.0145]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 145: 84.21%
+{alberta=alto}->145 (145=8, outros=0)
+	[Qualidade=8|Size=1|WRAcc=0.0177|Qg=8|DiffSup=0.4211|Lift=22.74|Conf=1|Cov=0.0185|Chi2=177.18|pValue=0|Sup(+)=0.4211|Sup(-)=0]
+{approxim=alto,univers alberta=alto}->145 (145=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0155|Qg=7|DiffSup=0.3684|Lift=22.74|Conf=1|Cov=0.0162|Chi2=154.66|pValue=0|Sup(+)=0.3684|Sup(-)=0]
+{linear=alto,machin learn=alto,stochast=alto}->145 (145=7, outros=0)
+	[Qualidade=7|Size=3|WRAcc=0.0155|Qg=7|DiffSup=0.3684|Lift=22.74|Conf=1|Cov=0.0162|Chi2=154.66|pValue=0|Sup(+)=0.3684|Sup(-)=0]
+{empir=alto,machin learn=alto,stochast=alto}->145 (145=7, outros=0)
+	[Qualidade=7|Size=3|WRAcc=0.0155|Qg=7|DiffSup=0.3684|Lift=22.74|Conf=1|Cov=0.0162|Chi2=154.66|pValue=0|Sup(+)=0.3684|Sup(-)=0]
+{data=medio,empir=alto,machin learn=alto}->145 (145=7, outros=0)
+	[Qualidade=7|Size=3|WRAcc=0.0155|Qg=7|DiffSup=0.3684|Lift=22.74|Conf=1|Cov=0.0162|Chi2=154.66|pValue=0|Sup(+)=0.3684|Sup(-)=0]
+{data=medio,machin learn=alto,stochast=alto}->145 (145=6, outros=0)
+	[Qualidade=6|Size=3|WRAcc=0.0133|Qg=6|DiffSup=0.3158|Lift=22.74|Conf=1|Cov=0.0139|Chi2=132.26|pValue=0|Sup(+)=0.3158|Sup(-)=0]
+{empir=alto,exploit=medio,let=alto}->145 (145=6, outros=0)
+	[Qualidade=6|Size=3|WRAcc=0.0133|Qg=6|DiffSup=0.3158|Lift=22.74|Conf=1|Cov=0.0139|Chi2=132.26|pValue=0|Sup(+)=0.3158|Sup(-)=0]
+{advanc neural inform=alto,proceed intern=alto}->145 (145=6, outros=0)
+	[Qualidade=6|Size=2|WRAcc=0.0133|Qg=6|DiffSup=0.3158|Lift=22.74|Conf=1|Cov=0.0139|Chi2=132.26|pValue=0|Sup(+)=0.3158|Sup(-)=0]
+{linear=alto,loss=alto,stochast=alto}->145 (145=6, outros=0)
+	[Qualidade=6|Size=3|WRAcc=0.0133|Qg=6|DiffSup=0.3158|Lift=22.74|Conf=1|Cov=0.0139|Chi2=132.26|pValue=0|Sup(+)=0.3158|Sup(-)=0]
+{loss=alto,scale=alto,stochast=alto}->145 (145=6, outros=0)
+	[Qualidade=6|Size=3|WRAcc=0.0133|Qg=6|DiffSup=0.3158|Lift=22.74|Conf=1|Cov=0.0139|Chi2=132.26|pValue=0|Sup(+)=0.3158|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{alberta=alto}->145 (145=8, outros=0)
+	[Qualidade=8|Size=1|WRAcc=0.0177|Qg=8|DiffSup=0.4211|Lift=22.74|Conf=1|Cov=0.0185|Chi2=177.18|pValue=0|Sup(+)=0.4211|Sup(-)=0]
+{univers alberta=alto}->145 (145=7, outros=1)
+	[Qualidade=3.5|Size=1|WRAcc=0.0154|Qg=3.5|DiffSup=0.366|Lift=19.89|Conf=0.875|Cov=0.0185|Chi2=133.87|pValue=0|Sup(+)=0.3684|Sup(-)=0.0024]
+{advanc neural inform=alto}->145 (145=6, outros=6)
+	[Qualidade=0.8571|Size=1|WRAcc=0.0127|Qg=0.86|DiffSup=0.3013|Lift=11.37|Conf=0.5|Cov=0.0278|Chi2=61.04|pValue=0|Sup(+)=0.3158|Sup(-)=0.0145]
+{machin learn=alto}->145 (145=11, outros=32)
+	[Qualidade=0.3333|Size=1|WRAcc=0.0211|Qg=0.33|DiffSup=0.5015|Lift=5.82|Conf=0.2558|Cov=0.0995|Chi2=50.96|pValue=0|Sup(+)=0.5789|Sup(-)=0.0775]
+{proceed intern=alto}->145 (145=7, outros=20)
+	[Qualidade=0.3333|Size=1|WRAcc=0.0135|Qg=0.33|DiffSup=0.32|Lift=5.89|Conf=0.2593|Cov=0.0625|Chi2=31.74|pValue=0|Sup(+)=0.3684|Sup(-)=0.0484]
+{stochast=alto}->145 (145=11, outros=41)
+	[Qualidade=0.2619|Size=1|WRAcc=0.0202|Qg=0.26|DiffSup=0.4797|Lift=4.81|Conf=0.2115|Cov=0.1204|Chi2=39.47|pValue=0|Sup(+)=0.5789|Sup(-)=0.0993]
+{loss=alto}->145 (145=8, outros=37)
+	[Qualidade=0.2105|Size=1|WRAcc=0.0139|Qg=0.21|DiffSup=0.3315|Lift=4.04|Conf=0.1778|Cov=0.1042|Chi2=21.39|pValue=0|Sup(+)=0.4211|Sup(-)=0.0896]
+{empir=alto}->145 (145=11, outros=56)
+	[Qualidade=0.193|Size=1|WRAcc=0.0186|Qg=0.19|DiffSup=0.4434|Lift=3.73|Conf=0.1642|Cov=0.1551|Chi2=27.25|pValue=0|Sup(+)=0.5789|Sup(-)=0.1356]
+{scale=alto}->145 (145=7, outros=38)
+	[Qualidade=0.1795|Size=1|WRAcc=0.0116|Qg=0.18|DiffSup=0.2764|Lift=3.54|Conf=0.1556|Cov=0.1042|Chi2=14.87|pValue=0.0001|Sup(+)=0.3684|Sup(-)=0.092]
+{data=medio}->145 (145=10, outros=81)
+	[Qualidade=0.122|Size=1|WRAcc=0.0139|Qg=0.12|DiffSup=0.3302|Lift=2.5|Conf=0.1099|Cov=0.2106|Chi2=11.91|pValue=0.0006|Sup(+)=0.5263|Sup(-)=0.1961]
+{linear=alto}->145 (145=9, outros=75)
+	[Qualidade=0.1184|Size=1|WRAcc=0.0123|Qg=0.12|DiffSup=0.2921|Lift=2.44|Conf=0.1071|Cov=0.1944|Chi2=9.89|pValue=0.0017|Sup(+)=0.4737|Sup(-)=0.1816]
+{approxim=alto}->145 (145=11, outros=94)
+	[Qualidade=0.1158|Size=1|WRAcc=0.0148|Qg=0.12|DiffSup=0.3513|Lift=2.38|Conf=0.1048|Cov=0.2431|Chi2=12.19|pValue=0.0005|Sup(+)=0.5789|Sup(-)=0.2276]
+{exploit=medio}->145 (145=6, outros=55)
+	[Qualidade=0.1071|Size=1|WRAcc=0.0077|Qg=0.11|DiffSup=0.1826|Lift=2.24|Conf=0.0984|Cov=0.1412|Chi2=5|pValue=0.0254|Sup(+)=0.3158|Sup(-)=0.1332]
+{let=alto}->145 (145=11, outros=114)
+	[Qualidade=0.0957|Size=1|WRAcc=0.0127|Qg=0.1|DiffSup=0.3029|Lift=2|Conf=0.088|Cov=0.2894|Chi2=8.11|pValue=0.0044|Sup(+)=0.5789|Sup(-)=0.276]
+
+
+
+################################
+INVESTIGANDO: CLASSE = 151
+################################
+CLASSE = 151: 19 linhas (4.4%)
+DEMAIS CLASSES: 413 linhas (95.6%)
+
+### TOP-10 catacterísticas:
+{dechter=alto}->151 (151=13, outros=3)
+	[Qualidade=3.25|Size=1|WRAcc=0.0285|Qg=3.25|DiffSup=0.6769|Lift=18.47|Conf=0.8125|Cov=0.037|Chi2=233.39|pValue=0|Sup(+)=0.6842|Sup(-)=0.0073]
+{bucket=alto}->151 (151=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0197|Qg=3|DiffSup=0.4688|Lift=18.6|Conf=0.8182|Cov=0.0255|Chi2=160.9|pValue=0|Sup(+)=0.4737|Sup(-)=0.0048]
+{irvin=baixo}->151 (151=6, outros=1)
+	[Qualidade=3|Size=1|WRAcc=0.0132|Qg=3|DiffSup=0.3134|Lift=19.49|Conf=0.8571|Cov=0.0162|Chi2=111.89|pValue=0|Sup(+)=0.3158|Sup(-)=0.0024]
+{irvin=alto}->151 (151=5, outros=1)
+	[Qualidade=2.5|Size=1|WRAcc=0.011|Qg=2.5|DiffSup=0.2607|Lift=18.95|Conf=0.8333|Cov=0.0139|Chi2=90.16|pValue=0|Sup(+)=0.2632|Sup(-)=0.0024]
+{domain size=medio}->151 (151=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0131|Qg=2|DiffSup=0.3109|Lift=17.05|Conf=0.75|Cov=0.0185|Chi2=96.63|pValue=0|Sup(+)=0.3158|Sup(-)=0.0048]
+{award=medio}->151 (151=4, outros=2)
+	[Qualidade=1.3333|Size=1|WRAcc=0.0086|Qg=1.33|DiffSup=0.2057|Lift=15.16|Conf=0.6667|Cov=0.0139|Chi2=56.11|pValue=0|Sup(+)=0.2105|Sup(-)=0.0048]
+{mont carlo method=baixo}->151 (151=4, outros=2)
+	[Qualidade=1.3333|Size=1|WRAcc=0.0086|Qg=1.33|DiffSup=0.2057|Lift=15.16|Conf=0.6667|Cov=0.0139|Chi2=56.11|pValue=0|Sup(+)=0.2105|Sup(-)=0.0048]
+{width=alto}->151 (151=8, outros=5)
+	[Qualidade=1.3333|Size=1|WRAcc=0.0172|Qg=1.33|DiffSup=0.4089|Lift=13.99|Conf=0.6154|Cov=0.0301|Chi2=104.08|pValue=0|Sup(+)=0.4211|Sup(-)=0.0121]
+{satisfact problem=medio}->151 (151=6, outros=4)
+	[Qualidade=1.2|Size=1|WRAcc=0.0129|Qg=1.2|DiffSup=0.3061|Lift=13.64|Conf=0.6|Cov=0.0231|Chi2=75.27|pValue=0|Sup(+)=0.3158|Sup(-)=0.0097]
+{treewidth=alto}->151 (151=6, outros=4)
+	[Qualidade=1.2|Size=1|WRAcc=0.0129|Qg=1.2|DiffSup=0.3061|Lift=13.64|Conf=0.6|Cov=0.0231|Chi2=75.27|pValue=0|Sup(+)=0.3158|Sup(-)=0.0097]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 151: 84.21%
+{dechter=alto,graphic=alto}->151 (151=10, outros=0)
+	[Qualidade=10|Size=2|WRAcc=0.0221|Qg=10|DiffSup=0.5263|Lift=22.74|Conf=1|Cov=0.0231|Chi2=222.52|pValue=0|Sup(+)=0.5263|Sup(-)=0]
+{dechter=alto,graph=alto}->151 (151=10, outros=0)
+	[Qualidade=10|Size=2|WRAcc=0.0221|Qg=10|DiffSup=0.5263|Lift=22.74|Conf=1|Cov=0.0231|Chi2=222.52|pValue=0|Sup(+)=0.5263|Sup(-)=0]
+{dechter=alto,graphic model=alto}->151 (151=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0199|Qg=9|DiffSup=0.4737|Lift=22.74|Conf=1|Cov=0.0208|Chi2=199.79|pValue=0|Sup(+)=0.4737|Sup(-)=0]
+{dechter=alto,idea=alto}->151 (151=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0199|Qg=9|DiffSup=0.4737|Lift=22.74|Conf=1|Cov=0.0208|Chi2=199.79|pValue=0|Sup(+)=0.4737|Sup(-)=0]
+{and/or=alto,graphic model=alto}->151 (151=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0199|Qg=9|DiffSup=0.4737|Lift=22.74|Conf=1|Cov=0.0208|Chi2=199.79|pValue=0|Sup(+)=0.4737|Sup(-)=0]
+{dechter=alto,weight=alto}->151 (151=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0199|Qg=9|DiffSup=0.4737|Lift=22.74|Conf=1|Cov=0.0208|Chi2=199.79|pValue=0|Sup(+)=0.4737|Sup(-)=0]
+{dechter=alto,output=alto}->151 (151=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0199|Qg=9|DiffSup=0.4737|Lift=22.74|Conf=1|Cov=0.0208|Chi2=199.79|pValue=0|Sup(+)=0.4737|Sup(-)=0]
+{dechter=alto,make=baixo}->151 (151=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0199|Qg=9|DiffSup=0.4737|Lift=22.74|Conf=1|Cov=0.0208|Chi2=199.79|pValue=0|Sup(+)=0.4737|Sup(-)=0]
+{dechter=alto,simpl=baixo}->151 (151=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0199|Qg=9|DiffSup=0.4737|Lift=22.74|Conf=1|Cov=0.0208|Chi2=199.79|pValue=0|Sup(+)=0.4737|Sup(-)=0]
+{assign=alto,bucket=alto}->151 (151=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0177|Qg=8|DiffSup=0.4211|Lift=22.74|Conf=1|Cov=0.0185|Chi2=177.18|pValue=0|Sup(+)=0.4211|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{dechter=alto}->151 (151=13, outros=3)
+	[Qualidade=3.25|Size=1|WRAcc=0.0285|Qg=3.25|DiffSup=0.6769|Lift=18.47|Conf=0.8125|Cov=0.037|Chi2=233.39|pValue=0|Sup(+)=0.6842|Sup(-)=0.0073]
+{bucket=alto}->151 (151=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0197|Qg=3|DiffSup=0.4688|Lift=18.6|Conf=0.8182|Cov=0.0255|Chi2=160.9|pValue=0|Sup(+)=0.4737|Sup(-)=0.0048]
+{and/or=alto}->151 (151=10, outros=12)
+	[Qualidade=0.7692|Size=1|WRAcc=0.0209|Qg=0.77|DiffSup=0.4973|Lift=10.33|Conf=0.4545|Cov=0.0509|Chi2=92.93|pValue=0|Sup(+)=0.5263|Sup(-)=0.0291]
+{graphic model=alto}->151 (151=12, outros=29)
+	[Qualidade=0.4|Size=1|WRAcc=0.0236|Qg=0.4|DiffSup=0.5614|Lift=6.65|Conf=0.2927|Cov=0.0949|Chi2=66.64|pValue=0|Sup(+)=0.6316|Sup(-)=0.0702]
+{output=alto}->151 (151=10, outros=36)
+	[Qualidade=0.2703|Size=1|WRAcc=0.0185|Qg=0.27|DiffSup=0.4391|Lift=4.94|Conf=0.2174|Cov=0.1065|Chi2=36.82|pValue=0|Sup(+)=0.5263|Sup(-)=0.0872]
+{weight=alto}->151 (151=12, outros=54)
+	[Qualidade=0.2182|Size=1|WRAcc=0.0211|Qg=0.22|DiffSup=0.5008|Lift=4.13|Conf=0.1818|Cov=0.1528|Chi2=35.2|pValue=0|Sup(+)=0.6316|Sup(-)=0.1308]
+{graphic=alto}->151 (151=13, outros=67)
+	[Qualidade=0.1912|Size=1|WRAcc=0.0219|Qg=0.19|DiffSup=0.522|Lift=3.69|Conf=0.1625|Cov=0.1852|Chi2=32.8|pValue=0|Sup(+)=0.6842|Sup(-)=0.1622]
+{assign=alto}->151 (151=14, outros=76)
+	[Qualidade=0.1818|Size=1|WRAcc=0.0232|Qg=0.18|DiffSup=0.5528|Lift=3.54|Conf=0.1556|Cov=0.2083|Chi2=33.66|pValue=0|Sup(+)=0.7368|Sup(-)=0.184]
+{graph=alto}->151 (151=11, outros=83)
+	[Qualidade=0.131|Size=1|WRAcc=0.0159|Qg=0.13|DiffSup=0.378|Lift=2.66|Conf=0.117|Cov=0.2176|Chi2=15.24|pValue=0.0001|Sup(+)=0.5789|Sup(-)=0.201]
+{idea=alto}->151 (151=9, outros=71)
+	[Qualidade=0.125|Size=1|WRAcc=0.0127|Qg=0.13|DiffSup=0.3018|Lift=2.56|Conf=0.1125|Cov=0.1852|Chi2=10.96|pValue=0.0009|Sup(+)=0.4737|Sup(-)=0.1719]
+{make=baixo}->151 (151=13, outros=116)
+	[Qualidade=0.1111|Size=1|WRAcc=0.017|Qg=0.11|DiffSup=0.4033|Lift=2.29|Conf=0.1008|Cov=0.2986|Chi2=14.11|pValue=0.0002|Sup(+)=0.6842|Sup(-)=0.2809]
+{simpl=baixo}->151 (151=11, outros=98)
+	[Qualidade=0.1111|Size=1|WRAcc=0.0144|Qg=0.11|DiffSup=0.3417|Lift=2.29|Conf=0.1009|Cov=0.2523|Chi2=11.24|pValue=0.0008|Sup(+)=0.5789|Sup(-)=0.2373]
+
+
+
+################################
+INVESTIGANDO: CLASSE = 153
+################################
+CLASSE = 153: 79 linhas (18.29%)
+DEMAIS CLASSES: 353 linhas (81.71%)
+
+### TOP-10 catacterísticas:
+{meek=alto}->153 (153=9, outros=0)
+	[Qualidade=9|Size=1|WRAcc=0.017|Qg=9|DiffSup=0.1139|Lift=5.47|Conf=1|Cov=0.0208|Chi2=41.07|pValue=0|Sup(+)=0.1139|Sup(-)=0]
+{variabl discret=baixo}->153 (153=7, outros=0)
+	[Qualidade=7|Size=1|WRAcc=0.0132|Qg=7|DiffSup=0.0886|Lift=5.47|Conf=1|Cov=0.0162|Chi2=31.79|pValue=0|Sup(+)=0.0886|Sup(-)=0]
+{microsoft=alto}->153 (153=14, outros=2)
+	[Qualidade=4.6667|Size=1|WRAcc=0.0256|Qg=4.67|DiffSup=0.1715|Lift=4.78|Conf=0.875|Cov=0.037|Chi2=53.27|pValue=0|Sup(+)=0.1772|Sup(-)=0.0057]
+{chicker=alto}->153 (153=10, outros=2)
+	[Qualidade=3.3333|Size=1|WRAcc=0.0181|Qg=3.33|DiffSup=0.1209|Lift=4.56|Conf=0.8333|Cov=0.0278|Chi2=34.95|pValue=0|Sup(+)=0.1266|Sup(-)=0.0057]
+{informat=alto}->153 (153=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0162|Qg=3|DiffSup=0.1083|Lift=4.47|Conf=0.8182|Cov=0.0255|Chi2=30.49|pValue=0|Sup(+)=0.1139|Sup(-)=0.0057]
+{probabilist infer belief=alto}->153 (153=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0162|Qg=3|DiffSup=0.1083|Lift=4.47|Conf=0.8182|Cov=0.0255|Chi2=30.49|pValue=0|Sup(+)=0.1139|Sup(-)=0.0057]
+{ross shachter=baixo}->153 (153=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0162|Qg=3|DiffSup=0.1083|Lift=4.47|Conf=0.8182|Cov=0.0255|Chi2=30.49|pValue=0|Sup(+)=0.1139|Sup(-)=0.0057]
+{use decis=alto}->153 (153=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0162|Qg=3|DiffSup=0.1083|Lift=4.47|Conf=0.8182|Cov=0.0255|Chi2=30.49|pValue=0|Sup(+)=0.1139|Sup(-)=0.0057]
+{microsoft research=alto}->153 (153=11, outros=3)
+	[Qualidade=2.75|Size=1|WRAcc=0.0195|Qg=2.75|DiffSup=0.1307|Lift=4.3|Conf=0.7857|Cov=0.0324|Chi2=35.19|pValue=0|Sup(+)=0.1392|Sup(-)=0.0085]
+{david heckerman=alto}->153 (153=8, outros=2)
+	[Qualidade=2.6667|Size=1|WRAcc=0.0143|Qg=2.67|DiffSup=0.0956|Lift=4.37|Conf=0.8|Cov=0.0231|Chi2=26.09|pValue=0|Sup(+)=0.1013|Sup(-)=0.0057]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 153: 59.49%
+{artifici=alto,microsoft=alto}->153 (153=11, outros=0)
+	[Qualidade=11|Size=2|WRAcc=0.0208|Qg=11|DiffSup=0.1392|Lift=5.47|Conf=1|Cov=0.0255|Chi2=50.44|pValue=0|Sup(+)=0.1392|Sup(-)=0]
+{stanford=alto,workshop uncertainti=alto}->153 (153=11, outros=0)
+	[Qualidade=11|Size=2|WRAcc=0.0208|Qg=11|DiffSup=0.1392|Lift=5.47|Conf=1|Cov=0.0255|Chi2=50.44|pValue=0|Sup(+)=0.1392|Sup(-)=0]
+{belief network=alto,york=alto}->153 (153=11, outros=0)
+	[Qualidade=11|Size=2|WRAcc=0.0208|Qg=11|DiffSup=0.1392|Lift=5.47|Conf=1|Cov=0.0255|Chi2=50.44|pValue=0|Sup(+)=0.1392|Sup(-)=0]
+{stanford=alto,workshop uncertainti artifici=alto}->153 (153=10, outros=0)
+	[Qualidade=10|Size=2|WRAcc=0.0189|Qg=10|DiffSup=0.1266|Lift=5.47|Conf=1|Cov=0.0231|Chi2=45.74|pValue=0|Sup(+)=0.1266|Sup(-)=0]
+{infer use=alto,medic=alto}->153 (153=10, outros=0)
+	[Qualidade=10|Size=2|WRAcc=0.0189|Qg=10|DiffSup=0.1266|Lift=5.47|Conf=1|Cov=0.0231|Chi2=45.74|pValue=0|Sup(+)=0.1266|Sup(-)=0]
+{confer=medio,workshop uncertainti=alto}->153 (153=10, outros=0)
+	[Qualidade=10|Size=2|WRAcc=0.0189|Qg=10|DiffSup=0.1266|Lift=5.47|Conf=1|Cov=0.0231|Chi2=45.74|pValue=0|Sup(+)=0.1266|Sup(-)=0]
+{meek=alto}->153 (153=9, outros=0)
+	[Qualidade=9|Size=1|WRAcc=0.017|Qg=9|DiffSup=0.1139|Lift=5.47|Conf=1|Cov=0.0208|Chi2=41.07|pValue=0|Sup(+)=0.1139|Sup(-)=0]
+{ross shachter=baixo,shown=alto}->153 (153=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.017|Qg=9|DiffSup=0.1139|Lift=5.47|Conf=1|Cov=0.0208|Chi2=41.07|pValue=0|Sup(+)=0.1139|Sup(-)=0]
+{belief network=alto,probabilist infer belief=alto}->153 (153=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.017|Qg=9|DiffSup=0.1139|Lift=5.47|Conf=1|Cov=0.0208|Chi2=41.07|pValue=0|Sup(+)=0.1139|Sup(-)=0]
+{belief network=alto,group=alto,medic=alto}->153 (153=9, outros=0)
+	[Qualidade=9|Size=3|WRAcc=0.017|Qg=9|DiffSup=0.1139|Lift=5.47|Conf=1|Cov=0.0208|Chi2=41.07|pValue=0|Sup(+)=0.1139|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{meek=alto}->153 (153=9, outros=0)
+	[Qualidade=9|Size=1|WRAcc=0.017|Qg=9|DiffSup=0.1139|Lift=5.47|Conf=1|Cov=0.0208|Chi2=41.07|pValue=0|Sup(+)=0.1139|Sup(-)=0]
+{microsoft=alto}->153 (153=14, outros=2)
+	[Qualidade=4.6667|Size=1|WRAcc=0.0256|Qg=4.67|DiffSup=0.1715|Lift=4.78|Conf=0.875|Cov=0.037|Chi2=53.27|pValue=0|Sup(+)=0.1772|Sup(-)=0.0057]
+{ross shachter=baixo}->153 (153=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0162|Qg=3|DiffSup=0.1083|Lift=4.47|Conf=0.8182|Cov=0.0255|Chi2=30.49|pValue=0|Sup(+)=0.1139|Sup(-)=0.0057]
+{probabilist infer belief=alto}->153 (153=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0162|Qg=3|DiffSup=0.1083|Lift=4.47|Conf=0.8182|Cov=0.0255|Chi2=30.49|pValue=0|Sup(+)=0.1139|Sup(-)=0.0057]
+{workshop uncertainti artifici=alto}->153 (153=11, outros=4)
+	[Qualidade=2.2|Size=1|WRAcc=0.0191|Qg=2.2|DiffSup=0.1279|Lift=4.01|Conf=0.7333|Cov=0.0347|Chi2=31.51|pValue=0|Sup(+)=0.1392|Sup(-)=0.0113]
+{workshop uncertainti=alto}->153 (153=13, outros=6)
+	[Qualidade=1.8571|Size=1|WRAcc=0.022|Qg=1.86|DiffSup=0.1476|Lift=3.74|Conf=0.6842|Cov=0.044|Chi2=33.43|pValue=0|Sup(+)=0.1646|Sup(-)=0.017]
+{stanford=alto}->153 (153=25, outros=19)
+	[Qualidade=1.25|Size=1|WRAcc=0.0392|Qg=1.25|DiffSup=0.2626|Lift=3.11|Conf=0.5682|Cov=0.1019|Chi2=48.67|pValue=0|Sup(+)=0.3165|Sup(-)=0.0538]
+{infer use=alto}->153 (153=13, outros=10)
+	[Qualidade=1.1818|Size=1|WRAcc=0.0204|Qg=1.18|DiffSup=0.1362|Lift=3.09|Conf=0.5652|Cov=0.0532|Chi2=23.77|pValue=0|Sup(+)=0.1646|Sup(-)=0.0283]
+{medic=alto}->153 (153=21, outros=17)
+	[Qualidade=1.1667|Size=1|WRAcc=0.0325|Qg=1.17|DiffSup=0.2177|Lift=3.02|Conf=0.5526|Cov=0.088|Chi2=38.12|pValue=0|Sup(+)=0.2658|Sup(-)=0.0482]
+{belief network=alto}->153 (153=25, outros=34)
+	[Qualidade=0.7143|Size=1|WRAcc=0.0329|Qg=0.71|DiffSup=0.2201|Lift=2.32|Conf=0.4237|Cov=0.1366|Chi2=26.53|pValue=0|Sup(+)=0.3165|Sup(-)=0.0963]
+{york=alto}->153 (153=19, outros=26)
+	[Qualidade=0.7037|Size=1|WRAcc=0.0249|Qg=0.7|DiffSup=0.1669|Lift=2.31|Conf=0.4222|Cov=0.1042|Chi2=19.26|pValue=0|Sup(+)=0.2405|Sup(-)=0.0737]
+{group=alto}->153 (153=19, outros=36)
+	[Qualidade=0.5135|Size=1|WRAcc=0.0207|Qg=0.51|DiffSup=0.1385|Lift=1.89|Conf=0.3455|Cov=0.1273|Chi2=11.15|pValue=0.0008|Sup(+)=0.2405|Sup(-)=0.102]
+{confer=medio}->153 (153=27, outros=71)
+	[Qualidade=0.375|Size=1|WRAcc=0.021|Qg=0.38|DiffSup=0.1406|Lift=1.51|Conf=0.2755|Cov=0.2269|Chi2=7.28|pValue=0.007|Sup(+)=0.3418|Sup(-)=0.2011]
+{artifici=alto}->153 (153=29, outros=90)
+	[Qualidade=0.3187|Size=1|WRAcc=0.0168|Qg=0.32|DiffSup=0.1121|Lift=1.33|Conf=0.2437|Cov=0.2755|Chi2=4.07|pValue=0.0437|Sup(+)=0.3671|Sup(-)=0.255]
+{shown=alto}->153 (153=30, outros=96)
+	[Qualidade=0.3093|Size=1|WRAcc=0.0161|Qg=0.31|DiffSup=0.1078|Lift=1.3|Conf=0.2381|Cov=0.2917|Chi2=3.63|pValue=0.0567|Sup(+)=0.3797|Sup(-)=0.272]
+
+
+
+################################
+INVESTIGANDO: CLASSE = 156
+################################
+CLASSE = 156: 44 linhas (10.19%)
+DEMAIS CLASSES: 388 linhas (89.81%)
+
+### TOP-10 catacterísticas:
+{california los=alto}->156 (156=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0226|Qg=5.5|DiffSup=0.2474|Lift=9|Conf=0.9167|Cov=0.0278|Chi2=89.58|pValue=0|Sup(+)=0.25|Sup(-)=0.0026]
+{california los angel=alto}->156 (156=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0226|Qg=5.5|DiffSup=0.2474|Lift=9|Conf=0.9167|Cov=0.0278|Chi2=89.58|pValue=0|Sup(+)=0.25|Sup(-)=0.0026]
+{model reason infer=alto}->156 (156=5, outros=0)
+	[Qualidade=5|Size=1|WRAcc=0.0104|Qg=5|DiffSup=0.1136|Lift=9.82|Conf=1|Cov=0.0116|Chi2=44.61|pValue=0|Sup(+)=0.1136|Sup(-)=0]
+{reason infer cambridg=alto}->156 (156=5, outros=0)
+	[Qualidade=5|Size=1|WRAcc=0.0104|Qg=5|DiffSup=0.1136|Lift=9.82|Conf=1|Cov=0.0116|Chi2=44.61|pValue=0|Sup(+)=0.1136|Sup(-)=0]
+{ucla=alto}->156 (156=8, outros=1)
+	[Qualidade=4|Size=1|WRAcc=0.0164|Qg=4|DiffSup=0.1792|Lift=8.73|Conf=0.8889|Cov=0.0208|Chi2=62.24|pValue=0|Sup(+)=0.1818|Sup(-)=0.0026]
+{univers california los=alto}->156 (156=10, outros=2)
+	[Qualidade=3.3333|Size=1|WRAcc=0.0203|Qg=3.33|DiffSup=0.2221|Lift=8.18|Conf=0.8333|Cov=0.0278|Chi2=72.19|pValue=0|Sup(+)=0.2273|Sup(-)=0.0052]
+{pearl causal=alto}->156 (156=8, outros=2)
+	[Qualidade=2.6667|Size=1|WRAcc=0.0162|Qg=2.67|DiffSup=0.1767|Lift=7.85|Conf=0.8|Cov=0.0231|Chi2=54.54|pValue=0|Sup(+)=0.1818|Sup(-)=0.0052]
+{causal model reason=alto}->156 (156=5, outros=1)
+	[Qualidade=2.5|Size=1|WRAcc=0.0102|Qg=2.5|DiffSup=0.1111|Lift=8.18|Conf=0.8333|Cov=0.0139|Chi2=35.59|pValue=0|Sup(+)=0.1136|Sup(-)=0.0026]
+{infer cambridg=alto}->156 (156=5, outros=1)
+	[Qualidade=2.5|Size=1|WRAcc=0.0102|Qg=2.5|DiffSup=0.1111|Lift=8.18|Conf=0.8333|Cov=0.0139|Chi2=35.59|pValue=0|Sup(+)=0.1136|Sup(-)=0.0026]
+{pearl causal model=alto}->156 (156=5, outros=1)
+	[Qualidade=2.5|Size=1|WRAcc=0.0102|Qg=2.5|DiffSup=0.1111|Lift=8.18|Conf=0.8333|Cov=0.0139|Chi2=35.59|pValue=0|Sup(+)=0.1136|Sup(-)=0.0026]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 156: 36.36%
+{california los=alto,causal=alto}->156 (156=10, outros=0)
+	[Qualidade=10|Size=2|WRAcc=0.0208|Qg=10|DiffSup=0.2273|Lift=9.82|Conf=1|Cov=0.0231|Chi2=90.27|pValue=0|Sup(+)=0.2273|Sup(-)=0]
+{california los=alto,judea=alto}->156 (156=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0187|Qg=9|DiffSup=0.2045|Lift=9.82|Conf=1|Cov=0.0208|Chi2=81.05|pValue=0|Sup(+)=0.2045|Sup(-)=0]
+{california los=alto,effect=alto}->156 (156=9, outros=0)
+	[Qualidade=9|Size=2|WRAcc=0.0187|Qg=9|DiffSup=0.2045|Lift=9.82|Conf=1|Cov=0.0208|Chi2=81.05|pValue=0|Sup(+)=0.2045|Sup(-)=0]
+{causal=alto,judea=alto,pearl=alto}->156 (156=9, outros=0)
+	[Qualidade=9|Size=3|WRAcc=0.0187|Qg=9|DiffSup=0.2045|Lift=9.82|Conf=1|Cov=0.0208|Chi2=81.05|pValue=0|Sup(+)=0.2045|Sup(-)=0]
+{pearl=alto,replac=medio,suffici=alto}->156 (156=9, outros=0)
+	[Qualidade=9|Size=3|WRAcc=0.0187|Qg=9|DiffSup=0.2045|Lift=9.82|Conf=1|Cov=0.0208|Chi2=81.05|pValue=0|Sup(+)=0.2045|Sup(-)=0]
+{replac=medio,suffici=alto,univers california los=alto}->156 (156=8, outros=0)
+	[Qualidade=8|Size=3|WRAcc=0.0166|Qg=8|DiffSup=0.1818|Lift=9.82|Conf=1|Cov=0.0185|Chi2=71.88|pValue=0|Sup(+)=0.1818|Sup(-)=0]
+{causal=alto,ucla=alto}->156 (156=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0166|Qg=8|DiffSup=0.1818|Lift=9.82|Conf=1|Cov=0.0185|Chi2=71.88|pValue=0|Sup(+)=0.1818|Sup(-)=0]
+{cambridg univers press=alto,judea=alto}->156 (156=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0146|Qg=7|DiffSup=0.1591|Lift=9.82|Conf=1|Cov=0.0162|Chi2=62.74|pValue=0|Sup(+)=0.1591|Sup(-)=0]
+{california los angel=alto,judea pearl=medio}->156 (156=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0146|Qg=7|DiffSup=0.1591|Lift=9.82|Conf=1|Cov=0.0162|Chi2=62.74|pValue=0|Sup(+)=0.1591|Sup(-)=0]
+{judea=alto,judea pearl=medio}->156 (156=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.0146|Qg=7|DiffSup=0.1591|Lift=9.82|Conf=1|Cov=0.0162|Chi2=62.74|pValue=0|Sup(+)=0.1591|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{california los=alto}->156 (156=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0226|Qg=5.5|DiffSup=0.2474|Lift=9|Conf=0.9167|Cov=0.0278|Chi2=89.58|pValue=0|Sup(+)=0.25|Sup(-)=0.0026]
+{california los angel=alto}->156 (156=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0226|Qg=5.5|DiffSup=0.2474|Lift=9|Conf=0.9167|Cov=0.0278|Chi2=89.58|pValue=0|Sup(+)=0.25|Sup(-)=0.0026]
+{ucla=alto}->156 (156=8, outros=1)
+	[Qualidade=4|Size=1|WRAcc=0.0164|Qg=4|DiffSup=0.1792|Lift=8.73|Conf=0.8889|Cov=0.0208|Chi2=62.24|pValue=0|Sup(+)=0.1818|Sup(-)=0.0026]
+{univers california los=alto}->156 (156=10, outros=2)
+	[Qualidade=3.3333|Size=1|WRAcc=0.0203|Qg=3.33|DiffSup=0.2221|Lift=8.18|Conf=0.8333|Cov=0.0278|Chi2=72.19|pValue=0|Sup(+)=0.2273|Sup(-)=0.0052]
+{judea=alto}->156 (156=10, outros=9)
+	[Qualidade=1|Size=1|WRAcc=0.0187|Qg=1|DiffSup=0.2041|Lift=5.17|Conf=0.5263|Cov=0.044|Chi2=39.14|pValue=0|Sup(+)=0.2273|Sup(-)=0.0232]
+{judea pearl=medio}->156 (156=8, outros=7)
+	[Qualidade=1|Size=1|WRAcc=0.015|Qg=1|DiffSup=0.1638|Lift=5.24|Conf=0.5333|Cov=0.0347|Chi2=31.63|pValue=0|Sup(+)=0.1818|Sup(-)=0.018]
+{cambridg univers press=alto}->156 (156=8, outros=10)
+	[Qualidade=0.7273|Size=1|WRAcc=0.0143|Qg=0.73|DiffSup=0.156|Lift=4.36|Conf=0.4444|Cov=0.0417|Chi2=24.1|pValue=0|Sup(+)=0.1818|Sup(-)=0.0258]
+{suffici=alto}->156 (156=22, outros=49)
+	[Qualidade=0.44|Size=1|WRAcc=0.0342|Qg=0.44|DiffSup=0.3737|Lift=3.04|Conf=0.3099|Cov=0.1644|Chi2=40.19|pValue=0|Sup(+)=0.5|Sup(-)=0.1263]
+{causal=alto}->156 (156=18, outros=40)
+	[Qualidade=0.439|Size=1|WRAcc=0.028|Qg=0.44|DiffSup=0.306|Lift=3.05|Conf=0.3103|Cov=0.1343|Chi2=31.84|pValue=0|Sup(+)=0.4091|Sup(-)=0.1031]
+{pearl=alto}->156 (156=20, outros=48)
+	[Qualidade=0.4082|Size=1|WRAcc=0.0303|Qg=0.41|DiffSup=0.3308|Lift=2.89|Conf=0.2941|Cov=0.1574|Chi2=32.61|pValue=0|Sup(+)=0.4545|Sup(-)=0.1237]
+{replac=medio}->156 (156=15, outros=49)
+	[Qualidade=0.3|Size=1|WRAcc=0.0196|Qg=0.3|DiffSup=0.2146|Lift=2.3|Conf=0.2344|Cov=0.1481|Chi2=14.42|pValue=0.0001|Sup(+)=0.3409|Sup(-)=0.1263]
+{effect=alto}->156 (156=17, outros=86)
+	[Qualidade=0.1954|Size=1|WRAcc=0.0151|Qg=0.2|DiffSup=0.1647|Lift=1.62|Conf=0.165|Cov=0.2384|Chi2=5.9|pValue=0.0151|Sup(+)=0.3864|Sup(-)=0.2216]
+
+
+
+################################
+INVESTIGANDO: CLASSE = 256
+################################
+CLASSE = 256: 32 linhas (7.41%)
+DEMAIS CLASSES: 400 linhas (92.59%)
+
+### TOP-10 catacterísticas:
+{aalborg=alto}->256 (256=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0234|Qg=5.5|DiffSup=0.3412|Lift=12.38|Conf=0.9167|Cov=0.0278|Chi2=127.76|pValue=0|Sup(+)=0.3438|Sup(-)=0.0025]
+{neighbour=alto}->256 (256=7, outros=1)
+	[Qualidade=3.5|Size=1|WRAcc=0.0148|Qg=3.5|DiffSup=0.2162|Lift=11.81|Conf=0.875|Cov=0.0185|Chi2=76.23|pValue=0|Sup(+)=0.2188|Sup(-)=0.0025]
+{triangul=alto}->256 (256=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0189|Qg=3|DiffSup=0.2762|Lift=11.05|Conf=0.8182|Cov=0.0255|Chi2=91.12|pValue=0|Sup(+)=0.2813|Sup(-)=0.005]
+{aalborg denmark=alto}->256 (256=7, outros=2)
+	[Qualidade=2.3333|Size=1|WRAcc=0.0147|Qg=2.33|DiffSup=0.2137|Lift=10.5|Conf=0.7778|Cov=0.0208|Chi2=66.36|pValue=0|Sup(+)=0.2188|Sup(-)=0.005]
+{netherland=medio}->256 (256=6, outros=2)
+	[Qualidade=2|Size=1|WRAcc=0.0125|Qg=2|DiffSup=0.1825|Lift=10.13|Conf=0.75|Cov=0.0185|Chi2=54.3|pValue=0|Sup(+)=0.1875|Sup(-)=0.005]
+{denmark=alto}->256 (256=7, outros=3)
+	[Qualidade=1.75|Size=1|WRAcc=0.0145|Qg=1.75|DiffSup=0.2112|Lift=9.45|Conf=0.7|Cov=0.0231|Chi2=58.48|pValue=0|Sup(+)=0.2188|Sup(-)=0.0075]
+{van der=alto}->256 (256=7, outros=3)
+	[Qualidade=1.75|Size=1|WRAcc=0.0145|Qg=1.75|DiffSup=0.2112|Lift=9.45|Conf=0.7|Cov=0.0231|Chi2=58.48|pValue=0|Sup(+)=0.2188|Sup(-)=0.0075]
+{der=alto}->256 (256=9, outros=5)
+	[Qualidade=1.5|Size=1|WRAcc=0.0184|Qg=1.5|DiffSup=0.2687|Lift=8.68|Conf=0.6429|Cov=0.0324|Chi2=68.25|pValue=0|Sup(+)=0.2813|Sup(-)=0.0125]
+{jensen=alto}->256 (256=15, outros=9)
+	[Qualidade=1.5|Size=1|WRAcc=0.0306|Qg=1.5|DiffSup=0.4462|Lift=8.44|Conf=0.625|Cov=0.0556|Chi2=112.45|pValue=0|Sup(+)=0.4688|Sup(-)=0.0225]
+{citi=medio}->256 (256=4, outros=2)
+	[Qualidade=1.3333|Size=1|WRAcc=0.0082|Qg=1.33|DiffSup=0.12|Lift=9|Conf=0.6667|Cov=0.0139|Chi2=31.15|pValue=0|Sup(+)=0.125|Sup(-)=0.005]
+
+
+### TOP-10 grupos
+Valores filtrados: {zero}
+Cobertura total CLASSE = 256: 68.75%
+{jensen=alto,shall=alto}->256 (256=10, outros=0)
+	[Qualidade=10|Size=2|WRAcc=0.0214|Qg=10|DiffSup=0.3125|Lift=13.5|Conf=1|Cov=0.0231|Chi2=127.96|pValue=0|Sup(+)=0.3125|Sup(-)=0]
+{aalborg=alto,jensen=alto}->256 (256=10, outros=0)
+	[Qualidade=10|Size=2|WRAcc=0.0214|Qg=10|DiffSup=0.3125|Lift=13.5|Conf=1|Cov=0.0231|Chi2=127.96|pValue=0|Sup(+)=0.3125|Sup(-)=0]
+{conclud=alto,der=alto}->256 (256=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0171|Qg=8|DiffSup=0.25|Lift=13.5|Conf=1|Cov=0.0185|Chi2=101.89|pValue=0|Sup(+)=0.25|Sup(-)=0]
+{aalborg=alto,let=alto}->256 (256=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0171|Qg=8|DiffSup=0.25|Lift=13.5|Conf=1|Cov=0.0185|Chi2=101.89|pValue=0|Sup(+)=0.25|Sup(-)=0]
+{aalborg=alto,tree=alto}->256 (256=8, outros=0)
+	[Qualidade=8|Size=2|WRAcc=0.0171|Qg=8|DiffSup=0.25|Lift=13.5|Conf=1|Cov=0.0185|Chi2=101.89|pValue=0|Sup(+)=0.25|Sup(-)=0]
+{jensen=alto,junction=alto,method=alto}->256 (256=8, outros=0)
+	[Qualidade=8|Size=3|WRAcc=0.0171|Qg=8|DiffSup=0.25|Lift=13.5|Conf=1|Cov=0.0185|Chi2=101.89|pValue=0|Sup(+)=0.25|Sup(-)=0]
+{denmark=alto,jensen=alto}->256 (256=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.015|Qg=7|DiffSup=0.2188|Lift=13.5|Conf=1|Cov=0.0162|Chi2=88.94|pValue=0|Sup(+)=0.2188|Sup(-)=0]
+{aalborg=alto,triangul=alto}->256 (256=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.015|Qg=7|DiffSup=0.2188|Lift=13.5|Conf=1|Cov=0.0162|Chi2=88.94|pValue=0|Sup(+)=0.2188|Sup(-)=0]
+{aalborg=alto,olesen=alto}->256 (256=7, outros=0)
+	[Qualidade=7|Size=2|WRAcc=0.015|Qg=7|DiffSup=0.2188|Lift=13.5|Conf=1|Cov=0.0162|Chi2=88.94|pValue=0|Sup(+)=0.2188|Sup(-)=0]
+{jensen=alto,junction tree=alto,method=alto}->256 (256=7, outros=0)
+	[Qualidade=7|Size=3|WRAcc=0.015|Qg=7|DiffSup=0.2188|Lift=13.5|Conf=1|Cov=0.0162|Chi2=88.94|pValue=0|Sup(+)=0.2188|Sup(-)=0]
+
+
+OBS: Características utilizadas nos grupos:
+{aalborg=alto}->256 (256=11, outros=1)
+	[Qualidade=5.5|Size=1|WRAcc=0.0234|Qg=5.5|DiffSup=0.3412|Lift=12.38|Conf=0.9167|Cov=0.0278|Chi2=127.76|pValue=0|Sup(+)=0.3438|Sup(-)=0.0025]
+{triangul=alto}->256 (256=9, outros=2)
+	[Qualidade=3|Size=1|WRAcc=0.0189|Qg=3|DiffSup=0.2762|Lift=11.05|Conf=0.8182|Cov=0.0255|Chi2=91.12|pValue=0|Sup(+)=0.2813|Sup(-)=0.005]
+{denmark=alto}->256 (256=7, outros=3)
+	[Qualidade=1.75|Size=1|WRAcc=0.0145|Qg=1.75|DiffSup=0.2112|Lift=9.45|Conf=0.7|Cov=0.0231|Chi2=58.48|pValue=0|Sup(+)=0.2188|Sup(-)=0.0075]
+{jensen=alto}->256 (256=15, outros=9)
+	[Qualidade=1.5|Size=1|WRAcc=0.0306|Qg=1.5|DiffSup=0.4462|Lift=8.44|Conf=0.625|Cov=0.0556|Chi2=112.45|pValue=0|Sup(+)=0.4688|Sup(-)=0.0225]
+{der=alto}->256 (256=9, outros=5)
+	[Qualidade=1.5|Size=1|WRAcc=0.0184|Qg=1.5|DiffSup=0.2687|Lift=8.68|Conf=0.6429|Cov=0.0324|Chi2=68.25|pValue=0|Sup(+)=0.2813|Sup(-)=0.0125]
+{junction tree=alto}->256 (256=10, outros=7)
+	[Qualidade=1.25|Size=1|WRAcc=0.0202|Qg=1.25|DiffSup=0.295|Lift=7.94|Conf=0.5882|Cov=0.0394|Chi2=68.21|pValue=0|Sup(+)=0.3125|Sup(-)=0.0175]
+{junction=alto}->256 (256=11, outros=8)
+	[Qualidade=1.2222|Size=1|WRAcc=0.0222|Qg=1.22|DiffSup=0.3237|Lift=7.82|Conf=0.5789|Cov=0.044|Chi2=73.86|pValue=0|Sup(+)=0.3438|Sup(-)=0.02]
+{olesen=alto}->256 (256=8, outros=6)
+	[Qualidade=1.1429|Size=1|WRAcc=0.0161|Qg=1.14|DiffSup=0.235|Lift=7.71|Conf=0.5714|Cov=0.0324|Chi2=52.18|pValue=0|Sup(+)=0.25|Sup(-)=0.015]
+{shall=alto}->256 (256=11, outros=34)
+	[Qualidade=0.3143|Size=1|WRAcc=0.0177|Qg=0.31|DiffSup=0.2587|Lift=3.3|Conf=0.2444|Cov=0.1042|Chi2=21.26|pValue=0|Sup(+)=0.3438|Sup(-)=0.085]
+{conclud=alto}->256 (256=12, outros=45)
+	[Qualidade=0.2609|Size=1|WRAcc=0.018|Qg=0.26|DiffSup=0.2625|Lift=2.84|Conf=0.2105|Cov=0.1319|Chi2=17.83|pValue=0|Sup(+)=0.375|Sup(-)=0.1125]
+{tree=alto}->256 (256=12, outros=54)
+	[Qualidade=0.2182|Size=1|WRAcc=0.0165|Qg=0.22|DiffSup=0.24|Lift=2.45|Conf=0.1818|Cov=0.1528|Chi2=13.19|pValue=0.0003|Sup(+)=0.375|Sup(-)=0.135]
+{let=alto}->256 (256=19, outros=106)
+	[Qualidade=0.1776|Size=1|WRAcc=0.0225|Qg=0.18|DiffSup=0.3287|Lift=2.05|Conf=0.152|Cov=0.2894|Chi2=15.57|pValue=0.0001|Sup(+)=0.5938|Sup(-)=0.265]
+{method=alto}->256 (256=14, outros=112)
+	[Qualidade=0.1239|Size=1|WRAcc=0.0108|Qg=0.12|DiffSup=0.1575|Lift=1.5|Conf=0.1111|Cov=0.2917|Chi2=3.56|pValue=0.0593|Sup(+)=0.4375|Sup(-)=0.28]
