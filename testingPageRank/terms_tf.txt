@@ -2,14 +2,13 @@ aaai
 aaai press
 aalborg
 aalborg denmark
+aalborg univers
 abbrevi
 abduct
 abil
 abl
 abov
-abov equat
 abov exampl
-abov result
 absenc
 absent
 absolut
@@ -39,10 +38,12 @@ acquisit
 act
 action
 action action
+action execut
+action given
+action maxim
 action observ
 action select
 action set
-action space
 action state
 action taken
 activ
@@ -53,12 +54,10 @@ acycl graph dag
 acycl graph node
 ad
 ad new
-adam
 adapt
 add
 addison-wesley
 addit
-addit assumpt
 addit inform
 address
 address issu
@@ -68,15 +67,17 @@ adjac
 adjust
 admiss
 admit
+adnan
+adnan darwich
 adopt
 advanc
 advanc neural
 advanc neural inform
 advantag
 affect
-afterward
 age
 agent
+agent action
 aggreg
 agre
 agreement
@@ -84,9 +85,7 @@ aid
 aim
 air
 air forc
-aistat
 alarm
-albeit
 alberta
 algebra
 algo
@@ -94,29 +93,27 @@ algorithm
 algorithm algorithm
 algorithm appli
 algorithm approxim
-algorithm assum
 algorithm base
+algorithm bayesian
+algorithm case
 algorithm compar
 algorithm comput
 algorithm consid
-algorithm consist
 algorithm construct
 algorithm converg
 algorithm describ
+algorithm determin
 algorithm develop
 algorithm doe
 algorithm effici
-algorithm estim
-algorithm exampl
 algorithm exploit
 algorithm figur
-algorithm follow
 algorithm general
 algorithm generat
 algorithm given
 algorithm howev
+algorithm ieee
 algorithm implement
-algorithm improv
 algorithm includ
 algorithm infer
 algorithm input
@@ -124,6 +121,7 @@ algorithm iter
 algorithm learn
 algorithm let
 algorithm make
+algorithm method
 algorithm need
 algorithm onli
 algorithm optim
@@ -131,8 +129,6 @@ algorithm perform
 algorithm present
 algorithm probabilist
 algorithm problem
-algorithm proceed
-algorithm produc
 algorithm propos
 algorithm provid
 algorithm requir
@@ -142,13 +138,14 @@ algorithm section
 algorithm select
 algorithm set
 algorithm shown
-algorithm similar
 algorithm solv
 algorithm test
 algorithm time
 algorithm use
 algorithm work
+allen
 allevi
+alli
 alloc
 allow
 allow comput
@@ -170,16 +167,17 @@ amsterdam
 analog
 analys
 analysi
-analysi section
 analysi use
+analyst
 analyt
 analyz
 ancestor
 and/or
 andersen
-andrew
+andi
 angel
-ani function
+ani algorithm
+ani case
 ani given
 ani node
 ani order
@@ -202,6 +200,7 @@ annual
 annual confer
 annual confer uncertainti
 anonym
+anonym refere
 anonym review
 anoth
 anoth approach
@@ -220,11 +219,9 @@ appar
 appeal
 appear
 appendix
-appl
 appli
 appli algorithm
 appli ani
-appli method
 applic
 applic decis
 applic decis analysi
@@ -233,15 +230,15 @@ applic expert journal
 approach allow
 approach approxim
 approach base
-approach comput
+approach combin
+approach describ
 approach general
-approach howev
 approach learn
 approach model
 approach problem
 approach propos
 approach provid
-approach solv
+approach reason
 approach use
 appropri
 approxim
@@ -250,6 +247,7 @@ approxim bayesian
 approxim distribut
 approxim error
 approxim infer
+approxim infer algorithm
 approxim margin
 approxim method
 approxim optim
@@ -265,17 +263,16 @@ arbitrari
 arbitrarili
 arc
 arc node
+arc repres
 arc revers
 architectur
 area
 arg
 arg max
-argmax
 argu
 argument
 aris
 arithmet
-arm
 arrang
 array
 arriv
@@ -289,16 +286,17 @@ artifici intellig page
 artifici intellig pearl
 artifici intellig proceed
 artifici intellig research
-artifici intellig statist
 artifici intellig uai
 ask
 aspect
 assert
 assess
+assess probabl
 assign
 assign probabl
 assign set
 assign valu
+assign valu variabl
 assign variabl
 assist
 associ
@@ -306,16 +304,16 @@ associ node
 associ set
 associ variabl
 assum
-assum exist
+assum ani
 assum given
 assum independ
 assum loss
 assum loss general
 assum onli
-assum set
 assum valu
 assum variabl
 assumpt
+assur
 asymmetr
 asymptot
 ate
@@ -332,6 +330,7 @@ augment
 august
 author
 autom
+autom reason
 automat
 autonom
 auxiliari
@@ -342,21 +341,18 @@ averag number
 averag run
 avoid
 awar
-award
 away
 axi
 axiom
 axiomat
 bacchus
 background
+backtrack
 backward
 bad
 balanc
-bandit
 bar
-base approach
 base bayesian
-base method
 base observ
 baselin
 basi
@@ -364,14 +360,17 @@ basic
 basic idea
 bay
 bay net
+bay network
 bay rule
 bayesian
 bayesian approach
 bayesian belief
 bayesian belief network
+bayesian belief univers
 bayesian infer
 bayesian method
 bayesian model
+bayesian net
 bayesian network
 bayesian network combin
 bayesian network model
@@ -384,6 +383,7 @@ becaus
 beckerman
 becom
 befor
+befor ani
 begin
 behav
 behavior
@@ -394,10 +394,13 @@ belief function
 belief net
 belief network
 belief network artifici
+belief network figur
 belief network proceed
+belief network use
 belief propag
 belief propag algorithm
 belief state
+belief univers
 belief updat
 belief-network
 believ
@@ -408,20 +411,22 @@ benefici
 benefit
 berkeley
 berlin
+bertseka
 besid
 best
-best knowledg
-best perform
+best possibl
 better
 better perform
 bias
 big
+biliti
 binari
 binari variabl
 biolog
 biometrika
 bit
 black
+ble
 block
 blue
 bns
@@ -437,13 +442,13 @@ bound number
 bound obtain
 bound probabl
 bound use
+bound valu
 boundari
 boutili
 box
 branch
 break
 brees
-breviti
 bridg
 brief
 briefli
@@ -451,22 +456,24 @@ briefli review
 bring
 british
 british columbia
-british columbia vancouv
 broad
 broken
 brown
 bucket
+bucket elimin
+bucket elimin unifi
 build
-build block
 built
 burden
 busi
 cach
+cal
 calcul
 calcul use
 calculus
 calibr
 california
+california berkeley
 california los
 california los angel
 cambridg
@@ -486,18 +493,20 @@ car
 cardin
 care
 carlo
-carlo method
 carnegi
 carnegi mellon
 carnegi mellon univers
 carri
 cartesian
+cartesian product
 case algorithm
 case case
+case comput
 case consid
 case exampl
-case general
 case howev
+case need
+case observ
 case onli
 case possibl
 case result
@@ -505,6 +514,7 @@ case set
 case sinc
 case studi
 case use
+case valu
 case variabl
 cast
 categor
@@ -513,27 +523,22 @@ caus
 causal
 causal graph
 causal independ
-causal infer
 causal influenc
+causal knowledg
 causal model
-causal model reason
 causal network
 causal probabilist
+causal probabilist network
 causal relat
 causal relationship
 causal structur
 causat
-causat predict
-causat predict search
 cell
 center
-centr
 central
 certain
 certainti
 chain
-chain mont
-chain mont carlo
 chain rule
 challeng
 chanc
@@ -550,8 +555,6 @@ characterist
 chavez
 chavez cooper
 check
-chen
-cheng
 chicker
 child
 child node
@@ -561,15 +564,11 @@ choos
 choos action
 chose
 chosen
-christoph
 circl
 circuit
 circumst
-circumv
 cite
-citi
 claim
-clarifi
 clariti
 class
 class model
@@ -592,7 +591,6 @@ coars
 code
 coeffici
 cognit
-cognit scienc
 coher
 coin
 coincid
@@ -607,7 +605,6 @@ column
 com
 combin
 combin knowledg
-combin knowledg statist
 combin valu
 combinatori
 come
@@ -622,7 +619,6 @@ compact
 compact represent
 compani
 compar
-compar algorithm
 compar method
 compar perform
 compar result
@@ -635,13 +631,14 @@ compil
 complement
 complementari
 complet
+complet assign
 complet proof
-complet set
 complex
 complex algorithm
 complex comput
 complex model
 complex probabilist
+complex probabilist infer
 complex problem
 complex result
 complic
@@ -654,10 +651,13 @@ compress
 compris
 comput approxim
 comput complex
+comput complex probabilist
 comput comput
+comput comput statist
 comput condit
 comput cost
 comput effici
+comput effort
 comput exact
 comput expect
 comput expens
@@ -666,23 +666,27 @@ comput margin
 comput method
 comput model
 comput optim
+comput optim polici
+comput perform
 comput posterior
 comput posterior probabl
 comput probabl
 comput probabl graphic
 comput problem
+comput requir
 comput resourc
 comput result
+comput save
 comput scienc
 comput scienc depart
+comput scienc dept
 comput scienc engin
 comput scienc univers
 comput statist
+comput sum
 comput time
 comput use
 comput valu
-concaten
-concav
 concentr
 concept
 conceptu
@@ -690,6 +694,7 @@ concern
 concis
 conclud
 conclud remark
+conclud section
 conclus
 conclus futur
 conclus futur work
@@ -704,6 +709,7 @@ condit independ
 condit independ given
 condit probabl
 condit probabl distribut
+condit probabl given
 condit probabl tabl
 condit satisfi
 condit set
@@ -726,10 +732,10 @@ conjectur
 conjug
 conjunct
 connect
+connect network
 consecut
 consequ
 conserv
-consid ani
 consid case
 consid exampl
 consid follow
@@ -750,11 +756,12 @@ constrain
 constraint
 constraint satisfact
 constraint satisfact problem
-constraint use
 construct
+construct bayesian
 construct belief
 construct belief network
-construct follow
+construct model
+construct network
 construct use
 consult
 consum
@@ -779,12 +786,13 @@ control
 conveni
 convent
 converg
-converg rate
 convers
 convert
 convex
 convey
 cooper
+cooper comput
+cooper comput complex
 cooper herskovit
 coordin
 cope
@@ -794,14 +802,12 @@ corollari
 correct
 correl
 correspond
-correspond differ
 correspond node
 correspond set
 correspond state
 correspond valu
 correspond variabl
 cost
-cost comput
 cost function
 council
 count
@@ -811,11 +817,12 @@ counterpart
 coupl
 cours
 covari
-covari matrix
 cover
 cpt
 cpts
 cpu
+craig
+craig boutili
 creat
 creat new
 criteria
@@ -840,16 +847,12 @@ daphn koller
 darpa
 darwich
 dash
-dash line
 data
 data analysi
 data avail
-data collect
 data generat
-data given
 data machin
 data machin learn
-data model
 data point
 data set
 data structur
@@ -859,6 +862,7 @@ dataset
 date
 david
 david heckerman
+david pool
 dawid
 day
 deal
@@ -866,9 +870,12 @@ dean
 decad
 decay
 dechter
+dechter bucket
+dechter bucket elimin
 decid
 decis
 decis analysi
+decis base
 decis group
 decis make
 decis maker
@@ -889,32 +896,31 @@ decomposit
 decreas
 deduc
 deduct
-deep
+def
 default
 defin
 defin abov
+defin condit
+defin distribut
 defin equat
 defin follow
 defin function
-defin joint
 defin new
 defin probabl
 defin section
 defin set
 defin term
 defin use
-defin valu
+defin variabl
 definit
+definit condit
 definit given
 definit let
 degrad
 degre
-degre freedom
 del
 delay
 delet
-deliber
-delta
 demand
 demonstr
 dempster
@@ -929,16 +935,15 @@ denot respect
 denot set
 denot valu
 denot variabl
-dens
 densiti
 densiti function
 depart
 depart comput
 depart comput scienc
 depart univers
+depart univers california
 depend
 depend model
-depend number
 depend onli
 depend valu
 depend variabl
@@ -976,6 +981,7 @@ determin probabl
 determin valu
 determinist
 determinist function
+detroit
 develop
 develop algorithm
 develop method
@@ -988,10 +994,13 @@ diagnosi
 diagnost
 diagon
 diagram
+diagram figur
 diagram howard
+diagram howard matheson
 diagram oper
 diagram oper research
 diagram repres
+diagram use
 diamond
 dictat
 did
@@ -1005,6 +1014,7 @@ differ probabl
 differ set
 differ time
 differ type
+differ use
 differ valu
 differ way
 differenti
@@ -1016,23 +1026,21 @@ dimension
 direct acycl
 direct acycl graph
 direct arc
+direct cycl
 direct edg
 direct futur
 direct graph
+direct influenc
 direct path
 dirichlet
 dis
 disadvantag
-disagre
 discard
-disconnect
 discount
 discount factor
 discov
 discoveri
 discret
-discret random
-discret random variabl
 discret variabl
 discrimin
 discuss
@@ -1049,13 +1057,13 @@ dissert
 distanc
 distinct
 distinguish
+distribu
 distribut
-distribut ani
 distribut comput
 distribut condit
 distribut defin
 distribut distribut
-distribut exampl
+distribut follow
 distribut form
 distribut function
 distribut given
@@ -1063,11 +1071,11 @@ distribut let
 distribut mean
 distribut model
 distribut node
-distribut observ
 distribut obtain
 distribut paramet
 distribut possibl
 distribut random
+distribut random variabl
 distribut repres
 distribut result
 distribut sampl
@@ -1084,14 +1092,13 @@ divis
 document
 doe
 doe affect
-doe allow
 doe appear
 doe chang
 doe contain
 doe depend
 doe exist
 doe hold
-doe necessarili
+doe provid
 doe requir
 doe satisfi
 dom
@@ -1119,10 +1126,10 @@ duboi prade
 duplic
 durat
 dure
+dure search
 dynam
 dynam bayesian
 dynam bayesian network
-dynam model
 dynam program
 e-mail
 earli
@@ -1130,25 +1137,32 @@ earlier
 earlier work
 eas
 easi
+easi check
 easier
 easili
 easili comput
 easili extend
 econom
+econometrica
 ed
+ed uncertainti
 edg
 edg node
 edinburgh
 edit
 editor
+editor uncertainti
 edu
 educ
 effect
+effect action
 effect use
 effici
 effici algorithm
+effici approxim
 effici comput
 effici infer
+effici method
 effici use
 effort
 eighth
@@ -1160,7 +1174,10 @@ elementari
 eleventh
 elicit
 elimin
+elimin algorithm
 elimin order
+elimin unifi
+elimin unifi framework
 els
 elsevi
 elsevi scienc
@@ -1189,8 +1206,10 @@ end end
 energi
 enforc
 engin
+engineering-econom
+engineering-econom stanford
+england
 enhanc
-enjoy
 ensur
 ent
 entail
@@ -1201,12 +1220,13 @@ entri
 entropi
 enumer
 environ
+epistem
 equal
+equal like
 equal number
 equal probabl
 equat
 equat equat
-equat model
 equat use
 equilibrium
 equip
@@ -1215,9 +1235,7 @@ equival class
 eric
 eric horvitz
 error
-error bar
 error bound
-error estim
 escap
 especi
 essenc
@@ -1235,7 +1253,6 @@ evalu
 evalu algorithm
 evalu influenc
 evalu influenc diagram
-evalu method
 evalu perform
 evalu use
 event
@@ -1250,6 +1267,7 @@ everi time
 everi variabl
 evid
 evid node
+evid observ
 evid set
 evid variabl
 evidenti
@@ -1266,12 +1284,14 @@ exact solut
 exact valu
 examin
 exampl assum
+exampl case
 exampl consid
 exampl exampl
 exampl figur
 exampl given
 exampl illustr
 exampl let
+exampl model
 exampl section
 exampl suppos
 exampl use
@@ -1285,6 +1305,7 @@ exhaust
 exhibit
 exist
 exist algorithm
+exist set
 exp
 exp exp
 expand
@@ -1296,9 +1317,8 @@ expect util
 expect valu
 expens
 experi
-experi compar
 experi perform
-experi section
+experi report
 experi use
 experiment
 experiment evalu
@@ -1307,7 +1327,6 @@ expert
 expert journal
 expert journal royal
 explain
-explain whi
 explan
 explic
 explicit
@@ -1322,6 +1341,7 @@ exponenti number variabl
 exponenti size
 exposit
 express
+express power
 express term
 extend
 extens
@@ -1334,7 +1354,6 @@ face
 facilit
 fact
 factor
-factor represent
 fail
 failur
 fair
@@ -1363,26 +1382,31 @@ figur algorithm
 figur averag
 figur compar
 figur comparison
+figur correspond
 figur depict
+figur display
 figur exampl
 figur figur
 figur illustr
-figur left
+figur model
 figur network
 figur node
 figur note
 figur plot
+figur present
 figur repres
 figur result
 figur simpl
 figur use
+figur variabl
 filter
 final
-final note
 final section
 fine
+finer
 finish
 finit
+finit domain
 finit number
 finit set
 finit state
@@ -1396,21 +1420,16 @@ fix valu
 flat
 flexibl
 fli
-flip
 flow
 focus
 focus attent
-follow ani
 follow assumpt
 follow condit
 follow definit
-follow direct
 follow equat
 follow exampl
 follow fact
-follow form
 follow given
-follow immedi
 follow lemma
 follow let
 follow observ
@@ -1419,9 +1438,9 @@ follow proposit
 follow result
 follow section
 follow set
+follow simpl
 follow step
 follow theorem
-follow way
 forc
 forecast
 forest
@@ -1431,9 +1450,11 @@ form basi
 formal
 formal defin
 formal definit
+formal model
 format
 formul
 formula
+forthcom
 fortun
 forward
 foundat
@@ -1445,17 +1466,18 @@ fragment
 frame
 framework
 framework allow
+framework reason
 franc
 francisco
 free
 freedom
 freeman
-freita
 frequenc
 frequent
 friedman
 friedman goldszmidt
 fulli
+function
 function ani
 function approxim
 function assign
@@ -1465,6 +1487,7 @@ function correspond
 function defin
 function denot
 function depend
+function describ
 function determin
 function express
 function form
@@ -1477,14 +1500,12 @@ function node
 function number
 function onli
 function optim
-function paramet
 function relat
 function repres
 function result
 function satisfi
 function set
-function sinc
-function specifi
+function state
 function use
 function valu
 function variabl
@@ -1494,6 +1515,7 @@ fung
 furthermor
 fusion
 fusion propag
+fusion propag structur
 futur
 futur research
 futur work
@@ -1508,12 +1530,12 @@ gaussian
 gaussian distribut
 gave
 geiger
-geiger chicker
 gene
 general algorithm
 general approach
 general assum
 general belief
+general belief propag
 general case
 general form
 general framework
@@ -1525,7 +1547,7 @@ general set
 generat
 generat data
 generat model
-generat process
+generat network
 generat random
 generat sampl
 generat set
@@ -1533,11 +1555,10 @@ generat use
 generic
 genet
 geometr
-geometri
 gibb
-gibb sampl
 given abov
 given ani
+given belief
 given condit
 given current
 given data
@@ -1545,22 +1566,23 @@ given definit
 given equat
 given evid
 given figur
+given follow
 given model
 given network
 given number
 given observ
 given onli
 given parent
+given particular
 given probabl
 given section
 given set
+given specif
 given state
-given tabl
 given time
 given valu
 given variabl
 global
-global optim
 glymour
 glymour schein
 goal
@@ -1569,7 +1591,7 @@ goldman
 goldszmidt
 good
 good approxim
-good perform
+gorithm
 govern
 gradient
 gradual
@@ -1579,6 +1601,7 @@ granular
 graph
 graph consist
 graph contain
+graph correspond
 graph dag
 graph direct
 graph figur
@@ -1603,11 +1626,13 @@ greatest
 greedi
 green
 gregori
+gregori cooper
 grid
 ground
 group
 grow
 grow exponenti
+grow exponenti number
 growth
 guarante
 guarante converg
@@ -1626,8 +1651,6 @@ harder
 hat
 head
 health
-heart
-heavili
 heckerman
 held
 help
@@ -1635,13 +1658,13 @@ help comment
 hen
 henc
 henceforth
+henri
 henrion
 herskovit
 heurist
+heurist method
 heurist search
 hidden
-hidden markov
-hidden markov model
 hidden variabl
 hierarch
 hierarchi
@@ -1653,6 +1676,7 @@ higher level
 higher valu
 highest
 highlight
+hile
 histori
 hold
 hold ani
@@ -1666,22 +1690,19 @@ hour
 howard
 howard matheson
 howard matheson influenc
-howev approach
 howev case
 howev comput
 howev doe
-howev mani
 howev onli
 howev result
 howev sinc
 howev use
 http
-huang
 huge
 human
 hundr
 hybrid
-hyperparamet
+hypergraph
 hypothes
 hypothesi
 hypothet
@@ -1692,6 +1713,7 @@ ideal
 ident
 identif
 identifi
+identifi set
 ieee
 ieee tran
 ieee transact
@@ -1718,6 +1740,7 @@ impli
 implic
 implicit
 import
+import issu
 import note
 import properti
 import sampl
@@ -1729,10 +1752,13 @@ improv
 improv accuraci
 improv effici
 improv perform
+improv qualiti
+inappropri
 inc.
 incid
 includ
 includ onli
+includ variabl
 inclus
 incom
 incomplet
@@ -1756,13 +1782,12 @@ independ use
 independ variabl
 index
 indic
-indic function
 indirect
+indistinguish
 individu
 induc
 induct
 induct probabilist
-industri
 ineffici
 inequ
 inf
@@ -1773,13 +1798,13 @@ infer bayesian
 infer bayesian network
 infer belief
 infer belief network
-infer cambridg
-infer cambridg univers
 infer method
+infer model
 infer morgan
 infer morgan kaufmann
 infer problem
 infer procedur
+infer proceed
 infer techniqu
 infer use
 infer use bayesian
@@ -1794,8 +1819,9 @@ inform
 inform avail
 inform comput
 inform process
-inform retriev
+inform provid
 inform scienc
+inform state
 inform theori
 inform use
 informat
@@ -1813,7 +1839,6 @@ insight
 inspect
 inspir
 instanc
-instantan
 instanti
 instanti variabl
 instead
@@ -1858,7 +1883,6 @@ intern workshop
 interpret
 intersect
 interv
-interven
 intervent
 intract
 intrins
@@ -1870,14 +1894,13 @@ intuit
 invalid
 invari
 invers
-invert
 investig
 invok
 involv
 involv onli
+involv variabl
 ion
 irrelev
-irvin
 isol
 isomorph
 israel
@@ -1885,10 +1908,10 @@ issu
 item
 iter
 iter algorithm
+iter converg
 ith
 iti
 jaakkola
-jame
 januari
 jensen
 jensen jensen
@@ -1907,6 +1930,7 @@ joint probabl
 joint probabl distribut
 jordan
 journal
+journal acm
 journal american
 journal american statist
 journal approxim
@@ -1923,8 +1947,6 @@ judea pearl
 judg
 judgment
 juli
-jump
-jun
 junction
 junction tree
 june
@@ -1932,6 +1954,7 @@ just
 justif
 justifi
 kaelbl
+kana
 kanal
 kanazawa
 kaufmann
@@ -1940,7 +1963,6 @@ kaufmann publish inc.
 kaufmann san
 kaufmann san mateo
 kept
-kernel
 key
 keyword
 kim
@@ -1965,7 +1987,6 @@ lang
 languag
 larg
 larg number
-large-scal
 larger
 larger number
 largest
@@ -1973,7 +1994,6 @@ late
 latent
 latent variabl
 later
-lattic
 lauritzen
 lauritzen olesen
 lauritzen olesen bayesian
@@ -1982,6 +2002,7 @@ lauritzen spiegelhalt local
 law
 layer
 lead
+lead differ
 lead follow
 leaf
 leaf node
@@ -1990,27 +2011,22 @@ learn algorithm
 learn bayesian
 learn bayesian network
 learn data
-learn graphic
 learn method
 learn model
 learn paramet
 learn problem
 learn research
-learn set
 learn structur
 learn use
-learner
 leav
 lectur
-lectur note
 led
 lee
 left
 left right
 legal
+lehmann
 lemma
-lemma ani
-lemma follow
 lemma lemma
 lemma let
 lemmer
@@ -2025,7 +2041,6 @@ let denot set
 let let
 let number
 let probabl
-let repres
 let set
 let subset
 let variabl
@@ -2041,6 +2056,7 @@ like
 like thank
 likelihood
 likelihood estim
+likelihood function
 likewis
 limit
 limit number
@@ -2065,16 +2081,16 @@ littman
 liu
 local
 local comput
+local comput comput
 local comput probabl
-local search
 local structur
 locat
 log
 log log
-log log log
 log-likelihood
 logarithm
 logic
+logic reason
 logist
 london
 long
@@ -2125,7 +2141,6 @@ mani
 mani applic
 mani case
 mani differ
-mani domain
 mani possibl
 mani problem
 mani time
@@ -2135,7 +2150,6 @@ manner
 manual
 manuscript
 map
-map estim
 march
 margin
 margin distribut
@@ -2145,7 +2159,6 @@ mark
 market
 markov
 markov chain
-markov chain mont
 markov decis
 markov decis process
 markov model
@@ -2175,24 +2188,22 @@ maxim expect
 maxim expect util
 maxim valu
 maximum
+maximum expect
 maximum likelihood
 maximum likelihood estim
 maximum number
 maximum valu
-mcmc
 mdp
 mdps
 mean
-mean valu
 mean varianc
 meaning
 measur
-measur perform
 measur use
 mechan
-median
 medic
 medic diagnosi
+medic informat
 medicin
 meek
 meet
@@ -2212,6 +2223,7 @@ merg
 merit
 messag
 messag pass
+message-pass
 met
 method
 method allow
@@ -2222,29 +2234,27 @@ method comput
 method describ
 method general
 method learn
-method perform
+method method
 method present
 method propos
 method provid
-method requir
 method section
 method solv
 method use
-method work
 methodolog
 metric
 michael
 microsoft
 microsoft research
 middl
-million
 min
 min max
 mind
 minim
+minim set
 minimum
+minneapoli
 minor
-minus
 minut
 miss
 mit
@@ -2274,8 +2284,10 @@ model decis
 model defin
 model describ
 model differ
+model discuss
 model domain
 model dynam
+model effect
 model exampl
 model figur
 model follow
@@ -2287,29 +2299,23 @@ model includ
 model infer
 model learn
 model let
-model make
 model model
-model observ
 model onli
 model paramet
 model particular
 model predict
-model present
 model probabl
 model problem
 model proceed
 model provid
 model reason
-model reason infer
 model relat
 model repres
-model requir
 model result
 model section
 model select
 model set
 model shown
-model specifi
 model structur
 model time
 model uncertainti
@@ -2328,8 +2334,6 @@ monitor
 monoton
 mont
 mont carlo
-mont carlo method
-month
 moral
 moral graph
 moreov
@@ -2337,11 +2341,11 @@ morgan
 morgan kaufmann
 morgan kaufmann publish
 morgan kaufmann san
-motion
 motiv
+mountain
+multi-valu
 multinomi
 multipl
-multipl time
 multipli
 multipli connect
 multivari
@@ -2364,11 +2368,13 @@ near
 near-optim
 necess
 necessari
+necessari suffici
 necessarili
 need comput
 need consid
 need make
 need onli
+need use
 negat
 neglig
 neighbor
@@ -2379,13 +2385,13 @@ net
 netherland
 network
 network algorithm
+network allow
+network approach
 network artifici
 network artifici intellig
 network base
 network bayesian
-network bayesian network
 network combin
-network combin knowledg
 network comput
 network condit
 network consist
@@ -2394,7 +2400,8 @@ network contain
 network correspond
 network data
 network defin
-network direct
+network differ
+network evid
 network exampl
 network figur
 network general
@@ -2428,15 +2435,17 @@ network section
 network set
 network shown
 network shown figur
+network singl
 network structur
 network technic
 network technic report
+network uncertainti
 network use
 network variabl
 neural
 neural inform
 neural inform process
-neural network
+new
 new algorithm
 new approach
 new inform
@@ -2448,6 +2457,7 @@ new york
 newli
 nice
 ninth
+ninth confer
 nip
 node
 node ad
@@ -2455,12 +2465,13 @@ node ani
 node arc
 node associ
 node children
-node comput
 node condit
 node connect
+node consist
 node contain
 node correspond
 node decis
+node defin
 node denot
 node direct
 node edg
@@ -2471,18 +2482,21 @@ node label
 node let
 node network
 node node
-node number
 node observ
 node onli
 node order
 node parent
 node path
 node possibl
+node probabl
 node remov
 node repres
+node root
 node set
+node shown
 node sinc
 node state
+node time
 node tree
 node use
 node valu
@@ -2500,7 +2514,7 @@ nonempti
 nonetheless
 nonlinear
 nonmonoton
-nonparametr
+nonneg
 nontrivi
 nonzero
 norm
@@ -2509,18 +2523,20 @@ normal constant
 normal distribut
 normat
 north
+north holland
 north-holland
 notabl
 notat
 notat denot
 notat let
 notat use
+note
 note abov
-note algorithm
 note ani
 note case
 note comput
 note howev
+note onli
 note sinc
 note use
 noth
@@ -2545,7 +2561,6 @@ number sampl
 number state
 number step
 number time
-number valu
 number variabl
 numer
 obey
@@ -2557,6 +2572,7 @@ observ data
 observ evid
 observ given
 observ markov
+observ markov decis
 observ node
 observ observ
 observ probabl
@@ -2566,18 +2582,20 @@ observ time
 observ use
 observ valu
 observ variabl
-obstacl
 obtain
+obtain appli
 obtain follow
-obtain result
 obtain use
 obvious
+obvious way
 occur
 occurr
 odd
 offer
 offic
 offlin
+oft
+ofth
 old
 olesen
 olesen bayesian
@@ -2585,6 +2603,7 @@ olesen bayesian updat
 omit
 on-lin
 onc
+ongo
 onli consid
 onli contain
 onli depend
@@ -2593,7 +2612,6 @@ onli exist
 onli need
 onli node
 onli number
-onli observ
 onli onc
 onli parent
 onli partial
@@ -2611,20 +2629,24 @@ onr
 ontario
 open
 open problem
+open question
 oper
 oper defin
+oper perform
 oper research
+oper use
 opinion
 opportun
 oppos
 opposit
 optim
 optim action
-optim algorithm
+optim control
 optim decis
 optim polici
 optim problem
 optim solut
+optim strategi
 optim valu
 optim valu function
 optimist
@@ -2632,10 +2654,10 @@ optimum
 option
 order
 order comput
+order defin
 order determin
 order magnitud
 order node
-order obtain
 order set
 order use
 order variabl
@@ -2663,12 +2685,12 @@ overhead
 overlap
 overview
 oxford
-oxford univers
 packag
 page
 page morgan
 page morgan kaufmann
 pair
+pair node
 pair variabl
 pairwis
 palo
@@ -2678,6 +2700,7 @@ paper assum
 paper consid
 paper describ
 paper develop
+paper extend
 paper focus
 paper introduc
 paper organ
@@ -2685,16 +2708,16 @@ paper organ follow
 paper present
 paper propos
 paper provid
+paper structur
+paper structur follow
 paper use
 par
 paradigm
 parallel
 paramet
-paramet defin
 paramet estim
 paramet learn
 paramet model
-paramet repres
 paramet set
 paramet use
 paramet valu
@@ -2708,14 +2731,14 @@ parent variabl
 pari
 park
 partial
+partial assign
 partial observ
+partial observ markov
 partial order
 partial support
 particip
-particl
 particular
 particular case
-particular use
 particular valu
 partit
 partit function
@@ -2723,17 +2746,17 @@ partit set
 pass
 past
 path
-path root
+pathfind
 patient
 pattern
-pattern analysi
 paul
 pay
 payoff
 peak
 pearl
 pearl causal
-pearl causal model
+pearl fusion
+pearl fusion propag
 pearl pearl
 pearl probabilist
 pearl probabilist reason
@@ -2746,7 +2769,6 @@ perfect
 perform
 perform algorithm
 perform better
-perform experi
 perform infer
 perform use
 perhap
@@ -2766,18 +2788,17 @@ phenomena
 phenomenon
 philosoph
 philosophi
-phrase
 physic
 pick
 pictur
 piec
+piec inform
 pittsburgh
 place
 plain
 plan
 plan problem
 plan uncertainti
-plane
 planner
 plausibl
 plausibl infer
@@ -2793,6 +2814,7 @@ point time
 point use
 point view
 polici
+polici iter
 polici maxim
 polici optim
 polici use
@@ -2800,6 +2822,7 @@ polici valu
 polynomi
 polynomi number
 polynomi time
+polytre
 pomdp
 pool
 poor
@@ -2810,14 +2833,19 @@ pose
 posit
 posit negat
 possess
+possibilist
+possibl assign
 possibl combin
+possibl distribut
+possibl measur
 possibl model
 possibl observ
 possibl outcom
 possibl state
+possibl theori
 possibl use
 possibl valu
-post
+possibl world
 posterior
 posterior distribut
 posterior margin
@@ -2827,23 +2855,22 @@ potenti
 power
 practic
 practic applic
-practic use
 prade
 pre
 preced
 precis
 predecessor
 predefin
+predetermin
 predic
 predict
-predict search
-predictor
 prefer
 preliminari
 prepar
 preprocess
 prescrib
 presenc
+presenc absenc
 present
 present algorithm
 present method
@@ -2863,13 +2890,13 @@ previous exampl
 previous section
 previous work
 price
+primal
 primari
 primarili
 primit
 princeton
 princeton univers
 princeton univers press
-princip
 principl
 principl applic
 principl applic decis
@@ -2879,11 +2906,12 @@ prior
 prior distribut
 prior knowledg
 prior probabl
-prior work
 priori
 prioriti
 pro
 prob
+proba
+probabil
 probabilist
 probabilist causal
 probabilist depend
@@ -2901,15 +2929,18 @@ probabilist reason
 probabilist reason intellig
 probabl action
 probabl ani
+probabl assess
 probabl assign
 probabl associ
 probabl comput
 probabl densiti
 probabl distribut
 probabl distribut set
+probabl distribut variabl
 probabl estim
 probabl event
 probabl evid
+probabl explan
 probabl function
 probabl given
 probabl graphic
@@ -2919,6 +2950,7 @@ probabl measur
 probabl model
 probabl node
 probabl observ
+probabl onli
 probabl possibl
 probabl probabl
 probabl set
@@ -2933,29 +2965,31 @@ problem aris
 problem comput
 problem consid
 problem defin
-problem definit
 problem determin
 problem domain
 problem exampl
-problem follow
+problem figur
 problem formul
 problem general
 problem given
+problem howev
 problem includ
 problem instanc
 problem involv
 problem learn
+problem mani
 problem model
 problem problem
 problem proceed
 problem relat
 problem repres
-problem requir
 problem section
 problem set
 problem shown
-problem sinc
+problem size
+problem solut
 problem solv
+problem state
 problem structur
 problem use
 problemat
@@ -2969,6 +3003,7 @@ proceed confer
 proceed confer uncertainti
 proceed eighth
 proceed eleventh
+proceed fifth
 proceed ieee
 proceed intern
 proceed intern confer
@@ -2999,37 +3034,38 @@ promis
 proof
 proof consid
 proof follow
-proof given
 proof lemma
 proof let
 proof proof
+proof sketch
 proof theorem
 proof use
 propag
 propag algorithm
 propag structur
+propag structur belief
 proper
 properti
 properti hold
 proport
 propos
 propos algorithm
-propos approach
 propos method
 propos new
 propos paper
 propos use
 proposit
+proposit languag
 proposit let
-protocol
 prototyp
 provabl
+provan
 prove
-prove follow
 prove theorem
+prove use
 proven
 provid better
-provid good
+provid inform
 provid insight
 provid new
 provid use
@@ -3046,6 +3082,7 @@ push
 quadrat
 qualit
 qualiti
+qualiti approxim
 quantif
 quantifi
 quantit
@@ -3053,7 +3090,6 @@ quantiti
 quarter
 queri
 question
-queue
 quick
 quit
 quit differ
@@ -3064,7 +3100,6 @@ random
 random field
 random generat
 random sampl
-random select
 random variabl
 rang
 rank
@@ -3090,10 +3125,8 @@ realist
 realiz
 realize
 realli
-rearrang
 reason belief
 reason infer
-reason infer cambridg
 reason intellig
 reason intellig morgan
 reason intellig network
@@ -3103,6 +3136,7 @@ reason use
 recal
 receiv
 recent
+recent research
 recent work
 recent year
 recogn
@@ -3114,10 +3148,10 @@ recov
 rectangl
 recurs
 red
+redmond
 reduc
 reduc comput
 reduc number
-reduc problem
 reduc size
 reduct
 redund
@@ -3130,12 +3164,14 @@ regard
 regardless
 region
 regress
-regret
 regular
+reidel
 reinforc
 reinforc learn
 reject
+relat defin
 relat small
+relat variabl
 relat work
 relationship
 relationship variabl
@@ -3161,8 +3197,8 @@ report result
 repres
 repres condit
 repres direct
+repres joint
 repres node
-repres possibl
 repres probabl
 repres random
 repres random variabl
@@ -3176,13 +3212,16 @@ represent
 represent infer
 represent reason
 represent use
-reproduc
 request
 requir
 requir comput
 requir onli
+requir solv
+requir time
 res
 research
+research grant
+research report
 research support
 resembl
 reserv
@@ -3200,15 +3239,10 @@ respons
 rest
 rest paper
 rest paper organ
-restor
 restrict
 restrict attent
-restrict ourselv
-restrict set
 result algorithm
 result appli
-result averag
-result case
 result demonstr
 result differ
 result experi
@@ -3223,12 +3257,12 @@ result network
 result obtain
 result paper
 result present
-result report
+result provid
 result section
 result set
 result shown
+result state
 result suggest
-result tabl
 result theorem
 result use
 retain
@@ -3246,11 +3280,11 @@ rewrit
 rewritten
 rich
 richard
-richardson
 richer
 right
 right hand
 right-hand
+rina
 rise
 risk
 rithm
@@ -3270,9 +3304,7 @@ rough
 rough speak
 round
 rout
-routin
 row
-roy
 royal
 royal statist
 royal statist societi
@@ -3291,15 +3323,14 @@ sake
 sampl
 sampl algorithm
 sampl distribut
-sampl generat
 sampl method
 sampl size
 sampl use
-sampler
 san
 san francisco
 san mateo
 san mateo california
+sat
 satisfact
 satisfact problem
 satisfi
@@ -3307,32 +3338,26 @@ satisfi condit
 satisfi constraint
 satisfi follow
 save
-saw
 say
 scalabl
-scalar
 scale
 scenario
 schedul
 schein
-schein causat
-schein causat predict
 scheme
 school
 school comput
 school comput scienc
-schuurman
-sci
 scienc
 scienc center
 scienc depart
 scienc depart univers
+scienc dept
 scienc engin
 scienc foundat
 scienc foundat grant
 scienc publish
 scienc univers
-scienc univers british
 scientif
 scientif research
 scope
@@ -3349,11 +3374,8 @@ seattl
 sec
 second
 second case
-second order
 second step
 second term
-section algorithm
-section appli
 section assum
 section briefli
 section compar
@@ -3362,6 +3384,7 @@ section consid
 section defin
 section describ
 section discuss
+section extend
 section introduc
 section present
 section provid
@@ -3375,6 +3398,7 @@ select
 select action
 semant
 send
+send messag
 sens
 sensit
 sensit analysi
@@ -3389,7 +3413,7 @@ seri
 serv
 servic
 set action
-set ani
+set belief
 set case
 set comput
 set condit
@@ -3397,7 +3421,6 @@ set condit probabl
 set consist
 set constraint
 set contain
-set correspond
 set data
 set defin
 set denot
@@ -3409,8 +3432,8 @@ set experi
 set figur
 set function
 set given
-set howev
 set independ
+set instanc
 set let
 set model
 set node
@@ -3423,15 +3446,12 @@ set probabl
 set random
 set random variabl
 set result
-set sampl
 set set
-set size
 set state
 set subset
 set use
 set valu
 set variabl
-set vertic
 setup
 seven
 seventh
@@ -3447,6 +3467,7 @@ shall
 shall use
 shape
 share
+shed
 shenoy
 shift
 shimoni
@@ -3466,13 +3487,10 @@ sibl
 sign
 signal
 signific
-signific better
 signific differ
 signific improv
-signific outperform
 similar
 similar approach
-similar argument
 similar result
 similar use
 simon
@@ -3490,40 +3508,37 @@ simul
 simultan
 sinc
 sinc ani
-sinc assum
 sinc onli
 sinc set
 sinc use
+sinc valu
 sinc variabl
 singh
 singl
 singl node
 singl variabl
 singleton
-sion
-site
+sis
 situat
 sixth
 size
-size largest
 size network
-size number
+size use
 sketch
 slice
 slight
 slight differ
 slow
 slower
-slowli
 small
 small number
 small set
 smaller
 smallest
+smet
 smith
 smooth
 so-cal
-soc
 social
 societi
 societi seri
@@ -3550,39 +3565,35 @@ sound
 sourc
 space
 space complex
+space exponenti
 space possibl
-space set
-space time
+space size
 space use
 span
 spars
-spatial
 speak
 special
 special case
 specif
 specif valu
 specifi
-specifi condit
 spectrum
 speed
 speedup
 spend
 spent
 spiegelhalt
+spiegelhalt lauritzen
 spiegelhalt local
 spiegelhalt local comput
 spirit
 spirt
 spirt glymour
-spirt glymour schein
 split
-spread
 springer
 springer verlag
 springer-verlag
 squar
-sriniva
 stabil
 stabl
 stage
@@ -3604,10 +3615,14 @@ state art
 state correspond
 state follow
 state given
+state let
 state node
 state observ
 state onli
+state polici
 state probabl
+state reach
+state repres
 state result
 state set
 state space
@@ -3626,8 +3641,7 @@ stationari
 statist
 statist associ
 statist data
-statist model
-statist signific
+statist quarter
 statist societi
 statist societi seri
 status
@@ -3635,7 +3649,6 @@ stay
 stem
 step
 step algorithm
-step comput
 step use
 stochast
 stochast domain
@@ -3654,19 +3667,16 @@ strategi
 strategi use
 street
 strength
-stress
 strict
 strict posit
 strong
 stronger
 structur
-structur algorithm
 structur applic
 structur applic expert
 structur bayesian
 structur belief
 structur belief network
-structur data
 structur figur
 structur follow
 structur learn
@@ -3674,6 +3684,7 @@ structur model
 structur network
 structur paramet
 structur use
+stuart
 student
 studi
 style
@@ -3690,7 +3701,6 @@ subsequ
 subset
 subset set
 subset variabl
-subspac
 substanti
 substitut
 subsum
@@ -3711,27 +3721,25 @@ suggest use
 suit
 suitabl
 sum
+sum valu
 summar
 summari
 summat
 sup
 superior
-supervis
 suppli
 support
+support grant
 support nation
 support nation scienc
 support nsf
 support nsf grant
 suppos
-suppos given
-suppress
 sure
 surfac
 surpris
-surround
 survey
-sutton
+suspect
 sweep
 switch
 symbol
@@ -3742,11 +3750,9 @@ symptom
 syntact
 synthesi
 synthet
-synthet data
 systemat
 tabl
 tabl result
-tabl tabl
 tackl
 tail
 tailor
@@ -3754,16 +3760,15 @@ tain
 taken
 target
 task
-team
 tech
 technic
 technic report
 technic report depart
 techniqu
+techniqu comput
 techniqu use
 technolog
 tell
-temperatur
 tempor
 tend
 tendenc
@@ -3773,8 +3778,6 @@ term
 termin
 terminolog
 test
-test algorithm
-test data
 test perform
 test set
 test use
@@ -3792,7 +3795,6 @@ theorem provid
 theorem state
 theorem theorem
 theoret
-theoret analysi
 theoret result
 theori
 therebi
@@ -3800,12 +3802,12 @@ therefor
 therefor use
 thesi
 thesi stanford
+thesi stanford univers
 thesi univers
 thing
 think
 thirteenth
 thoma
-thorough
 thought
 thousand
 threshold
@@ -3817,7 +3819,6 @@ time
 time algorithm
 time complex
 time comput
-time differ
 time figur
 time given
 time linear
@@ -3827,10 +3828,10 @@ time requir
 time result
 time second
 time space
+time space complex
 time step
 time time
 time use
-time-depend
 tion
 tional
 tive
@@ -3844,6 +3845,8 @@ toronto
 total
 total number
 total order
+toulous
+toy
 trace
 track
 tractabl
@@ -3854,10 +3857,10 @@ tradit
 train
 train data
 train set
-train test
 trajectori
 tran
 transact
+transact inform
 transact man
 transact man cybernet
 transfer
@@ -3883,21 +3886,18 @@ treewidth
 trend
 tri
 trial
-triangl
 triangul
-triangular
 tribut
-trick
 trigger
 tripl
 trivial
 true
 true fals
 true probabl
+true true
 true valu
-truncat
 truth
-truth valu
+tsitsik
 tune
 tupl
 ture
@@ -3913,7 +3913,6 @@ uai2001
 ucla
 ultim
 unabl
-unambigu
 unbias
 unbound
 uncertain
@@ -3941,6 +3940,7 @@ univers alberta
 univers british
 univers british columbia
 univers california
+univers california berkeley
 univers california los
 univers pittsburgh
 univers press
@@ -3957,6 +3957,7 @@ updat probabl
 upper
 upper bound
 upper lower
+upper lower bound
 usa
 usag
 use abov
@@ -3967,10 +3968,11 @@ use approach
 use approxim
 use bay
 use bayesian
+use bayesian belief
 use bayesian network
 use belief
+use belief network
 use bound
-use combin
 use comput
 use condit
 use construct
@@ -3979,23 +3981,19 @@ use decis
 use defin
 use definit
 use denot
-use deriv
 use determin
 use differ
 use direct
 use distribut
 use dynam
-use dynam program
 use effici
 use equat
 use estim
 use evalu
 use exact
 use exampl
-use expect
 use experi
 use fact
-use fix
 use follow
 use general
 use generat
@@ -4006,11 +4004,12 @@ use instead
 use learn
 use linear
 use local
-use mani
+use logic
 use measur
 use method
 use model
 use multipl
+use network
 use new
 use notat
 use number
@@ -4018,31 +4017,27 @@ use observ
 use onli
 use order
 use paper
+use partial
 use previous
 use prior
 use probabilist
 use probabl
 use properti
-use random
+use reason
 use repres
 use result
 use sampl
 use search
 use set
-use sever
 use similar
 use simpl
 use singl
 use solv
 use standard
-use statist
-use stochast
 use structur
 use techniqu
 use term
 use test
-use theorem
-use uniform
 use updat
 use valu
 use variabl
@@ -4064,20 +4059,24 @@ valu determin
 valu differ
 valu estim
 valu everi
-valu exampl
+valu expect
 valu figur
+valu follow
 valu function
 valu given
 valu inform
 valu iter
+valu make
 valu node
 valu number
 valu observ
 valu obtain
+valu onli
 valu paramet
 valu parent
 valu probabl
 valu random
+valu repres
 valu respect
 valu result
 valu set
@@ -4092,36 +4091,37 @@ van
 van der
 vancouv
 vancouv canada
-vanish
 var
 vari
 variabl
+variabl addit
+variabl algorithm
 variabl ani
 variabl appear
+variabl arc
 variabl assign
 variabl associ
 variabl assum
 variabl bayesian
 variabl binari
 variabl case
-variabl causal
 variabl comput
 variabl condit
 variabl consid
 variabl contain
 variabl correspond
 variabl defin
+variabl definit
 variabl denot
 variabl depend
 variabl differ
 variabl direct
-variabl discret
 variabl distribut
-variabl doe
 variabl domain
 variabl edg
 variabl elimin
 variabl everi
+variabl evid
 variabl exampl
 variabl figur
 variabl follow
@@ -4148,10 +4148,10 @@ variabl particular
 variabl possibl
 variabl probabl
 variabl problem
+variabl relev
 variabl repres
 variabl respect
 variabl result
-variabl select
 variabl set
 variabl shown
 variabl sinc
@@ -4170,13 +4170,9 @@ vector
 veri
 veri close
 veri differ
-veri difficult
 veri effect
 veri effici
-veri good
-veri high
 veri larg
-veri littl
 veri similar
 veri simpl
 veri small
@@ -4204,12 +4200,10 @@ visual
 vol
 volum
 volum page
-walk
 wang
 want
 want comput
 washington
-wast
 way
 way use
 weak
@@ -4218,13 +4212,11 @@ weaker
 web
 weigh
 weight
-weight averag
 weight sum
 weiss
 well-defin
 well-known
 wellman
-west
 whatev
 whenev
 wherea
@@ -4238,16 +4230,12 @@ width
 wiley
 wiley son
 william
-win
 window
+windsor
 wish
-wit
 word
-work focus
-work follow
 work paper
 work present
-work section
 work support
 work support nation
 work use
@@ -4266,6 +4254,7 @@ wrong
 x-axi
 y-axi
 year
+yedidia
 yes
 yield
 york
