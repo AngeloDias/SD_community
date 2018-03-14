@@ -1,0 +1,2 @@
+java -jar DP4.jar "../../testingPageRank/" "doc_term_matrix_tfidf_with_header_discrete.csv" "10" "Qg" "zero" "6,80,104,116,134,145,151,153,156,256" "1"
+
