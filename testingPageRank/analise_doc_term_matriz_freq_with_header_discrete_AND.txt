@@ -1,459 +1,447 @@
-Arquivos usados para comparação:
-
 doc_term_matrix_freq_with_header_discrete.csvRID_doc_term_matrix_freq_with_header_discrete_QgAND_2018-2-14-1521069826591.txt
 doc_term_matrix_freq_discrete.csvRID_doc_term_matrix_freq_discrete_QgAND_2017-11-3-1512322277757.txt
+doc_term_matrix_freq_with_header_discrete
+4167
+428
+Qg
+AND
 
-################################
-BASE DE DADOS ##################
-################################
-Nome: doc_term_matrix_freq_with_header_discrete
-Total Colunas (atributos): 4167
-Total de Linhas (exemplos/amostras): 428
-CLASSES: 104, 116, 134, 145, 151, 153, 156, 256, 6, 80
+6
 
-################################
-INFORMAÇÕES TÉCNICAS ###########
-################################
-Métrica de avaliação: Qg
-Operador entre características: AND
+{pool=alto,vancouv=baixo}
+{pool=alto,univers british columbia=baixo}
+{canada=baixo,pool=alto}
+{david=baixo,depart comput=baixo,pool=alto}
+{columbia vancouv=baixo,pool=alto}
+{pool=alto,publish=baixo}
+{david pool=baixo,pool=alto}
+{publish=baixo,univers british columbia=baixo,vancouv=baixo}
+{empti=baixo,pool=alto}
+{issu=baixo,univers british columbia=baixo}
+{columbia vancouv=baixo,issu=baixo}
+{canada=baixo,columbia vancouv=baixo,fact=baixo,vancouv=baixo}
+{author=baixo,pool=alto}
+{come=baixo,pool=alto}
+{map=baixo,zhang=alto}
+{depart comput=baixo,publish=baixo,vancouv=baixo}
+{describ=baixo,publish=baixo,vancouv=baixo}
+{depart comput=baixo,independ=baixo,pool=alto}
+{david=baixo,issu=baixo,pool=alto}
+{columbia vancouv=baixo,graph=baixo}
+--
+{conclus=baixo,requir=baixo,univers british columbia=baixo}
+{conclus=baixo,equal=baixo,univers british columbia=baixo}
+{british columbia=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo}
+{combin=baixo,data=baixo,univers british columbia=baixo}
+{columbia=baixo,data=baixo,particular=baixo,univers british columbia=baixo}
+{british columbia=baixo,data=baixo,time=baixo}
+{british=baixo,data=baixo,let=baixo,univers british columbia=baixo}
+{pool=alto,vancouv=baixo}
+{data=baixo,univers british columbia=baixo,vancouv=baixo}
+{equal=baixo,univers british columbia=baixo,vancouv canada=baixo}
+{british columbia vancouv=baixo,conclus=baixo,vancouv canada=baixo}
+{british=baixo,british columbia=baixo,proceed=baixo,requir=baixo}
+{data=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo}
+{british=baixo,british columbia vancouv=baixo,conclus=baixo,order=baixo,univers british columbia=baixo}
+{assum=baixo,data=baixo,univers british columbia=baixo}
+{columbia=baixo,conclus=baixo,step=baixo,vancouv canada=baixo}
+{british columbia=baixo,pool=alto}
+{issu=baixo,univers british columbia=baixo}
+{canada=baixo,pool=alto}
+{posterior=baixo,vancouv=baixo}
 
-CLASSE = 6
+80
 
-{pool=alto,vancouv=baixo}->6 (6=13, outros=0)
-{pool=alto,univers british columbia=baixo}->6 (6=12, outros=0)
-{canada=baixo,pool=alto}->6 (6=12, outros=0)
-{david=baixo,depart comput=baixo,pool=alto}->6 (6=12, outros=0)
-{columbia vancouv=baixo,pool=alto}->6 (6=11, outros=0)
-{pool=alto,publish=baixo}->6 (6=11, outros=0)
-{david pool=baixo,pool=alto}->6 (6=9, outros=0)
-{publish=baixo,univers british columbia=baixo,vancouv=baixo}->6 (6=9, outros=0)
-{empti=baixo,pool=alto}->6 (6=9, outros=0)
-{issu=baixo,univers british columbia=baixo}->6 (6=9, outros=0)
-{columbia vancouv=baixo,issu=baixo}->6 (6=9, outros=0)
-{canada=baixo,columbia vancouv=baixo,fact=baixo,vancouv=baixo}->6 (6=9, outros=0)
-{author=baixo,pool=alto}->6 (6=8, outros=0)
-{come=baixo,pool=alto}->6 (6=8, outros=0)
-{map=baixo,zhang=alto}->6 (6=8, outros=0)
-{depart comput=baixo,publish=baixo,vancouv=baixo}->6 (6=8, outros=0)
-{describ=baixo,publish=baixo,vancouv=baixo}->6 (6=8, outros=0)
-{depart comput=baixo,independ=baixo,pool=alto}->6 (6=8, outros=0)
-{david=baixo,issu=baixo,pool=alto}->6 (6=8, outros=0)
-{columbia vancouv=baixo,graph=baixo}->6 (6=8, outros=0)
+{final=baixo,moreov=alto,univers california los=baixo}
+{infer belief=baixo,judea=baixo}
+{california los angel=baixo,network node=baixo}
+{adnan=baixo,moreov=alto}
+{cpt=baixo,univers california los=baixo}
+{dechter=baixo,scienc depart univers=baixo,univers california los=baixo}
+{kaufmann publish inc.=alto}
+{publish inc.=alto}
+{infer bayesian network=baixo,los=baixo,network node=baixo}
+{california los angel=baixo,comput probabl=baixo}
+{dechter=baixo,los=baixo}
+{resourc=baixo,scienc depart univers=baixo,similar=baixo}
+{causal independ=baixo,depart univers=baixo}
+{california los angel=baixo,final=baixo,lead=alto}
+{kaufmann publish=alto,simplifi=baixo}
+{infer bayesian=baixo,los angel=baixo,moreov=alto}
+{cpts=baixo,depart univers=baixo}
+{infer bayesian network=baixo,los=baixo,scienc depart univers=baixo}
+{pittsburgh=alto,similar=baixo}
+{depart univers=baixo,network structur=baixo}
+--
+{addit=baixo,pittsburgh=alto}
+{pearl=baixo,pittsburgh=alto}
+{depend=baixo,pittsburgh=alto}
+{cpt=baixo,univers california los=baixo}
+{pittsburgh=alto,step=baixo}
+{connect=baixo,pittsburgh=alto}
+{independ=baixo,pearl=baixo,plausibl=baixo,publish=alto}
+{anonym=baixo,observ=baixo,pittsburgh=alto}
+{california los=baixo,network node=baixo}
+{kaufmann publish inc.=baixo,pittsburgh=alto}
+{depart=baixo,pittsburgh=alto}
+{belief network=baixo,pittsburgh=alto}
+{instead=baixo,pittsburgh=alto}
+{conclus=baixo,pittsburgh=alto}
+{discret=baixo,pittsburgh=alto}
+{let=baixo,pittsburgh=alto}
+{observ=baixo,pittsburgh=alto,plausibl=baixo}
+{independ=baixo,pittsburgh=alto,plausibl=baixo}
+{contribut=baixo,pittsburgh=alto}
+{california los=baixo,pearl=baixo,plausibl=baixo}
 
-## Professor
-{conclus=baixo,requir=baixo,univers british columbia=baixo}->6 (6=17, outros=0)
-{conclus=baixo,equal=baixo,univers british columbia=baixo}->6 (6=16, outros=0)
-{british columbia=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo}->6 (6=16, outros=0)
-{combin=baixo,data=baixo,univers british columbia=baixo}->6 (6=15, outros=0)
-{columbia=baixo,data=baixo,particular=baixo,univers british columbia=baixo}->6 (6=15, outros=0)
-{british columbia=baixo,data=baixo,time=baixo}->6 (6=15, outros=0)
-{british=baixo,data=baixo,let=baixo,univers british columbia=baixo}->6 (6=14, outros=0)
-{pool=alto,vancouv=baixo}->6 (6=13, outros=0)
-{data=baixo,univers british columbia=baixo,vancouv=baixo}->6 (6=13, outros=0)
-{equal=baixo,univers british columbia=baixo,vancouv canada=baixo}->6 (6=13, outros=0)
-{british columbia vancouv=baixo,conclus=baixo,vancouv canada=baixo}->6 (6=13, outros=0)
-{british=baixo,british columbia=baixo,proceed=baixo,requir=baixo}->6 (6=13, outros=0)
-{data=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo}->6 (6=13, outros=0)
-{british=baixo,british columbia vancouv=baixo,conclus=baixo,order=baixo,univers british columbia=baixo}->6 (6=13, outros=0)
-{assum=baixo,data=baixo,univers british columbia=baixo}->6 (6=13, outros=0)
-{columbia=baixo,conclus=baixo,step=baixo,vancouv canada=baixo}->6 (6=13, outros=0)
-{british columbia=baixo,pool=alto}->6 (6=12, outros=0)
-{issu=baixo,univers british columbia=baixo}->6 (6=12, outros=0)
-{canada=baixo,pool=alto}->6 (6=12, outros=0)
-{posterior=baixo,vancouv=baixo}->6 (6=12, outros=0)
+104
 
-CLASSE = 80
+{daphn koller=baixo,test=baixo}
+{daphn koller=baixo,main=baixo}
+{daphn koller=baixo,standard=alto}
+{daphn koller=baixo,idea=baixo}
+{daphn koller=baixo,exist=baixo,optim=baixo}
+{constraint=baixo,daphn koller=baixo}
+{daphn koller=baixo,success=baixo}
+{koller=alto,stanford=baixo}
+{daphn koller=baixo,furthermor=baixo}
+{constant=baixo,daphn koller=baixo}
+{daphn koller=baixo,mention=baixo}
+{daphn koller=baixo,grow=baixo}
+{daphn koller=baixo,koller=alto}
+{daphn koller=baixo,random variabl=baixo}
+{daphn koller=baixo,exist=baixo,updat=baixo}
+{daphn=baixo,daphn koller=baixo,furthermor=baixo}
+{algorithm use=baixo,daphn koller=baixo}
+{daphn koller=baixo,stanford=baixo,updat=baixo}
+{allow=alto,daphn=baixo}
+{basic=baixo,daphn koller=baixo}
+--
+{daphn koller=baixo,effect=baixo,stanford univers=baixo}
+{daphn koller=baixo,effect=baixo,stanford=baixo}
+{koller=alto,stanford=baixo}
+{daphn koller=baixo,program=baixo,stanford univers=baixo}
+{daphn koller=baixo,partit=baixo}
+{befor=baixo,daphn koller=baixo,program=baixo}
+{daphn koller=baixo,natur=baixo,program=baixo}
+{daphn=baixo,effect=baixo,stanford=baixo}
+{daphn koller=baixo,program=baixo,stanford=baixo}
+{daphn koller=baixo,easili=baixo,stanford univers=baixo}
+{daphn koller=baixo,stanford univers=baixo,task=baixo}
+{daphn koller=baixo,success=baixo}
+{daphn koller=baixo,natur=baixo,reduc=baixo}
+{daphn koller=baixo,standard=alto}
+{koller=alto,stanford univers=baixo}
+{daphn koller=baixo,simpl=alto}
+{daphn=baixo,stanford univers=baixo,task=baixo}
+{daphn koller=baixo,easili=baixo,stanford=baixo}
+{darpa=baixo,stanford=baixo,stanford univers=baixo}
+{daphn koller=baixo,easili=baixo,program=baixo}
 
-{final=baixo,moreov=alto,univers california los=baixo}->80 (80=11, outros=0)
-{infer belief=baixo,judea=baixo}->80 (80=8, outros=0)
-{california los angel=baixo,network node=baixo}->80 (80=8, outros=0)
-{adnan=baixo,moreov=alto}->80 (80=8, outros=0)
-{cpt=baixo,univers california los=baixo}->80 (80=8, outros=0)
-{dechter=baixo,scienc depart univers=baixo,univers california los=baixo}->80 (80=8, outros=0)
-{kaufmann publish inc.=alto}->80 (80=7, outros=0)
-{publish inc.=alto}->80 (80=7, outros=0)
-{infer bayesian network=baixo,los=baixo,network node=baixo}->80 (80=7, outros=0)
-{california los angel=baixo,comput probabl=baixo}->80 (80=7, outros=0)
-{dechter=baixo,los=baixo}->80 (80=7, outros=0)
-{resourc=baixo,scienc depart univers=baixo,similar=baixo}->80 (80=7, outros=0)
-{causal independ=baixo,depart univers=baixo}->80 (80=6, outros=0)
-{california los angel=baixo,final=baixo,lead=alto}->80 (80=6, outros=0)
-{kaufmann publish=alto,simplifi=baixo}->80 (80=6, outros=0)
-{infer bayesian=baixo,los angel=baixo,moreov=alto}->80 (80=6, outros=0)
-{cpts=baixo,depart univers=baixo}->80 (80=6, outros=0)
-{infer bayesian network=baixo,los=baixo,scienc depart univers=baixo}->80 (80=6, outros=0)
-{pittsburgh=alto,similar=baixo}->80 (80=6, outros=0)
-{depart univers=baixo,network structur=baixo}->80 (80=6, outros=0)
+116
 
-{addit=baixo,pittsburgh=alto}->80 (80=10, outros=0)
-{pearl=baixo,pittsburgh=alto}->80 (80=9, outros=0)
-{depend=baixo,pittsburgh=alto}->80 (80=9, outros=0)
-{cpt=baixo,univers california los=baixo}->80 (80=8, outros=0)
-{pittsburgh=alto,step=baixo}->80 (80=8, outros=0)
-{connect=baixo,pittsburgh=alto}->80 (80=8, outros=0)
-{independ=baixo,pearl=baixo,plausibl=baixo,publish=alto}->80 (80=8, outros=0)
-{anonym=baixo,observ=baixo,pittsburgh=alto}->80 (80=8, outros=0)
-{california los=baixo,network node=baixo}->80 (80=8, outros=0)
-{kaufmann publish inc.=baixo,pittsburgh=alto}->80 (80=7, outros=0)
-{depart=baixo,pittsburgh=alto}->80 (80=7, outros=0)
-{belief network=baixo,pittsburgh=alto}->80 (80=7, outros=0)
-{instead=baixo,pittsburgh=alto}->80 (80=7, outros=0)
-{conclus=baixo,pittsburgh=alto}->80 (80=7, outros=0)
-{discret=baixo,pittsburgh=alto}->80 (80=7, outros=0)
-{let=baixo,pittsburgh=alto}->80 (80=7, outros=0)
-{observ=baixo,pittsburgh=alto,plausibl=baixo}->80 (80=7, outros=0)
-{independ=baixo,pittsburgh=alto,plausibl=baixo}->80 (80=7, outros=0)
-{contribut=baixo,pittsburgh=alto}->80 (80=7, outros=0)
-{california los=baixo,pearl=baixo,plausibl=baixo}->80 (80=7, outros=0)
+{fuzzi=alto}
+{exist=baixo,foundat=baixo,fuzzi set=baixo}
+{foundat=baixo,fuzzi set=baixo,rout=baixo}
+{establish=baixo,foundat=baixo,fuzzi set=baixo}
+{fuzzi set=baixo,inconsist=baixo}
+{ed=alto,rout=baixo}
+{foundat=baixo,fuzzi set=baixo,possibl distribut=baixo}
+{fuzzi set=baixo,necess=baixo,rout=baixo}
+{conclus=baixo,necess=baixo,rout=baixo}
+{foundat=baixo,fuzzi set=baixo,solut=baixo}
+{conclus=baixo,fuzzi set=baixo,necess=baixo}
+{previous=baixo,rout=baixo,vol=baixo}
+{form=baixo,necess=baixo,rout=baixo}
+{possibl distribut=baixo,solut=baixo}
+{degre=alto,vol=baixo}
+{lang=baixo,rout=baixo}
+{rout=baixo,total order=baixo}
+{look=alto,rout=baixo}
+{capabl=baixo,fuzzi=baixo}
+{inform=alto,possibl distribut=baixo}
+--
+{fuzzi=alto}
+{foundat=baixo,fuzzi set=baixo,intellig=baixo}
+{fuzzi set=baixo,justifi=baixo}
+{foundat=baixo,fuzzi set=baixo,vol=baixo}
+{denot=baixo,foundat=baixo,fuzzi set=baixo}
+{context=baixo,fuzzi set=baixo}
+{lang=baixo,world=baixo}
+{foundat=baixo,fuzzi set=baixo,knowledg base=baixo}
+{intellig=baixo,prade=alto}
+{estim=baixo,fuzzi set=baixo}
+{min max=baixo,way=alto}
+{fuzzi set=baixo,inform=alto}
+{fuzzi set=baixo,imprecis=baixo}
+{lang=baixo,max=alto}
+{academ=alto,fuzzi set=baixo}
+{fuzzi set=baixo,knowledg base=baixo,vol=baixo}
+{foundat=baixo,fuzzi set=baixo,world=baixo}
+{decomposit=baixo,foundat=baixo,fuzzi set=baixo}
+{foundat=baixo,fuzzi set=baixo}
+{look=alto,prade=alto}
 
-CLASSE = 104
+134
 
-{daphn koller=baixo,test=baixo}->104 (104=16, outros=0)
-{daphn koller=baixo,main=baixo}->104 (104=16, outros=0)
-{daphn koller=baixo,standard=alto}->104 (104=14, outros=0)
-{daphn koller=baixo,idea=baixo}->104 (104=14, outros=0)
-{daphn koller=baixo,exist=baixo,optim=baixo}->104 (104=14, outros=0)
-{constraint=baixo,daphn koller=baixo}->104 (104=13, outros=0)
-{daphn koller=baixo,success=baixo}->104 (104=13, outros=0)
-{koller=alto,stanford=baixo}->104 (104=13, outros=0)
-{daphn koller=baixo,furthermor=baixo}->104 (104=13, outros=0)
-{constant=baixo,daphn koller=baixo}->104 (104=13, outros=0)
-{daphn koller=baixo,mention=baixo}->104 (104=13, outros=0)
-{daphn koller=baixo,grow=baixo}->104 (104=12, outros=0)
-{daphn koller=baixo,koller=alto}->104 (104=12, outros=0)
-{daphn koller=baixo,random variabl=baixo}->104 (104=12, outros=0)
-{daphn koller=baixo,exist=baixo,updat=baixo}->104 (104=12, outros=0)
-{daphn=baixo,daphn koller=baixo,furthermor=baixo}->104 (104=12, outros=0)
-{algorithm use=baixo,daphn koller=baixo}->104 (104=12, outros=0)
-{daphn koller=baixo,stanford=baixo,updat=baixo}->104 (104=12, outros=0)
-{allow=alto,daphn=baixo}->104 (104=12, outros=0)
-{basic=baixo,daphn koller=baixo}->104 (104=12, outros=0)
+{optim solut=alto,program=alto}
+{expand=alto,know=baixo}
+{correct=baixo,optim solut=alto}
+{intern joint confer=alto,state=alto}
+{chang=baixo,optim solut=alto}
+{mechan=baixo,optim solut=alto}
+{optim solut=alto,task=baixo}
+{optim solut=alto,total=baixo}
+{confer=alto,optim solut=alto}
+{state onli=alto}
+{flexibl=baixo,optim solut=alto}
+{joint confer=alto,optim=alto}
+{make=alto,optim solut=alto}
+{necessari=alto,optim solut=alto}
+{horizon=alto,state=alto}
+{improv=alto,optim solut=alto}
+{increas=alto,optim solut=alto}
+{consist=alto,optim solut=alto}
+{effort=baixo,optim solut=alto}
+{implement=alto,optim solut=alto}
+--
+{confer artifici intellig=alto,improv=alto,increas=alto}
+{control=alto,search algorithm=baixo}
+{increas=alto,joint confer artifici=alto}
+{confer=alto,confer artifici=alto,set action=baixo}
+{mechan=baixo,optim solut=alto}
+{fraction=baixo,increas=alto,joint confer=alto}
+{increas=alto,joint confer=alto,limit=alto}
+{increas=alto,joint confer=alto,select=alto}
+{grow=alto,search algorithm=baixo,select=alto}
+{control=alto,cours=baixo,limit=alto}
+{confer artifici=alto,limit=alto,select=alto}
+{cours=baixo,joint confer=alto,select=alto}
+{confer artifici=alto,experi=alto,select=alto}
+{increas=alto,select=alto,set action=baixo}
+{joint confer artifici=alto,limit=alto}
+{joint confer artifici=alto,method=alto}
+{fraction=baixo,joint confer artifici=alto}
+{joint confer=alto,optim=alto}
+{control=alto,joint confer=alto}
+{grow=alto,joint confer=alto}
 
-{daphn koller=baixo,effect=baixo,stanford univers=baixo}->104 (104=16, outros=0)
-{daphn koller=baixo,effect=baixo,stanford=baixo}->104 (104=16, outros=0)
-{koller=alto,stanford=baixo}->104 (104=15, outros=0)
-{daphn koller=baixo,program=baixo,stanford univers=baixo}->104 (104=15, outros=0)
-{daphn koller=baixo,partit=baixo}->104 (104=15, outros=0)
-{befor=baixo,daphn koller=baixo,program=baixo}->104 (104=15, outros=0)
-{daphn koller=baixo,natur=baixo,program=baixo}->104 (104=15, outros=0)
-{daphn=baixo,effect=baixo,stanford=baixo}->104 (104=15, outros=0)
-{daphn koller=baixo,program=baixo,stanford=baixo}->104 (104=14, outros=0)
-{daphn koller=baixo,easili=baixo,stanford univers=baixo}->104 (104=14, outros=0)
-{daphn koller=baixo,stanford univers=baixo,task=baixo}->104 (104=14, outros=0)
-{daphn koller=baixo,success=baixo}->104 (104=14, outros=0)
-{daphn koller=baixo,natur=baixo,reduc=baixo}->104 (104=14, outros=0)
-{daphn koller=baixo,standard=alto}->104 (104=13, outros=0)
-{koller=alto,stanford univers=baixo}->104 (104=13, outros=0)
-{daphn koller=baixo,simpl=alto}->104 (104=13, outros=0)
-{daphn=baixo,stanford univers=baixo,task=baixo}->104 (104=13, outros=0)
-{daphn koller=baixo,easili=baixo,stanford=baixo}->104 (104=13, outros=0)
-{darpa=baixo,stanford=baixo,stanford univers=baixo}->104 (104=13, outros=0)
-{daphn koller=baixo,easili=baixo,program=baixo}->104 (104=13, outros=0)
+145
 
-CLASSE = 116
+{alberta=baixo,independ=baixo,variabl=baixo}
+{alberta=baixo,larger=baixo,scienc univers=baixo}
+{independ=baixo,scienc univers=baixo,univers alberta=baixo}
+{alberta=baixo,independ=baixo,scienc univers=baixo}
+{element=baixo,respect=baixo,univers alberta=baixo}
+{element=baixo,independ=baixo,univers alberta=baixo}
+{alberta=baixo,larger=baixo,variabl=baixo}
+{larger=baixo,scienc univers=baixo,univers alberta=baixo}
+{alberta=baixo,confer machin=baixo,introduc=baixo}
+{alberta=baixo,respect=baixo,variabl=baixo}
+{alberta=baixo,introduc=baixo,matrix=baixo}
+{factor=baixo,independ=baixo,univers alberta=baixo}
+{alberta=baixo,independ=baixo,matrix=baixo}
+{alberta=baixo,introduc=baixo,select=baixo}
+{alberta=baixo,factor=baixo,independ=baixo}
+{alberta=baixo,introduc=baixo,proof theorem=baixo}
+{factor=baixo,larger=baixo,univers alberta=baixo}
+{element=baixo,introduc=baixo,univers alberta=baixo}
+{alberta=baixo,larger=baixo,matrix=baixo}
+{alberta=baixo,introduc=baixo,notat=baixo}
+--
+{alberta=baixo,idea=baixo,proceed intern confer=baixo}
+{alberta=baixo,idea=baixo,random variabl=baixo}
+{alberta=baixo,expect=baixo,proceed intern confer=baixo}
+{alberta=baixo,idea=baixo,proceed intern confer=baixo,univers alberta=baixo}
+{alberta=baixo,idea=baixo,rate=baixo}
+{alberta=baixo,idea=baixo,random variabl=baixo,size=baixo}
+{idea=baixo,ident=baixo,univers alberta=baixo}
+{alberta=baixo,technolog=baixo}
+{alberta=baixo,left=baixo,random variabl=baixo}
+{alberta=baixo,random variabl=baixo,respect=baixo,size=baixo}
+{idea=baixo,later=baixo,univers alberta=baixo}
+{nserc=baixo,size=baixo,univers alberta=alto}
+{expect valu=baixo,nserc=baixo,peter=baixo}
+{alberta=baixo,nserc=baixo,proceed intern confer=baixo}
+{nserc=baixo,proceed intern confer=baixo,size=baixo}
+{alberta=baixo,proceed intern confer=baixo,size=baixo}
+{expect=baixo,expect valu=baixo,nserc=baixo,size=baixo}
+{alberta=baixo,idea=baixo,open=baixo}
+{minim=baixo,open=baixo,univers alberta=baixo}
+{left=baixo,random variabl=baixo,univers alberta=baixo}
 
-{fuzzi=alto}->116 (116=13, outros=0)
-{exist=baixo,foundat=baixo,fuzzi set=baixo}->116 (116=11, outros=0)
-{foundat=baixo,fuzzi set=baixo,rout=baixo}->116 (116=11, outros=0)
-{establish=baixo,foundat=baixo,fuzzi set=baixo}->116 (116=9, outros=0)
-{fuzzi set=baixo,inconsist=baixo}->116 (116=8, outros=0)
-{ed=alto,rout=baixo}->116 (116=8, outros=0)
-{foundat=baixo,fuzzi set=baixo,possibl distribut=baixo}->116 (116=8, outros=0)
-{fuzzi set=baixo,necess=baixo,rout=baixo}->116 (116=8, outros=0)
-{conclus=baixo,necess=baixo,rout=baixo}->116 (116=8, outros=0)
-{foundat=baixo,fuzzi set=baixo,solut=baixo}->116 (116=8, outros=0)
-{conclus=baixo,fuzzi set=baixo,necess=baixo}->116 (116=8, outros=0)
-{previous=baixo,rout=baixo,vol=baixo}->116 (116=8, outros=0)
-{form=baixo,necess=baixo,rout=baixo}->116 (116=8, outros=0)
-{possibl distribut=baixo,solut=baixo}->116 (116=7, outros=0)
-{degre=alto,vol=baixo}->116 (116=7, outros=0)
-{lang=baixo,rout=baixo}->116 (116=7, outros=0)
-{rout=baixo,total order=baixo}->116 (116=7, outros=0)
-{look=alto,rout=baixo}->116 (116=7, outros=0)
-{capabl=baixo,fuzzi=baixo}->116 (116=7, outros=0)
-{inform=alto,possibl distribut=baixo}->116 (116=7, outros=0)
+151
 
-{fuzzi=alto}->116 (116=13, outros=0)
-{foundat=baixo,fuzzi set=baixo,intellig=baixo}->116 (116=12, outros=0)
-{fuzzi set=baixo,justifi=baixo}->116 (116=9, outros=0)
-{foundat=baixo,fuzzi set=baixo,vol=baixo}->116 (116=9, outros=0)
-{denot=baixo,foundat=baixo,fuzzi set=baixo}->116 (116=9, outros=0)
-{context=baixo,fuzzi set=baixo}->116 (116=8, outros=0)
-{lang=baixo,world=baixo}->116 (116=8, outros=0)
-{foundat=baixo,fuzzi set=baixo,knowledg base=baixo}->116 (116=8, outros=0)
-{intellig=baixo,prade=alto}->116 (116=7, outros=0)
-{estim=baixo,fuzzi set=baixo}->116 (116=7, outros=0)
-{min max=baixo,way=alto}->116 (116=7, outros=0)
-{fuzzi set=baixo,inform=alto}->116 (116=7, outros=0)
-{fuzzi set=baixo,imprecis=baixo}->116 (116=7, outros=0)
-{lang=baixo,max=alto}->116 (116=7, outros=0)
-{academ=alto,fuzzi set=baixo}->116 (116=7, outros=0)
-{fuzzi set=baixo,knowledg base=baixo,vol=baixo}->116 (116=7, outros=0)
-{foundat=baixo,fuzzi set=baixo,world=baixo}->116 (116=7, outros=0)
-{decomposit=baixo,foundat=baixo,fuzzi set=baixo}->116 (116=7, outros=0)
-{foundat=baixo,fuzzi set=baixo}->116 (116=13, outros=1)
-{look=alto,prade=alto}->116 (116=6, outros=0)
+{rina=baixo,support nsf=baixo}
+{rina=baixo,undirect graph=baixo}
+{inform comput=baixo,rina=baixo}
+{direct acycl graph=baixo,rina=baixo}
+{repres=baixo,rina=baixo}
+{constraint=alto,rina=baixo}
+{graphic model=alto,rina=baixo}
+{evid=baixo,rina=baixo}
+{nsf grant=baixo,rina=baixo}
+{rina=baixo,simpl=baixo}
+{assign=alto,rina=baixo}
+{order=alto,rina=baixo}
+{acycl graph=baixo,rina=baixo}
+{rina=baixo,satisfact problem=baixo}
+{dechter=alto,requir=baixo}
+{random=alto,rina=baixo}
+{constraint satisfact=baixo,rina=baixo}
+{program=baixo,rina=baixo}
+{rina=baixo,signific=baixo,various=baixo}
+{graphic model=alto,nsf grant=baixo,requir=baixo}
+--
+{scienc univers=baixo,undirect=baixo,undirect graph=baixo,univers california=baixo}
+{instanti=baixo,scienc univers=baixo,undirect graph=baixo,univers california=baixo}
+{inform comput=baixo,support nsf=baixo,undirect=baixo}
+{irvin=baixo,scienc univers=baixo,undirect graph=baixo}
+{instanti=baixo,irvin=baixo,undirect graph=baixo}
+{irvin=baixo,support nsf=baixo}
+{darwich=baixo,graphic model=alto}
+{graphic model=alto,scope=alto}
+{dechter=alto,network repres=baixo}
+{dechter=alto,signific=baixo}
+{graphic model=alto,undirect graph=baixo,univers california=baixo}
+{complet=baixo,dechter=alto}
+{graphic model=alto,instanti=baixo,undirect graph=baixo}
+{dechter=alto,instanti=baixo}
+{dechter=alto,paramet=baixo}
+{graphic model=alto,instanti=baixo,nsf grant=baixo}
+{signific=baixo,support nsf=baixo,undirect=baixo}
+{dechter=alto,empir=baixo}
+{final=baixo,irvin=baixo,undirect graph=baixo}
+{dechter=alto,input=baixo}
 
-CLASSE = 134
+153
 
-{optim solut=alto,program=alto}->134 (134=9, outros=0)
-{expand=alto,know=baixo}->134 (134=9, outros=0)
-{correct=baixo,optim solut=alto}->134 (134=9, outros=0)
-{intern joint confer=alto,state=alto}->134 (134=8, outros=0)
-{chang=baixo,optim solut=alto}->134 (134=8, outros=0)
-{mechan=baixo,optim solut=alto}->134 (134=8, outros=0)
-{optim solut=alto,task=baixo}->134 (134=8, outros=0)
-{optim solut=alto,total=baixo}->134 (134=8, outros=0)
-{confer=alto,optim solut=alto}->134 (134=8, outros=0)
-{state onli=alto}->134 (134=7, outros=0)
-{flexibl=baixo,optim solut=alto}->134 (134=7, outros=0)
-{joint confer=alto,optim=alto}->134 (134=7, outros=0)
-{make=alto,optim solut=alto}->134 (134=7, outros=0)
-{necessari=alto,optim solut=alto}->134 (134=7, outros=0)
-{horizon=alto,state=alto}->134 (134=7, outros=0)
-{improv=alto,optim solut=alto}->134 (134=7, outros=0)
-{increas=alto,optim solut=alto}->134 (134=7, outros=0)
-{consist=alto,optim solut=alto}->134 (134=7, outros=0)
-{effort=baixo,optim solut=alto}->134 (134=7, outros=0)
-{implement=alto,optim solut=alto}->134 (134=7, outros=0)
+{determin=baixo,medic informat=baixo}
+{network=baixo,redmond=baixo}
+{likelihood=baixo,redmond=baixo}
+{denot=baixo,medic informat=baixo,requir=baixo}
+{depend=baixo,redmond=baixo}
+{medic informat=baixo,procedur=baixo}
+{eric horvitz=baixo,horvitz=alto}
+{acknowledg=baixo,redmond=baixo}
+{perform=baixo,redmond=baixo,time=baixo}
+{redmond=baixo,structur=baixo}
+{redmond=baixo,requir=baixo,time=baixo}
+{cooper=baixo,redmond=baixo}
+{medic informat=baixo,new=baixo,requir=baixo}
+{identifi=baixo,medic informat=baixo}
+{bayesian network=baixo,redmond=baixo}
+{horvitz=alto,practic=baixo}
+{medic informat=baixo,perform=baixo,requir=baixo}
+{appli=baixo,redmond=baixo,requir=baixo}
+{medic informat=baixo,requir=baixo,respect=baixo}
+{redmond=baixo,requir=baixo,sever=baixo}
+--
+{shachter=alto,univers stanford=baixo}
+{shachter=alto,stanford univers stanford=baixo}
+{represent=baixo,ross=baixo,univers stanford=baixo}
+{represent=baixo,ross=baixo,shachter=alto}
+{knowledg=baixo,ross=baixo,univers stanford=baixo}
+{let=baixo,ross=baixo,univers stanford=baixo}
+{knowledg=baixo,ross=baixo,shachter=alto}
+{proof=baixo,ross=baixo,shachter=alto}
+{proof=baixo,ross=baixo,univers stanford=baixo}
+{ross=baixo,strateg=baixo,univers stanford=baixo}
+{practic=baixo,shachter=alto,similar=baixo}
+{exampl consid=baixo,shachter=alto}
+{horvitz=alto,research=alto}
+{ross=baixo,scienc=baixo,shachter=alto}
+{practic=baixo,ross=baixo,stanford univers stanford=baixo}
+{altern=baixo,horvitz=alto}
+{let=baixo,ross=baixo,shachter=alto}
+{horvitz=alto,scienc=baixo,vari=baixo}
+{eric=baixo,form=baixo,horvitz=alto}
+{ross=baixo,uncertainti artifici=baixo,univers stanford=baixo}
 
-{confer artifici intellig=alto,improv=alto,increas=alto}->134 (134=11, outros=0)
-{control=alto,search algorithm=baixo}->134 (134=10, outros=0)
-{increas=alto,joint confer artifici=alto}->134 (134=10, outros=0)
-{confer=alto,confer artifici=alto,set action=baixo}->134 (134=9, outros=0)
-{mechan=baixo,optim solut=alto}->134 (134=9, outros=0)
-{fraction=baixo,increas=alto,joint confer=alto}->134 (134=9, outros=0)
-{increas=alto,joint confer=alto,limit=alto}->134 (134=9, outros=0)
-{increas=alto,joint confer=alto,select=alto}->134 (134=9, outros=0)
-{grow=alto,search algorithm=baixo,select=alto}->134 (134=9, outros=0)
-{control=alto,cours=baixo,limit=alto}->134 (134=9, outros=0)
-{confer artifici=alto,limit=alto,select=alto}->134 (134=9, outros=0)
-{cours=baixo,joint confer=alto,select=alto}->134 (134=9, outros=0)
-{confer artifici=alto,experi=alto,select=alto}->134 (134=9, outros=0)
-{increas=alto,select=alto,set action=baixo}->134 (134=9, outros=0)
-{joint confer artifici=alto,limit=alto}->134 (134=8, outros=0)
-{joint confer artifici=alto,method=alto}->134 (134=8, outros=0)
-{fraction=baixo,joint confer artifici=alto}->134 (134=8, outros=0)
-{joint confer=alto,optim=alto}->134 (134=8, outros=0)
-{control=alto,joint confer=alto}->134 (134=8, outros=0)
-{grow=alto,joint confer=alto}->134 (134=8, outros=0)
+156
 
-CLASSE = 145
+{causal=alto,judea pearl=baixo,scienc depart=baixo}
+{california los=alto}
+{california los angel=alto}
+{causal=alto,cognit=baixo,scienc depart=baixo}
+{causal=alto,judea pearl=baixo,path=alto}
+{devis=baixo,pearl=alto,scienc depart=baixo}
+{causal=alto,cognit=baixo,judea pearl=baixo,pearl=alto}
+{univers california los=alto}
+{causal=alto,depart univers=baixo}
+{los=alto,pearl=alto}
+{judea pearl=baixo,mere=baixo}
+{languag=baixo,school comput scienc=baixo}
+{accuraci=baixo,school comput scienc=baixo}
+{agreement=baixo,school comput scienc=baixo}
+{causal=alto,criterion=alto}
+{causal=alto,devis=baixo,scienc depart=baixo}
+{criterion=alto,pearl=alto}
+{school comput scienc=baixo,variat=alto}
+{causal=alto,path=alto,scienc depart=baixo}
+{govern=baixo,pearl=alto,scienc depart=baixo}
+--
+{model reason infer=baixo,pearl=alto}
+{nsf=baixo,pearl=alto,probabilist=baixo}
+{fact=baixo,nsf=baixo,pearl=alto}
+{nsf=baixo,pearl=alto,valid=baixo}
+{assign=baixo,nsf=baixo,pearl=alto}
+{california los=alto}
+{california los angel=alto}
+{encod=baixo,model reason infer=baixo}
+{model reason infer=baixo,research support=baixo}
+{judea pearl=baixo,nsf=baixo}
+{nsf=baixo,pearl=alto,predict search=baixo}
+{univers california los=alto}
+{joint probabl=baixo,schein causat predict=baixo}
+{treatment=alto,unobserv=alto}
+{pearl=alto,predict search=baixo,subgraph=baixo}
+{nsf=baixo,pearl=alto,research support=baixo}
+{lemma=baixo,pearl=alto,schein causat predict=baixo}
+{pearl=alto,predict search=baixo,reason intellig=baixo}
+{fact=baixo,pearl=alto,predict search=baixo}
+{judea=baixo,reason infer cambridg=baixo}
 
-{alberta=baixo,independ=baixo,variabl=baixo}->145 (145=10, outros=0)
-{alberta=baixo,larger=baixo,scienc univers=baixo}->145 (145=10, outros=0)
-{independ=baixo,scienc univers=baixo,univers alberta=baixo}->145 (145=9, outros=0)
-{alberta=baixo,independ=baixo,scienc univers=baixo}->145 (145=9, outros=0)
-{element=baixo,respect=baixo,univers alberta=baixo}->145 (145=9, outros=0)
-{element=baixo,independ=baixo,univers alberta=baixo}->145 (145=9, outros=0)
-{alberta=baixo,larger=baixo,variabl=baixo}->145 (145=9, outros=0)
-{larger=baixo,scienc univers=baixo,univers alberta=baixo}->145 (145=9, outros=0)
-{alberta=baixo,confer machin=baixo,introduc=baixo}->145 (145=9, outros=0)
-{alberta=baixo,respect=baixo,variabl=baixo}->145 (145=9, outros=0)
-{alberta=baixo,introduc=baixo,matrix=baixo}->145 (145=9, outros=0)
-{factor=baixo,independ=baixo,univers alberta=baixo}->145 (145=8, outros=0)
-{alberta=baixo,independ=baixo,matrix=baixo}->145 (145=8, outros=0)
-{alberta=baixo,introduc=baixo,select=baixo}->145 (145=8, outros=0)
-{alberta=baixo,factor=baixo,independ=baixo}->145 (145=8, outros=0)
-{alberta=baixo,introduc=baixo,proof theorem=baixo}->145 (145=8, outros=0)
-{factor=baixo,larger=baixo,univers alberta=baixo}->145 (145=8, outros=0)
-{element=baixo,introduc=baixo,univers alberta=baixo}->145 (145=8, outros=0)
-{alberta=baixo,larger=baixo,matrix=baixo}->145 (145=8, outros=0)
-{alberta=baixo,introduc=baixo,notat=baixo}->145 (145=8, outros=0)
+256
 
-{alberta=baixo,idea=baixo,proceed intern confer=baixo}->145 (145=9, outros=0)
-{alberta=baixo,idea=baixo,random variabl=baixo}->145 (145=8, outros=0)
-{alberta=baixo,expect=baixo,proceed intern confer=baixo}->145 (145=7, outros=0)
-{alberta=baixo,idea=baixo,proceed intern confer=baixo,univers alberta=baixo}->145 (145=7, outros=0)
-{alberta=baixo,idea=baixo,rate=baixo}->145 (145=7, outros=0)
-{alberta=baixo,idea=baixo,random variabl=baixo,size=baixo}->145 (145=7, outros=0)
-{idea=baixo,ident=baixo,univers alberta=baixo}->145 (145=7, outros=0)
-{alberta=baixo,technolog=baixo}->145 (145=7, outros=0)
-{alberta=baixo,left=baixo,random variabl=baixo}->145 (145=7, outros=0)
-{alberta=baixo,random variabl=baixo,respect=baixo,size=baixo}->145 (145=7, outros=0)
-{idea=baixo,later=baixo,univers alberta=baixo}->145 (145=7, outros=0)
-{nserc=baixo,size=baixo,univers alberta=alto}->145 (145=6, outros=0)
-{expect valu=baixo,nserc=baixo,peter=baixo}->145 (145=6, outros=0)
-{alberta=baixo,nserc=baixo,proceed intern confer=baixo}->145 (145=6, outros=0)
-{nserc=baixo,proceed intern confer=baixo,size=baixo}->145 (145=6, outros=0)
-{alberta=baixo,proceed intern confer=baixo,size=baixo}->145 (145=6, outros=0)
-{expect=baixo,expect valu=baixo,nserc=baixo,size=baixo}->145 (145=6, outros=0)
-{alberta=baixo,idea=baixo,open=baixo}->145 (145=6, outros=0)
-{minim=baixo,open=baixo,univers alberta=baixo}->145 (145=6, outros=0)
-{left=baixo,random variabl=baixo,univers alberta=baixo}->145 (145=6, outros=0)
-
-CLASSE = 151
-
-{rina=baixo,support nsf=baixo}->151 (151=12, outros=0)
-{rina=baixo,undirect graph=baixo}->151 (151=12, outros=0)
-{inform comput=baixo,rina=baixo}->151 (151=12, outros=0)
-{direct acycl graph=baixo,rina=baixo}->151 (151=12, outros=0)
-{repres=baixo,rina=baixo}->151 (151=12, outros=0)
-{constraint=alto,rina=baixo}->151 (151=11, outros=0)
-{graphic model=alto,rina=baixo}->151 (151=10, outros=0)
-{evid=baixo,rina=baixo}->151 (151=10, outros=0)
-{nsf grant=baixo,rina=baixo}->151 (151=10, outros=0)
-{rina=baixo,simpl=baixo}->151 (151=10, outros=0)
-{assign=alto,rina=baixo}->151 (151=10, outros=0)
-{order=alto,rina=baixo}->151 (151=10, outros=0)
-{acycl graph=baixo,rina=baixo}->151 (151=10, outros=0)
-{rina=baixo,satisfact problem=baixo}->151 (151=9, outros=0)
-{dechter=alto,requir=baixo}->151 (151=9, outros=0)
-{random=alto,rina=baixo}->151 (151=9, outros=0)
-{constraint satisfact=baixo,rina=baixo}->151 (151=9, outros=0)
-{program=baixo,rina=baixo}->151 (151=9, outros=0)
-{rina=baixo,signific=baixo,various=baixo}->151 (151=9, outros=0)
-{graphic model=alto,nsf grant=baixo,requir=baixo}->151 (151=9, outros=0)
-
-{scienc univers=baixo,undirect=baixo,undirect graph=baixo,univers california=baixo}->151 (151=12, outros=0)
-{instanti=baixo,scienc univers=baixo,undirect graph=baixo,univers california=baixo}->151 (151=11, outros=0)
-{inform comput=baixo,support nsf=baixo,undirect=baixo}->151 (151=11, outros=0)
-{irvin=baixo,scienc univers=baixo,undirect graph=baixo}->151 (151=10, outros=0)
-{instanti=baixo,irvin=baixo,undirect graph=baixo}->151 (151=10, outros=0)
-{irvin=baixo,support nsf=baixo}->151 (151=9, outros=0)
-{darwich=baixo,graphic model=alto}->151 (151=9, outros=0)
-{graphic model=alto,scope=alto}->151 (151=9, outros=0)
-{dechter=alto,network repres=baixo}->151 (151=9, outros=0)
-{dechter=alto,signific=baixo}->151 (151=9, outros=0)
-{graphic model=alto,undirect graph=baixo,univers california=baixo}->151 (151=9, outros=0)
-{complet=baixo,dechter=alto}->151 (151=9, outros=0)
-{graphic model=alto,instanti=baixo,undirect graph=baixo}->151 (151=9, outros=0)
-{dechter=alto,instanti=baixo}->151 (151=9, outros=0)
-{dechter=alto,paramet=baixo}->151 (151=9, outros=0)
-{graphic model=alto,instanti=baixo,nsf grant=baixo}->151 (151=9, outros=0)
-{signific=baixo,support nsf=baixo,undirect=baixo}->151 (151=9, outros=0)
-{dechter=alto,empir=baixo}->151 (151=9, outros=0)
-{final=baixo,irvin=baixo,undirect graph=baixo}->151 (151=9, outros=0)
-{dechter=alto,input=baixo}->151 (151=9, outros=0)
-
-CLASSE = 153
-
-{determin=baixo,medic informat=baixo}->153 (153=12, outros=0)
-{network=baixo,redmond=baixo}->153 (153=12, outros=0)
-{likelihood=baixo,redmond=baixo}->153 (153=11, outros=0)
-{denot=baixo,medic informat=baixo,requir=baixo}->153 (153=11, outros=0)
-{depend=baixo,redmond=baixo}->153 (153=11, outros=0)
-{medic informat=baixo,procedur=baixo}->153 (153=10, outros=0)
-{eric horvitz=baixo,horvitz=alto}->153 (153=10, outros=0)
-{acknowledg=baixo,redmond=baixo}->153 (153=10, outros=0)
-{perform=baixo,redmond=baixo,time=baixo}->153 (153=10, outros=0)
-{redmond=baixo,structur=baixo}->153 (153=10, outros=0)
-{redmond=baixo,requir=baixo,time=baixo}->153 (153=10, outros=0)
-{cooper=baixo,redmond=baixo}->153 (153=10, outros=0)
-{medic informat=baixo,new=baixo,requir=baixo}->153 (153=10, outros=0)
-{identifi=baixo,medic informat=baixo}->153 (153=10, outros=0)
-{bayesian network=baixo,redmond=baixo}->153 (153=10, outros=0)
-{horvitz=alto,practic=baixo}->153 (153=10, outros=0)
-{medic informat=baixo,perform=baixo,requir=baixo}->153 (153=10, outros=0)
-{appli=baixo,redmond=baixo,requir=baixo}->153 (153=10, outros=0)
-{medic informat=baixo,requir=baixo,respect=baixo}->153 (153=10, outros=0)
-{redmond=baixo,requir=baixo,sever=baixo}->153 (153=10, outros=0)
-
-{shachter=alto,univers stanford=baixo}->153 (153=16, outros=0)
-{shachter=alto,stanford univers stanford=baixo}->153 (153=15, outros=0)
-{represent=baixo,ross=baixo,univers stanford=baixo}->153 (153=15, outros=0)
-{represent=baixo,ross=baixo,shachter=alto}->153 (153=14, outros=0)
-{knowledg=baixo,ross=baixo,univers stanford=baixo}->153 (153=13, outros=0)
-{let=baixo,ross=baixo,univers stanford=baixo}->153 (153=13, outros=0)
-{knowledg=baixo,ross=baixo,shachter=alto}->153 (153=12, outros=0)
-{proof=baixo,ross=baixo,shachter=alto}->153 (153=12, outros=0)
-{proof=baixo,ross=baixo,univers stanford=baixo}->153 (153=12, outros=0)
-{ross=baixo,strateg=baixo,univers stanford=baixo}->153 (153=12, outros=0)
-{practic=baixo,shachter=alto,similar=baixo}->153 (153=12, outros=0)
-{exampl consid=baixo,shachter=alto}->153 (153=12, outros=0)
-{horvitz=alto,research=alto}->153 (153=11, outros=0)
-{ross=baixo,scienc=baixo,shachter=alto}->153 (153=11, outros=0)
-{practic=baixo,ross=baixo,stanford univers stanford=baixo}->153 (153=11, outros=0)
-{altern=baixo,horvitz=alto}->153 (153=11, outros=0)
-{let=baixo,ross=baixo,shachter=alto}->153 (153=11, outros=0)
-{horvitz=alto,scienc=baixo,vari=baixo}->153 (153=11, outros=0)
-{eric=baixo,form=baixo,horvitz=alto}->153 (153=11, outros=0)
-{ross=baixo,uncertainti artifici=baixo,univers stanford=baixo}->153 (153=11, outros=0)
-
-CLASSE = 156
-
-{causal=alto,judea pearl=baixo,scienc depart=baixo}->156 (156=10, outros=0)
-{california los=alto}->156 (156=9, outros=0)
-{california los angel=alto}->156 (156=9, outros=0)
-{causal=alto,cognit=baixo,scienc depart=baixo}->156 (156=9, outros=0)
-{causal=alto,judea pearl=baixo,path=alto}->156 (156=9, outros=0)
-{devis=baixo,pearl=alto,scienc depart=baixo}->156 (156=9, outros=0)
-{causal=alto,cognit=baixo,judea pearl=baixo,pearl=alto}->156 (156=9, outros=0)
-{univers california los=alto}->156 (156=8, outros=0)
-{causal=alto,depart univers=baixo}->156 (156=8, outros=0)
-{los=alto,pearl=alto}->156 (156=8, outros=0)
-{judea pearl=baixo,mere=baixo}->156 (156=8, outros=0)
-{languag=baixo,school comput scienc=baixo}->156 (156=8, outros=0)
-{accuraci=baixo,school comput scienc=baixo}->156 (156=7, outros=0)
-{agreement=baixo,school comput scienc=baixo}->156 (156=7, outros=0)
-{causal=alto,criterion=alto}->156 (156=7, outros=0)
-{causal=alto,devis=baixo,scienc depart=baixo}->156 (156=7, outros=0)
-{criterion=alto,pearl=alto}->156 (156=7, outros=0)
-{school comput scienc=baixo,variat=alto}->156 (156=7, outros=0)
-{causal=alto,path=alto,scienc depart=baixo}->156 (156=7, outros=0)
-{govern=baixo,pearl=alto,scienc depart=baixo}->156 (156=7, outros=0)
-
-{model reason infer=baixo,pearl=alto}->156 (156=13, outros=0)
-{nsf=baixo,pearl=alto,probabilist=baixo}->156 (156=13, outros=0)
-{fact=baixo,nsf=baixo,pearl=alto}->156 (156=13, outros=0)
-{nsf=baixo,pearl=alto,valid=baixo}->156 (156=12, outros=0)
-{assign=baixo,nsf=baixo,pearl=alto}->156 (156=11, outros=0)
-{california los=alto}->156 (156=10, outros=0)
-{california los angel=alto}->156 (156=10, outros=0)
-{encod=baixo,model reason infer=baixo}->156 (156=10, outros=0)
-{model reason infer=baixo,research support=baixo}->156 (156=10, outros=0)
-{judea pearl=baixo,nsf=baixo}->156 (156=10, outros=0)
-{nsf=baixo,pearl=alto,predict search=baixo}->156 (156=10, outros=0)
-{univers california los=alto}->156 (156=9, outros=0)
-{joint probabl=baixo,schein causat predict=baixo}->156 (156=9, outros=0)
-{treatment=alto,unobserv=alto}->156 (156=9, outros=0)
-{pearl=alto,predict search=baixo,subgraph=baixo}->156 (156=9, outros=0)
-{nsf=baixo,pearl=alto,research support=baixo}->156 (156=9, outros=0)
-{lemma=baixo,pearl=alto,schein causat predict=baixo}->156 (156=9, outros=0)
-{pearl=alto,predict search=baixo,reason intellig=baixo}->156 (156=9, outros=0)
-{fact=baixo,pearl=alto,predict search=baixo}->156 (156=9, outros=0)
-{judea=baixo,reason infer cambridg=baixo}->156 (156=8, outros=0)
-
-CLASSE = 256
-
-{aalborg univers=baixo,let=alto}->256 (256=12, outros=0)
-{doe=baixo,junction tree=alto}->256 (256=10, outros=0)
-{aalborg univers=baixo,junction tree=alto}->256 (256=9, outros=0)
-{aalborg univers=baixo,cliqu=alto}->256 (256=8, outros=0)
-{aalborg univers=baixo,so-cal=baixo}->256 (256=8, outros=0)
-{discret=baixo,junction tree=alto}->256 (256=8, outros=0)
-{aalborg univers=baixo,potenti=alto}->256 (256=8, outros=0)
-{aalborg=baixo,let=alto,space=baixo}->256 (256=8, outros=0)
-{cliqu=alto,comput comput=baixo}->256 (256=8, outros=0)
-{aalborg univers=baixo,comput comput=baixo,structur=baixo}->256 (256=8, outros=0)
-{aalborg univers=baixo,comput comput=baixo,inform=baixo}->256 (256=8, outros=0)
-{aalborg denmark=baixo,junction tree=alto}->256 (256=7, outros=0)
-{allow=baixo,junction tree=alto}->256 (256=7, outros=0)
-{aalborg=baixo,so-cal=baixo}->256 (256=7, outros=0)
-{jensen=alto,so-cal=baixo}->256 (256=7, outros=0)
-{discret=baixo,jensen=alto,pair=baixo}->256 (256=7, outros=0)
-{neighbour=alto}->256 (256=6, outros=0)
-{aalborg univers=baixo,comput statist=baixo,let=alto}->256 (256=6, outros=0)
-{amsterdam=baixo,junction tree=alto}->256 (256=6, outros=0)
-{aalborg univers=baixo,let let=baixo}->256 (256=6, outros=0)
-
-{junction tree=alto,represent=baixo}->256 (256=12, outros=0)
-{confer=baixo,junction=alto}->256 (256=12, outros=0)
-{let=alto,netherland=baixo}->256 (256=10, outros=0)
-{junction=alto,larg=baixo}->256 (256=10, outros=0)
-{aalborg denmark=baixo,junction=alto}->256 (256=9, outros=0)
-{junction tree=alto,potenti=alto}->256 (256=9, outros=0)
-{box=baixo,netherland=baixo}->256 (256=9, outros=0)
-{cliqu=alto,comput comput=baixo}->256 (256=9, outros=0)
-{aalborg denmark=baixo,junction tree=alto}->256 (256=8, outros=0)
-{cliqu=alto,present=alto}->256 (256=8, outros=0)
-{comput comput=baixo,junction=alto}->256 (256=8, outros=0)
-{junction=alto,junction tree=alto,specifi=baixo}->256 (256=8, outros=0)
-{jensen=alto,junction=alto,local comput=baixo}->256 (256=8, outros=0)
-{jensen=alto,remov=alto}->256 (256=8, outros=0)
-{aalborg denmark=baixo,potenti=alto,represent=baixo}->256 (256=8, outros=0)
-{box=baixo,der=alto}->256 (256=8, outros=0)
-{cliqu=alto,let=alto,local comput=baixo}->256 (256=8, outros=0)
-{assumpt=baixo,cliqu=alto,let=alto}->256 (256=8, outros=0)
-{cliqu=alto,let=alto,remov=alto}->256 (256=8, outros=0)
-{jensen=alto,so-cal=baixo}->256 (256=7, outros=0)
+{aalborg univers=baixo,let=alto}
+{doe=baixo,junction tree=alto}
+{aalborg univers=baixo,junction tree=alto}
+{aalborg univers=baixo,cliqu=alto}
+{aalborg univers=baixo,so-cal=baixo}
+{discret=baixo,junction tree=alto}
+{aalborg univers=baixo,potenti=alto}
+{aalborg=baixo,let=alto,space=baixo}
+{cliqu=alto,comput comput=baixo}
+{aalborg univers=baixo,comput comput=baixo,structur=baixo}
+{aalborg univers=baixo,comput comput=baixo,inform=baixo}
+{aalborg denmark=baixo,junction tree=alto}
+{allow=baixo,junction tree=alto}
+{aalborg=baixo,so-cal=baixo}
+{jensen=alto,so-cal=baixo}
+{discret=baixo,jensen=alto,pair=baixo}
+{neighbour=alto}
+{aalborg univers=baixo,comput statist=baixo,let=alto}
+{amsterdam=baixo,junction tree=alto}
+{aalborg univers=baixo,let let=baixo}
+--
+{junction tree=alto,represent=baixo}
+{confer=baixo,junction=alto}
+{let=alto,netherland=baixo}
+{junction=alto,larg=baixo}
+{aalborg denmark=baixo,junction=alto}
+{junction tree=alto,potenti=alto}
+{box=baixo,netherland=baixo}
+{cliqu=alto,comput comput=baixo}
+{aalborg denmark=baixo,junction tree=alto}
+{cliqu=alto,present=alto}
+{comput comput=baixo,junction=alto}
+{junction=alto,junction tree=alto,specifi=baixo}
+{jensen=alto,junction=alto,local comput=baixo}
+{jensen=alto,remov=alto}
+{aalborg denmark=baixo,potenti=alto,represent=baixo}
+{box=baixo,der=alto}
+{cliqu=alto,let=alto,local comput=baixo}
+{assumpt=baixo,cliqu=alto,let=alto}
+{cliqu=alto,let=alto,remov=alto}
+{jensen=alto,so-cal=baixo}
