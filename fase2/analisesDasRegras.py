@@ -1,3 +1,5 @@
+# coding=utf-8
+
 # Arquivo de análise usando a frequência: analise_doc_term_matriz_freq_with_header_discrete_AND.txt
 # Arquivo de análise usando tf-idf: analise_doc_term_matriz_tfidf_with_header_discrete_AND.txt
 
@@ -19,14 +21,16 @@
 ############################# Sequência de leitura #############################
 
 headerList = []
-dictCommunities = {ID: '', rulesA: [], rulesB: []}
+# {ID: {'rulesA': [], 'rulesB': [], 'intersection': [], 'somenteEmA': [], 'somenteEmB': []}}
+dictCommunities = {}
 
-def readFiles(fileName):
+def colectDataFromFile(fileName):
 	readHeader = False
 
-	with open('../testingPageRank/' + fileName) as f:
+	with open('./testingPageRank/' + fileName) as f:
 		lastID = ''
 		gotFirstSetOfRules = False
+		countSets = 0
 
 		for line in f:
 			cleanLine = line.replace('\n','').strip()
@@ -35,14 +39,38 @@ def readFiles(fileName):
 				headerList.append(cleanLine)
 			else:
 				if cleanLine.isdigit():
-					dictCommunities[ID] = cleanLine
+					dictCommunities[cleanLine] = {'rulesA': [], 'rulesB': [], 'intersection': [], 'somenteEmA': [], 'somenteEmB': []}
 					lastID = cleanLine
-					gotFirstSetOfRules = False
+					gotFirstSetOfRules = False						
+					countSets = 0
 
-				elif '{' is in cleanLine:
-					
+				elif '{' in cleanLine:
+					if countSets < 20:
+						dictCommunities[lastID]['rulesA'].append(cleanLine)
+					else:
+						dictCommunities[lastID]['rulesB'].append(cleanLine)
+
+					countSets += 1
+
+				if countSets > 0 and len(dictCommunities[lastID]['rulesB']) == 20:
+					setA = set(dictCommunities[lastID]['rulesA'])
+					setB = set(dictCommunities[lastID]['rulesB'])
+					inter = list(setA.intersection(setB))
+					dictCommunities[lastID]['intersection'] = inter
+					dictCommunities[lastID]['somenteEmA'] = list(setA - setB)
+					dictCommunities[lastID]['somenteEmB'] = list(setB - setA)
 
 			if cleanLine == 'AND' or cleanLine == 'OR':
 				readHeader = True
 
-readFiles('analise_doc_term_matriz_freq_with_header_discrete_AND.txt')
+#	print(dictCommunities['6']['rulesA'])
+#	print(len(dictCommunities['6']['rulesA']))
+#	print(len(dictCommunities['6']['rulesB']))
+# 	print 'Intersection:', dictCommunities['256']['intersection']
+#	print 
+# 	print 'Somente em B:', dictCommunities['256']['somenteEmB']
+# 	print 'Size somente em B:', len(dictCommunities['256']['somenteEmB'])
+
+colectDataFromFile('analise_doc_term_matriz_freq_with_header_discrete_AND.txt')
+# colectDataFromFile('analise_doc_term_matriz_tfidf_with_header_discrete_AND.txt')
+
