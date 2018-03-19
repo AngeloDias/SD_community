@@ -20,9 +20,13 @@
 # O conjunto de regras gerado a partir do total
 ############################# Sequência de leitura #############################
 
+import pandas as pd
+
 headerList = []
 # {ID: {'rulesA': [], 'rulesB': [], 'intersection': [], 'somenteEmA': [], 'somenteEmB': []}}
-dictCommunities = {}
+# dfCommunity = {}
+dfCommunity = pd.DataFrame(columns=['rulesA', 'rulesB', 'intersection', 'somenteEmA', 'somenteEmB'])
+# dfCommunity = pd.DataFrame()
 
 def colectDataFromFile(fileName):
 	readHeader = False
@@ -39,37 +43,44 @@ def colectDataFromFile(fileName):
 				headerList.append(cleanLine)
 			else:
 				if cleanLine.isdigit():
-					dictCommunities[cleanLine] = {'rulesA': [], 'rulesB': [], 'intersection': [], 'somenteEmA': [], 'somenteEmB': []}
+					dfCommunity = pd.DataFrame(columns=['rulesA', 'rulesB', 'intersection', 'somenteEmA', 'somenteEmB'])
+					# dfCommunity[cleanLine] = {'rulesA': [], 'rulesB': [], 'intersection': [], 'somenteEmA': [], 'somenteEmB': []}
 					lastID = cleanLine
-					gotFirstSetOfRules = False						
+					gotFirstSetOfRules = False
 					countSets = 0
 
 				elif '{' in cleanLine:
+					cleanLine = cleanLine[1:-1]
+
 					if countSets < 20:
-						dictCommunities[lastID]['rulesA'].append(cleanLine)
+						dfCommunity['rulesA'].append(cleanLine)
 					else:
-						dictCommunities[lastID]['rulesB'].append(cleanLine)
+						dfCommunity['rulesB'].append(cleanLine)
 
 					countSets += 1
 
-				if countSets > 0 and len(dictCommunities[lastID]['rulesB']) == 20:
-					setA = set(dictCommunities[lastID]['rulesA'])
-					setB = set(dictCommunities[lastID]['rulesB'])
+				if countSets > 0 and len(dfCommunity['rulesB']) == 20:
+					setA = set(dfCommunity['rulesA'])
+					setB = set(dfCommunity['rulesB'])
 					inter = list(setA.intersection(setB))
-					dictCommunities[lastID]['intersection'] = inter
-					dictCommunities[lastID]['somenteEmA'] = list(setA - setB)
-					dictCommunities[lastID]['somenteEmB'] = list(setB - setA)
+					dfCommunity['intersection'] = inter
+					dfCommunity['somenteEmA'] = list(setA - setB)
+					dfCommunity['somenteEmB'] = list(setB - setA)
+
+					# dfCommunity = pd.DataFrame.from_dict(dfCommunity[lastID])
+
+					dfCommunity.to_csv('fase2/filesResults/rules_community_' + lastID + '.csv', header=True, index=False, sep=';')
 
 			if cleanLine == 'AND' or cleanLine == 'OR':
 				readHeader = True
 
-#	print(dictCommunities['6']['rulesA'])
-#	print(len(dictCommunities['6']['rulesA']))
-#	print(len(dictCommunities['6']['rulesB']))
-# 	print 'Intersection:', dictCommunities['256']['intersection']
-#	print 
-# 	print 'Somente em B:', dictCommunities['256']['somenteEmB']
-# 	print 'Size somente em B:', len(dictCommunities['256']['somenteEmB'])
+#	print(dfCommunity['6']['rulesA'])
+#	print(len(dfCommunity['6']['rulesA']))
+#	print(len(dfCommunity['6']['rulesB']))
+# 	print 'Intersection:', dfCommunity['256']['intersection']
+#	print ()
+	print ('Somente em B:', dfCommunity['256']['somenteEmB'])
+	print ('Size somente em B:', len(dfCommunity['256']['somenteEmB']))
 
 colectDataFromFile('analise_doc_term_matriz_freq_with_header_discrete_AND.txt')
 # colectDataFromFile('analise_doc_term_matriz_tfidf_with_header_discrete_AND.txt')
