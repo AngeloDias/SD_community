@@ -1,0 +1,21 @@
+0;1;2;3
+daphn koller=baixo,test=baixo;104;daphn koller=baixo,effect=baixo,stanford univers=baixo;104
+daphn koller=baixo,main=baixo;104;daphn koller=baixo,effect=baixo,stanford=baixo;104
+daphn koller=baixo,standard=alto;104;koller=alto,stanford=baixo;104
+daphn koller=baixo,idea=baixo;104;daphn koller=baixo,program=baixo,stanford univers=baixo;104
+daphn koller=baixo,exist=baixo,optim=baixo;104;daphn koller=baixo,partit=baixo;104
+constraint=baixo,daphn koller=baixo;104;befor=baixo,daphn koller=baixo,program=baixo;104
+daphn koller=baixo,success=baixo;104;daphn koller=baixo,natur=baixo,program=baixo;104
+koller=alto,stanford=baixo;104;daphn=baixo,effect=baixo,stanford=baixo;104
+daphn koller=baixo,furthermor=baixo;104;daphn koller=baixo,program=baixo,stanford=baixo;104
+constant=baixo,daphn koller=baixo;104;daphn koller=baixo,easili=baixo,stanford univers=baixo;104
+daphn koller=baixo,mention=baixo;104;daphn koller=baixo,stanford univers=baixo,task=baixo;104
+daphn koller=baixo,grow=baixo;104;daphn koller=baixo,success=baixo;104
+daphn koller=baixo,koller=alto;104;daphn koller=baixo,natur=baixo,reduc=baixo;104
+daphn koller=baixo,random variabl=baixo;104;daphn koller=baixo,standard=alto;104
+daphn koller=baixo,exist=baixo,updat=baixo;104;koller=alto,stanford univers=baixo;104
+daphn=baixo,daphn koller=baixo,furthermor=baixo;104;daphn koller=baixo,simpl=alto;104
+algorithm use=baixo,daphn koller=baixo;104;daphn=baixo,stanford univers=baixo,task=baixo;104
+daphn koller=baixo,stanford=baixo,updat=baixo;104;daphn koller=baixo,easili=baixo,stanford=baixo;104
+allow=alto,daphn=baixo;104;darpa=baixo,stanford=baixo,stanford univers=baixo;104
+basic=baixo,daphn koller=baixo;104;daphn koller=baixo,easili=baixo,program=baixo;104

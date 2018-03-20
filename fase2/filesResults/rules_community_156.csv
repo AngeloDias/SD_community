@@ -1,0 +1,21 @@
+0;1;2;3
+causal=alto,judea pearl=baixo,scienc depart=baixo;156;model reason infer=baixo,pearl=alto;156
+california los=alto;156;nsf=baixo,pearl=alto,probabilist=baixo;156
+california los angel=alto;156;fact=baixo,nsf=baixo,pearl=alto;156
+causal=alto,cognit=baixo,scienc depart=baixo;156;nsf=baixo,pearl=alto,valid=baixo;156
+causal=alto,judea pearl=baixo,path=alto;156;assign=baixo,nsf=baixo,pearl=alto;156
+devis=baixo,pearl=alto,scienc depart=baixo;156;california los=alto;156
+causal=alto,cognit=baixo,judea pearl=baixo,pearl=alto;156;california los angel=alto;156
+univers california los=alto;156;encod=baixo,model reason infer=baixo;156
+causal=alto,depart univers=baixo;156;model reason infer=baixo,research support=baixo;156
+los=alto,pearl=alto;156;judea pearl=baixo,nsf=baixo;156
+judea pearl=baixo,mere=baixo;156;nsf=baixo,pearl=alto,predict search=baixo;156
+languag=baixo,school comput scienc=baixo;156;univers california los=alto;156
+accuraci=baixo,school comput scienc=baixo;156;joint probabl=baixo,schein causat predict=baixo;156
+agreement=baixo,school comput scienc=baixo;156;treatment=alto,unobserv=alto;156
+causal=alto,criterion=alto;156;pearl=alto,predict search=baixo,subgraph=baixo;156
+causal=alto,devis=baixo,scienc depart=baixo;156;nsf=baixo,pearl=alto,research support=baixo;156
+criterion=alto,pearl=alto;156;lemma=baixo,pearl=alto,schein causat predict=baixo;156
+school comput scienc=baixo,variat=alto;156;pearl=alto,predict search=baixo,reason intellig=baixo;156
+causal=alto,path=alto,scienc depart=baixo;156;fact=baixo,pearl=alto,predict search=baixo;156
+govern=baixo,pearl=alto,scienc depart=baixo;156;judea=baixo,reason infer cambridg=baixo;156
