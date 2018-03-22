@@ -1,21 +1,21 @@
-0;1;2;3
-rina=baixo,support nsf=baixo;151;scienc univers=baixo,undirect=baixo,undirect graph=baixo,univers california=baixo;151
-rina=baixo,undirect graph=baixo;151;instanti=baixo,scienc univers=baixo,undirect graph=baixo,univers california=baixo;151
-inform comput=baixo,rina=baixo;151;inform comput=baixo,support nsf=baixo,undirect=baixo;151
-direct acycl graph=baixo,rina=baixo;151;irvin=baixo,scienc univers=baixo,undirect graph=baixo;151
-repres=baixo,rina=baixo;151;instanti=baixo,irvin=baixo,undirect graph=baixo;151
-constraint=alto,rina=baixo;151;irvin=baixo,support nsf=baixo;151
-graphic model=alto,rina=baixo;151;darwich=baixo,graphic model=alto;151
-evid=baixo,rina=baixo;151;graphic model=alto,scope=alto;151
-nsf grant=baixo,rina=baixo;151;dechter=alto,network repres=baixo;151
-rina=baixo,simpl=baixo;151;dechter=alto,signific=baixo;151
-assign=alto,rina=baixo;151;graphic model=alto,undirect graph=baixo,univers california=baixo;151
-order=alto,rina=baixo;151;complet=baixo,dechter=alto;151
-acycl graph=baixo,rina=baixo;151;graphic model=alto,instanti=baixo,undirect graph=baixo;151
-rina=baixo,satisfact problem=baixo;151;dechter=alto,instanti=baixo;151
-dechter=alto,requir=baixo;151;dechter=alto,paramet=baixo;151
-random=alto,rina=baixo;151;graphic model=alto,instanti=baixo,nsf grant=baixo;151
-constraint satisfact=baixo,rina=baixo;151;signific=baixo,support nsf=baixo,undirect=baixo;151
-program=baixo,rina=baixo;151;dechter=alto,empir=baixo;151
-rina=baixo,signific=baixo,various=baixo;151;final=baixo,irvin=baixo,undirect graph=baixo;151
-graphic model=alto,nsf grant=baixo,requir=baixo;151;dechter=alto,input=baixo;151
+community;rulesA;rulesB;rulesIntersection
+151;rina=baixo,support nsf=baixo;scienc univers=baixo,undirect=baixo,undirect graph=baixo,univers california=baixo;
+151;rina=baixo,undirect graph=baixo;instanti=baixo,scienc univers=baixo,undirect graph=baixo,univers california=baixo;
+151;inform comput=baixo,rina=baixo;inform comput=baixo,support nsf=baixo,undirect=baixo;
+151;direct acycl graph=baixo,rina=baixo;irvin=baixo,scienc univers=baixo,undirect graph=baixo;
+151;repres=baixo,rina=baixo;instanti=baixo,irvin=baixo,undirect graph=baixo;
+151;constraint=alto,rina=baixo;irvin=baixo,support nsf=baixo;
+151;graphic model=alto,rina=baixo;darwich=baixo,graphic model=alto;
+151;evid=baixo,rina=baixo;graphic model=alto,scope=alto;
+151;nsf grant=baixo,rina=baixo;dechter=alto,network repres=baixo;
+151;rina=baixo,simpl=baixo;dechter=alto,signific=baixo;
+151;assign=alto,rina=baixo;graphic model=alto,undirect graph=baixo,univers california=baixo;
+151;order=alto,rina=baixo;complet=baixo,dechter=alto;
+151;acycl graph=baixo,rina=baixo;graphic model=alto,instanti=baixo,undirect graph=baixo;
+151;rina=baixo,satisfact problem=baixo;dechter=alto,instanti=baixo;
+151;dechter=alto,requir=baixo;dechter=alto,paramet=baixo;
+151;random=alto,rina=baixo;graphic model=alto,instanti=baixo,nsf grant=baixo;
+151;constraint satisfact=baixo,rina=baixo;signific=baixo,support nsf=baixo,undirect=baixo;
+151;program=baixo,rina=baixo;dechter=alto,empir=baixo;
+151;rina=baixo,signific=baixo,various=baixo;final=baixo,irvin=baixo,undirect graph=baixo;
+151;graphic model=alto,nsf grant=baixo,requir=baixo;dechter=alto,input=baixo;

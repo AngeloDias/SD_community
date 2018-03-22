@@ -1,21 +1,21 @@
-0;1;2;3
-determin=baixo,medic informat=baixo;153;shachter=alto,univers stanford=baixo;153
-network=baixo,redmond=baixo;153;shachter=alto,stanford univers stanford=baixo;153
-likelihood=baixo,redmond=baixo;153;represent=baixo,ross=baixo,univers stanford=baixo;153
-denot=baixo,medic informat=baixo,requir=baixo;153;represent=baixo,ross=baixo,shachter=alto;153
-depend=baixo,redmond=baixo;153;knowledg=baixo,ross=baixo,univers stanford=baixo;153
-medic informat=baixo,procedur=baixo;153;let=baixo,ross=baixo,univers stanford=baixo;153
-eric horvitz=baixo,horvitz=alto;153;knowledg=baixo,ross=baixo,shachter=alto;153
-acknowledg=baixo,redmond=baixo;153;proof=baixo,ross=baixo,shachter=alto;153
-perform=baixo,redmond=baixo,time=baixo;153;proof=baixo,ross=baixo,univers stanford=baixo;153
-redmond=baixo,structur=baixo;153;ross=baixo,strateg=baixo,univers stanford=baixo;153
-redmond=baixo,requir=baixo,time=baixo;153;practic=baixo,shachter=alto,similar=baixo;153
-cooper=baixo,redmond=baixo;153;exampl consid=baixo,shachter=alto;153
-medic informat=baixo,new=baixo,requir=baixo;153;horvitz=alto,research=alto;153
-identifi=baixo,medic informat=baixo;153;ross=baixo,scienc=baixo,shachter=alto;153
-bayesian network=baixo,redmond=baixo;153;practic=baixo,ross=baixo,stanford univers stanford=baixo;153
-horvitz=alto,practic=baixo;153;altern=baixo,horvitz=alto;153
-medic informat=baixo,perform=baixo,requir=baixo;153;let=baixo,ross=baixo,shachter=alto;153
-appli=baixo,redmond=baixo,requir=baixo;153;horvitz=alto,scienc=baixo,vari=baixo;153
-medic informat=baixo,requir=baixo,respect=baixo;153;eric=baixo,form=baixo,horvitz=alto;153
-redmond=baixo,requir=baixo,sever=baixo;153;ross=baixo,uncertainti artifici=baixo,univers stanford=baixo;153
+community;rulesA;rulesB;rulesIntersection
+153;determin=baixo,medic informat=baixo;shachter=alto,univers stanford=baixo;
+153;network=baixo,redmond=baixo;shachter=alto,stanford univers stanford=baixo;
+153;likelihood=baixo,redmond=baixo;represent=baixo,ross=baixo,univers stanford=baixo;
+153;denot=baixo,medic informat=baixo,requir=baixo;represent=baixo,ross=baixo,shachter=alto;
+153;depend=baixo,redmond=baixo;knowledg=baixo,ross=baixo,univers stanford=baixo;
+153;medic informat=baixo,procedur=baixo;let=baixo,ross=baixo,univers stanford=baixo;
+153;eric horvitz=baixo,horvitz=alto;knowledg=baixo,ross=baixo,shachter=alto;
+153;acknowledg=baixo,redmond=baixo;proof=baixo,ross=baixo,shachter=alto;
+153;perform=baixo,redmond=baixo,time=baixo;proof=baixo,ross=baixo,univers stanford=baixo;
+153;redmond=baixo,structur=baixo;ross=baixo,strateg=baixo,univers stanford=baixo;
+153;redmond=baixo,requir=baixo,time=baixo;practic=baixo,shachter=alto,similar=baixo;
+153;cooper=baixo,redmond=baixo;exampl consid=baixo,shachter=alto;
+153;medic informat=baixo,new=baixo,requir=baixo;horvitz=alto,research=alto;
+153;identifi=baixo,medic informat=baixo;ross=baixo,scienc=baixo,shachter=alto;
+153;bayesian network=baixo,redmond=baixo;practic=baixo,ross=baixo,stanford univers stanford=baixo;
+153;horvitz=alto,practic=baixo;altern=baixo,horvitz=alto;
+153;medic informat=baixo,perform=baixo,requir=baixo;let=baixo,ross=baixo,shachter=alto;
+153;appli=baixo,redmond=baixo,requir=baixo;horvitz=alto,scienc=baixo,vari=baixo;
+153;medic informat=baixo,requir=baixo,respect=baixo;eric=baixo,form=baixo,horvitz=alto;
+153;redmond=baixo,requir=baixo,sever=baixo;ross=baixo,uncertainti artifici=baixo,univers stanford=baixo;
