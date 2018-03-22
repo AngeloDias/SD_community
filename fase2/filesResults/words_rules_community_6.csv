@@ -1,0 +1,35 @@
+caracteristicasPageRank;freqWordPageRank;caracteristicasTotalSet;freqWordTotalSet
+pool=alto;12.0;conclus=baixo;5.0
+vancouv=baixo;5.0;requir=baixo;2.0
+;;univers british columbia=baixo;12.0
+univers british columbia=baixo;3.0;;
+canada=baixo;2.0;equal=baixo;2.0
+david=baixo;2.0;british columbia=baixo;4.0
+depart comput=baixo;3.0;particular=baixo;3.0
+;;proceed=baixo;3.0
+columbia vancouv=baixo;4.0;;
+;;combin=baixo;1.0
+;;data=baixo;7.0
+publish=baixo;4.0;;
+david pool=baixo;1.0;columbia=baixo;2.0
+empti=baixo;1.0;;
+;;time=baixo;1.0
+issu=baixo;3.0;british=baixo;3.0
+;;let=baixo;1.0
+;;pool=alto;3.0
+;;vancouv=baixo;3.0
+fact=baixo;1.0;;
+author=baixo;1.0;;
+come=baixo;1.0;;
+;;vancouv canada=baixo;3.0
+map=baixo;1.0;british columbia vancouv=baixo;2.0
+zhang=alto;1.0;;
+describ=baixo;1.0;;
+independ=baixo;1.0;;
+;;order=baixo;1.0
+graph=baixo;1.0;;
+;;assum=baixo;1.0
+;;step=baixo;1.0
+;;issu=baixo;1.0
+;;canada=baixo;1.0
+;;posterior=baixo;1.0

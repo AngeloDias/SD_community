@@ -1,21 +1,21 @@
-community;rulesA;rulesB;rulesIntersection
-104;daphn koller=baixo,test=baixo;daphn koller=baixo,effect=baixo,stanford univers=baixo;daphn koller=baixo,standard=alto
-104;daphn koller=baixo,main=baixo;daphn koller=baixo,effect=baixo,stanford=baixo;daphn koller=baixo,success=baixo
-104;daphn koller=baixo,standard=alto;koller=alto,stanford=baixo;koller=alto,stanford=baixo
-104;daphn koller=baixo,idea=baixo;daphn koller=baixo,program=baixo,stanford univers=baixo;
-104;daphn koller=baixo,exist=baixo,optim=baixo;daphn koller=baixo,partit=baixo;
-104;constraint=baixo,daphn koller=baixo;befor=baixo,daphn koller=baixo,program=baixo;
-104;daphn koller=baixo,success=baixo;daphn koller=baixo,natur=baixo,program=baixo;
-104;koller=alto,stanford=baixo;daphn=baixo,effect=baixo,stanford=baixo;
-104;daphn koller=baixo,furthermor=baixo;daphn koller=baixo,program=baixo,stanford=baixo;
-104;constant=baixo,daphn koller=baixo;daphn koller=baixo,easili=baixo,stanford univers=baixo;
-104;daphn koller=baixo,mention=baixo;daphn koller=baixo,stanford univers=baixo,task=baixo;
-104;daphn koller=baixo,grow=baixo;daphn koller=baixo,success=baixo;
-104;daphn koller=baixo,koller=alto;daphn koller=baixo,natur=baixo,reduc=baixo;
-104;daphn koller=baixo,random variabl=baixo;daphn koller=baixo,standard=alto;
-104;daphn koller=baixo,exist=baixo,updat=baixo;koller=alto,stanford univers=baixo;
-104;daphn=baixo,daphn koller=baixo,furthermor=baixo;daphn koller=baixo,simpl=alto;
-104;algorithm use=baixo,daphn koller=baixo;daphn=baixo,stanford univers=baixo,task=baixo;
-104;daphn koller=baixo,stanford=baixo,updat=baixo;daphn koller=baixo,easili=baixo,stanford=baixo;
-104;allow=alto,daphn=baixo;darpa=baixo,stanford=baixo,stanford univers=baixo;
-104;basic=baixo,daphn koller=baixo;daphn koller=baixo,easili=baixo,program=baixo;
+community;PageRank;TotalSet;rulesIntersection;onlyOnPageRank;onlyOnTotalSet
+104;daphn koller=baixo,test=baixo;daphn koller=baixo,effect=baixo,stanford univers=baixo;daphn koller=baixo,standard=alto;daphn koller=baixo,exist=baixo,updat=baixo;daphn=baixo,stanford univers=baixo,task=baixo
+104;daphn koller=baixo,main=baixo;daphn koller=baixo,effect=baixo,stanford=baixo;daphn koller=baixo,success=baixo;daphn koller=baixo,main=baixo;daphn koller=baixo,effect=baixo,stanford=baixo
+104;daphn koller=baixo,standard=alto;koller=alto,stanford=baixo;koller=alto,stanford=baixo;daphn koller=baixo,idea=baixo;befor=baixo,daphn koller=baixo,program=baixo
+104;daphn koller=baixo,idea=baixo;daphn koller=baixo,program=baixo,stanford univers=baixo;;basic=baixo,daphn koller=baixo;daphn koller=baixo,natur=baixo,program=baixo
+104;daphn koller=baixo,exist=baixo,optim=baixo;daphn koller=baixo,partit=baixo;;algorithm use=baixo,daphn koller=baixo;daphn=baixo,effect=baixo,stanford=baixo
+104;constraint=baixo,daphn koller=baixo;befor=baixo,daphn koller=baixo,program=baixo;;daphn koller=baixo,stanford=baixo,updat=baixo;daphn koller=baixo,natur=baixo,reduc=baixo
+104;daphn koller=baixo,success=baixo;daphn koller=baixo,natur=baixo,program=baixo;;allow=alto,daphn=baixo;koller=alto,stanford univers=baixo
+104;koller=alto,stanford=baixo;daphn=baixo,effect=baixo,stanford=baixo;;daphn koller=baixo,test=baixo;daphn koller=baixo,partit=baixo
+104;daphn koller=baixo,furthermor=baixo;daphn koller=baixo,program=baixo,stanford=baixo;;daphn koller=baixo,exist=baixo,optim=baixo;daphn koller=baixo,program=baixo,stanford=baixo
+104;constant=baixo,daphn koller=baixo;daphn koller=baixo,easili=baixo,stanford univers=baixo;;daphn koller=baixo,furthermor=baixo;daphn koller=baixo,program=baixo,stanford univers=baixo
+104;daphn koller=baixo,mention=baixo;daphn koller=baixo,stanford univers=baixo,task=baixo;;constant=baixo,daphn koller=baixo;daphn koller=baixo,effect=baixo,stanford univers=baixo
+104;daphn koller=baixo,grow=baixo;daphn koller=baixo,success=baixo;;daphn koller=baixo,mention=baixo;daphn koller=baixo,simpl=alto
+104;daphn koller=baixo,koller=alto;daphn koller=baixo,natur=baixo,reduc=baixo;;daphn koller=baixo,grow=baixo;darpa=baixo,stanford=baixo,stanford univers=baixo
+104;daphn koller=baixo,random variabl=baixo;daphn koller=baixo,standard=alto;;constraint=baixo,daphn koller=baixo;daphn koller=baixo,stanford univers=baixo,task=baixo
+104;daphn koller=baixo,exist=baixo,updat=baixo;koller=alto,stanford univers=baixo;;daphn koller=baixo,random variabl=baixo;daphn koller=baixo,easili=baixo,stanford univers=baixo
+104;daphn=baixo,daphn koller=baixo,furthermor=baixo;daphn koller=baixo,simpl=alto;;daphn=baixo,daphn koller=baixo,furthermor=baixo;daphn koller=baixo,easili=baixo,program=baixo
+104;algorithm use=baixo,daphn koller=baixo;daphn=baixo,stanford univers=baixo,task=baixo;;daphn koller=baixo,koller=alto;daphn koller=baixo,easili=baixo,stanford=baixo
+104;daphn koller=baixo,stanford=baixo,updat=baixo;daphn koller=baixo,easili=baixo,stanford=baixo;;;
+104;allow=alto,daphn=baixo;darpa=baixo,stanford=baixo,stanford univers=baixo;;;
+104;basic=baixo,daphn koller=baixo;daphn koller=baixo,easili=baixo,program=baixo;;;

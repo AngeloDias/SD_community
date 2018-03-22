@@ -1,21 +1,21 @@
-community;rulesA;rulesB;rulesIntersection
-256;aalborg univers=baixo,let=alto;junction tree=alto,represent=baixo;cliqu=alto,comput comput=baixo
-256;doe=baixo,junction tree=alto;confer=baixo,junction=alto;aalborg denmark=baixo,junction tree=alto
-256;aalborg univers=baixo,junction tree=alto;let=alto,netherland=baixo;jensen=alto,so-cal=baixo
-256;aalborg univers=baixo,cliqu=alto;junction=alto,larg=baixo;
-256;aalborg univers=baixo,so-cal=baixo;aalborg denmark=baixo,junction=alto;
-256;discret=baixo,junction tree=alto;junction tree=alto,potenti=alto;
-256;aalborg univers=baixo,potenti=alto;box=baixo,netherland=baixo;
-256;aalborg=baixo,let=alto,space=baixo;cliqu=alto,comput comput=baixo;
-256;cliqu=alto,comput comput=baixo;aalborg denmark=baixo,junction tree=alto;
-256;aalborg univers=baixo,comput comput=baixo,structur=baixo;cliqu=alto,present=alto;
-256;aalborg univers=baixo,comput comput=baixo,inform=baixo;comput comput=baixo,junction=alto;
-256;aalborg denmark=baixo,junction tree=alto;junction=alto,junction tree=alto,specifi=baixo;
-256;allow=baixo,junction tree=alto;jensen=alto,junction=alto,local comput=baixo;
-256;aalborg=baixo,so-cal=baixo;jensen=alto,remov=alto;
-256;jensen=alto,so-cal=baixo;aalborg denmark=baixo,potenti=alto,represent=baixo;
-256;discret=baixo,jensen=alto,pair=baixo;box=baixo,der=alto;
-256;neighbour=alto;cliqu=alto,let=alto,local comput=baixo;
-256;aalborg univers=baixo,comput statist=baixo,let=alto;assumpt=baixo,cliqu=alto,let=alto;
-256;amsterdam=baixo,junction tree=alto;cliqu=alto,let=alto,remov=alto;
-256;aalborg univers=baixo,let let=baixo;jensen=alto,so-cal=baixo;
+community;PageRank;TotalSet;rulesIntersection;onlyOnPageRank;onlyOnTotalSet
+256;aalborg univers=baixo,let=alto;junction tree=alto,represent=baixo;cliqu=alto,comput comput=baixo;discret=baixo,jensen=alto,pair=baixo;jensen=alto,junction=alto,local comput=baixo
+256;doe=baixo,junction tree=alto;confer=baixo,junction=alto;aalborg denmark=baixo,junction tree=alto;aalborg=baixo,let=alto,space=baixo;cliqu=alto,let=alto,remov=alto
+256;aalborg univers=baixo,junction tree=alto;let=alto,netherland=baixo;jensen=alto,so-cal=baixo;aalborg univers=baixo,cliqu=alto;aalborg denmark=baixo,junction=alto
+256;aalborg univers=baixo,cliqu=alto;junction=alto,larg=baixo;;doe=baixo,junction tree=alto;junction=alto,junction tree=alto,specifi=baixo
+256;aalborg univers=baixo,so-cal=baixo;aalborg denmark=baixo,junction=alto;;aalborg univers=baixo,comput statist=baixo,let=alto;junction=alto,larg=baixo
+256;discret=baixo,junction tree=alto;junction tree=alto,potenti=alto;;aalborg univers=baixo,potenti=alto;aalborg denmark=baixo,potenti=alto,represent=baixo
+256;aalborg univers=baixo,potenti=alto;box=baixo,netherland=baixo;;amsterdam=baixo,junction tree=alto;comput comput=baixo,junction=alto
+256;aalborg=baixo,let=alto,space=baixo;cliqu=alto,comput comput=baixo;;aalborg univers=baixo,so-cal=baixo;assumpt=baixo,cliqu=alto,let=alto
+256;cliqu=alto,comput comput=baixo;aalborg denmark=baixo,junction tree=alto;;aalborg univers=baixo,comput comput=baixo,inform=baixo;confer=baixo,junction=alto
+256;aalborg univers=baixo,comput comput=baixo,structur=baixo;cliqu=alto,present=alto;;aalborg univers=baixo,let=alto;box=baixo,der=alto
+256;aalborg univers=baixo,comput comput=baixo,inform=baixo;comput comput=baixo,junction=alto;;aalborg univers=baixo,comput comput=baixo,structur=baixo;cliqu=alto,present=alto
+256;aalborg denmark=baixo,junction tree=alto;junction=alto,junction tree=alto,specifi=baixo;;allow=baixo,junction tree=alto;let=alto,netherland=baixo
+256;allow=baixo,junction tree=alto;jensen=alto,junction=alto,local comput=baixo;;discret=baixo,junction tree=alto;cliqu=alto,let=alto,local comput=baixo
+256;aalborg=baixo,so-cal=baixo;jensen=alto,remov=alto;;aalborg univers=baixo,let let=baixo;box=baixo,netherland=baixo
+256;jensen=alto,so-cal=baixo;aalborg denmark=baixo,potenti=alto,represent=baixo;;neighbour=alto;junction tree=alto,represent=baixo
+256;discret=baixo,jensen=alto,pair=baixo;box=baixo,der=alto;;aalborg univers=baixo,junction tree=alto;jensen=alto,remov=alto
+256;neighbour=alto;cliqu=alto,let=alto,local comput=baixo;;aalborg=baixo,so-cal=baixo;junction tree=alto,potenti=alto
+256;aalborg univers=baixo,comput statist=baixo,let=alto;assumpt=baixo,cliqu=alto,let=alto;;;
+256;amsterdam=baixo,junction tree=alto;cliqu=alto,let=alto,remov=alto;;;
+256;aalborg univers=baixo,let let=baixo;jensen=alto,so-cal=baixo;;;

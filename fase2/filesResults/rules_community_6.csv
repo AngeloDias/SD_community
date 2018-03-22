@@ -1,21 +1,21 @@
-community;rulesA;rulesB;rulesIntersection
-6;pool=alto,vancouv=baixo;conclus=baixo,requir=baixo,univers british columbia=baixo;pool=alto,vancouv=baixo
-6;pool=alto,univers british columbia=baixo;conclus=baixo,equal=baixo,univers british columbia=baixo;canada=baixo,pool=alto
-6;canada=baixo,pool=alto;british columbia=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo;issu=baixo,univers british columbia=baixo
-6;david=baixo,depart comput=baixo,pool=alto;combin=baixo,data=baixo,univers british columbia=baixo;
-6;columbia vancouv=baixo,pool=alto;columbia=baixo,data=baixo,particular=baixo,univers british columbia=baixo;
-6;pool=alto,publish=baixo;british columbia=baixo,data=baixo,time=baixo;
-6;david pool=baixo,pool=alto;british=baixo,data=baixo,let=baixo,univers british columbia=baixo;
-6;publish=baixo,univers british columbia=baixo,vancouv=baixo;pool=alto,vancouv=baixo;
-6;empti=baixo,pool=alto;data=baixo,univers british columbia=baixo,vancouv=baixo;
-6;issu=baixo,univers british columbia=baixo;equal=baixo,univers british columbia=baixo,vancouv canada=baixo;
-6;columbia vancouv=baixo,issu=baixo;british columbia vancouv=baixo,conclus=baixo,vancouv canada=baixo;
-6;canada=baixo,columbia vancouv=baixo,fact=baixo,vancouv=baixo;british=baixo,british columbia=baixo,proceed=baixo,requir=baixo;
-6;author=baixo,pool=alto;data=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo;
-6;come=baixo,pool=alto;british=baixo,british columbia vancouv=baixo,conclus=baixo,order=baixo,univers british columbia=baixo;
-6;map=baixo,zhang=alto;assum=baixo,data=baixo,univers british columbia=baixo;
-6;depart comput=baixo,publish=baixo,vancouv=baixo;columbia=baixo,conclus=baixo,step=baixo,vancouv canada=baixo;
-6;describ=baixo,publish=baixo,vancouv=baixo;british columbia=baixo,pool=alto;
-6;depart comput=baixo,independ=baixo,pool=alto;issu=baixo,univers british columbia=baixo;
-6;david=baixo,issu=baixo,pool=alto;canada=baixo,pool=alto;
-6;columbia vancouv=baixo,graph=baixo;posterior=baixo,vancouv=baixo;
+community;PageRank;TotalSet;rulesIntersection;onlyOnPageRank;onlyOnTotalSet
+6;pool=alto,vancouv=baixo;conclus=baixo,requir=baixo,univers british columbia=baixo;pool=alto,vancouv=baixo;publish=baixo,univers british columbia=baixo,vancouv=baixo;data=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo
+6;pool=alto,univers british columbia=baixo;conclus=baixo,equal=baixo,univers british columbia=baixo;canada=baixo,pool=alto;map=baixo,zhang=alto;posterior=baixo,vancouv=baixo
+6;canada=baixo,pool=alto;british columbia=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo;issu=baixo,univers british columbia=baixo;canada=baixo,columbia vancouv=baixo,fact=baixo,vancouv=baixo;british columbia=baixo,data=baixo,time=baixo
+6;david=baixo,depart comput=baixo,pool=alto;combin=baixo,data=baixo,univers british columbia=baixo;;pool=alto,publish=baixo;equal=baixo,univers british columbia=baixo,vancouv canada=baixo
+6;columbia vancouv=baixo,pool=alto;columbia=baixo,data=baixo,particular=baixo,univers british columbia=baixo;;david=baixo,issu=baixo,pool=alto;data=baixo,univers british columbia=baixo,vancouv=baixo
+6;pool=alto,publish=baixo;british columbia=baixo,data=baixo,time=baixo;;columbia vancouv=baixo,graph=baixo;british columbia vancouv=baixo,conclus=baixo,vancouv canada=baixo
+6;david pool=baixo,pool=alto;british=baixo,data=baixo,let=baixo,univers british columbia=baixo;;columbia vancouv=baixo,pool=alto;british=baixo,british columbia=baixo,proceed=baixo,requir=baixo
+6;publish=baixo,univers british columbia=baixo,vancouv=baixo;pool=alto,vancouv=baixo;;david=baixo,depart comput=baixo,pool=alto;assum=baixo,data=baixo,univers british columbia=baixo
+6;empti=baixo,pool=alto;data=baixo,univers british columbia=baixo,vancouv=baixo;;pool=alto,univers british columbia=baixo;combin=baixo,data=baixo,univers british columbia=baixo
+6;issu=baixo,univers british columbia=baixo;equal=baixo,univers british columbia=baixo,vancouv canada=baixo;;empti=baixo,pool=alto;british=baixo,british columbia vancouv=baixo,conclus=baixo,order=baixo,univers british columbia=baixo
+6;columbia vancouv=baixo,issu=baixo;british columbia vancouv=baixo,conclus=baixo,vancouv canada=baixo;;columbia vancouv=baixo,issu=baixo;british columbia=baixo,pool=alto
+6;canada=baixo,columbia vancouv=baixo,fact=baixo,vancouv=baixo;british=baixo,british columbia=baixo,proceed=baixo,requir=baixo;;depart comput=baixo,publish=baixo,vancouv=baixo;columbia=baixo,data=baixo,particular=baixo,univers british columbia=baixo
+6;author=baixo,pool=alto;data=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo;;describ=baixo,publish=baixo,vancouv=baixo;conclus=baixo,requir=baixo,univers british columbia=baixo
+6;come=baixo,pool=alto;british=baixo,british columbia vancouv=baixo,conclus=baixo,order=baixo,univers british columbia=baixo;;david pool=baixo,pool=alto;columbia=baixo,conclus=baixo,step=baixo,vancouv canada=baixo
+6;map=baixo,zhang=alto;assum=baixo,data=baixo,univers british columbia=baixo;;depart comput=baixo,independ=baixo,pool=alto;conclus=baixo,equal=baixo,univers british columbia=baixo
+6;depart comput=baixo,publish=baixo,vancouv=baixo;columbia=baixo,conclus=baixo,step=baixo,vancouv canada=baixo;;author=baixo,pool=alto;british=baixo,data=baixo,let=baixo,univers british columbia=baixo
+6;describ=baixo,publish=baixo,vancouv=baixo;british columbia=baixo,pool=alto;;come=baixo,pool=alto;british columbia=baixo,particular=baixo,proceed=baixo,univers british columbia=baixo
+6;depart comput=baixo,independ=baixo,pool=alto;issu=baixo,univers british columbia=baixo;;;
+6;david=baixo,issu=baixo,pool=alto;canada=baixo,pool=alto;;;
+6;columbia vancouv=baixo,graph=baixo;posterior=baixo,vancouv=baixo;;;
