@@ -1,0 +1,73 @@
+Analisando o conjunto das frequências das características presentes nas regras foi possível compreender que os dados do cabeçalho do artigo dominam as frequências e isso dificultou a percepção da comunidade representada alí.
+
+### Comunidade 6 ###
+
+# PageRank
+
+Com as palavras que podem descrever um pouco melhor a comunidade e fazendo uma pesquisa, foi possível ver que a tendência é dos temas dos artigos serem sobre inferência bayesiana com utilização de representações gráficas.
+
+# Conjunto total
+
+De modo similar ao pageRank, exceto pela utilização de grafos.
+
+### Comunidade 80 ###
+
+# PageRank
+
+Foi possível compreender que os artigos tendem a tratar sobre estruturas causais com redes de inferência bayesiana.
+
+# Conjunto total
+
+Inferência bayesiana e independência intercausal.
+
+### Comunidade 104 ###
+
+# PageRank
+
+Redes bayesianas dinâmicas, inferência bayesiana.
+
+# Conjunto total
+
+Inferência probabilística
+
+### Comunidade 116 ###
+
+# PageRank
+
+Inferência de independância causal
+
+# Conjunto total
+
+Conhecimento impreciso e incerto
+
+### Comunidade 134 ###
+
+# PageRank
+
+Inferência em redes bayesianas com utilização de grafos
+
+# Conjunto total
+
+Sistemas baseados em conhecimento de sistemas fuzzy
+
+### Comunidade 145 ###
+
+# PageRank
+
+Problemas de conhecimento impreciso e bases de conhecimento fuzzy
+
+# Conjunto total
+
+Redes de crença (redes causais)
+
+### Comunidade 151 ###
+
+# PageRank
+
+# Conjunto total
+
+### Comunidade 153 ###
+
+# PageRank
+
+# Conjunto total

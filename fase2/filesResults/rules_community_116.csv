@@ -1,21 +1,21 @@
 community;PageRank;TotalSet;rulesIntersection;onlyOnPageRank;onlyOnTotalSet
-116;fuzzi=alto;fuzzi=alto;fuzzi=alto;fuzzi set=baixo,inconsist=baixo;foundat=baixo,fuzzi set=baixo,vol=baixo
-116;exist=baixo,foundat=baixo,fuzzi set=baixo;foundat=baixo,fuzzi set=baixo,intellig=baixo;;conclus=baixo,fuzzi set=baixo,necess=baixo;foundat=baixo,fuzzi set=baixo,intellig=baixo
-116;foundat=baixo,fuzzi set=baixo,rout=baixo;fuzzi set=baixo,justifi=baixo;;ed=alto,rout=baixo;intellig=baixo,prade=alto
-116;establish=baixo,foundat=baixo,fuzzi set=baixo;foundat=baixo,fuzzi set=baixo,vol=baixo;;form=baixo,necess=baixo,rout=baixo;context=baixo,fuzzi set=baixo
-116;fuzzi set=baixo,inconsist=baixo;denot=baixo,foundat=baixo,fuzzi set=baixo;;foundat=baixo,fuzzi set=baixo,possibl distribut=baixo;fuzzi set=baixo,inform=alto
-116;ed=alto,rout=baixo;context=baixo,fuzzi set=baixo;;establish=baixo,foundat=baixo,fuzzi set=baixo;fuzzi set=baixo,imprecis=baixo
-116;foundat=baixo,fuzzi set=baixo,possibl distribut=baixo;lang=baixo,world=baixo;;fuzzi set=baixo,necess=baixo,rout=baixo;estim=baixo,fuzzi set=baixo
-116;fuzzi set=baixo,necess=baixo,rout=baixo;foundat=baixo,fuzzi set=baixo,knowledg base=baixo;;capabl=baixo,fuzzi=baixo;decomposit=baixo,foundat=baixo,fuzzi set=baixo
-116;conclus=baixo,necess=baixo,rout=baixo;intellig=baixo,prade=alto;;exist=baixo,foundat=baixo,fuzzi set=baixo;lang=baixo,world=baixo
-116;foundat=baixo,fuzzi set=baixo,solut=baixo;estim=baixo,fuzzi set=baixo;;rout=baixo,total order=baixo;look=alto,prade=alto
-116;conclus=baixo,fuzzi set=baixo,necess=baixo;min max=baixo,way=alto;;lang=baixo,rout=baixo;fuzzi set=baixo,justifi=baixo
-116;previous=baixo,rout=baixo,vol=baixo;fuzzi set=baixo,inform=alto;;inform=alto,possibl distribut=baixo;min max=baixo,way=alto
-116;form=baixo,necess=baixo,rout=baixo;fuzzi set=baixo,imprecis=baixo;;look=alto,rout=baixo;academ=alto,fuzzi set=baixo
-116;possibl distribut=baixo,solut=baixo;lang=baixo,max=alto;;foundat=baixo,fuzzi set=baixo,rout=baixo;denot=baixo,foundat=baixo,fuzzi set=baixo
-116;degre=alto,vol=baixo;academ=alto,fuzzi set=baixo;;degre=alto,vol=baixo;foundat=baixo,fuzzi set=baixo
-116;lang=baixo,rout=baixo;fuzzi set=baixo,knowledg base=baixo,vol=baixo;;conclus=baixo,necess=baixo,rout=baixo;foundat=baixo,fuzzi set=baixo,knowledg base=baixo
-116;rout=baixo,total order=baixo;foundat=baixo,fuzzi set=baixo,world=baixo;;previous=baixo,rout=baixo,vol=baixo;lang=baixo,max=alto
-116;look=alto,rout=baixo;decomposit=baixo,foundat=baixo,fuzzi set=baixo;;possibl distribut=baixo,solut=baixo;fuzzi set=baixo,knowledg base=baixo,vol=baixo
-116;capabl=baixo,fuzzi=baixo;foundat=baixo,fuzzi set=baixo;;foundat=baixo,fuzzi set=baixo,solut=baixo;foundat=baixo,fuzzi set=baixo,world=baixo
+116;fuzzi=alto;fuzzi=alto;fuzzi=alto;capabl=baixo,fuzzi=baixo;context=baixo,fuzzi set=baixo
+116;exist=baixo,foundat=baixo,fuzzi set=baixo;foundat=baixo,fuzzi set=baixo,intellig=baixo;;conclus=baixo,necess=baixo,rout=baixo;lang=baixo,world=baixo
+116;foundat=baixo,fuzzi set=baixo,rout=baixo;fuzzi set=baixo,justifi=baixo;;foundat=baixo,fuzzi set=baixo,possibl distribut=baixo;look=alto,prade=alto
+116;establish=baixo,foundat=baixo,fuzzi set=baixo;foundat=baixo,fuzzi set=baixo,vol=baixo;;ed=alto,rout=baixo;foundat=baixo,fuzzi set=baixo
+116;fuzzi set=baixo,inconsist=baixo;denot=baixo,foundat=baixo,fuzzi set=baixo;;exist=baixo,foundat=baixo,fuzzi set=baixo;denot=baixo,foundat=baixo,fuzzi set=baixo
+116;ed=alto,rout=baixo;context=baixo,fuzzi set=baixo;;lang=baixo,rout=baixo;foundat=baixo,fuzzi set=baixo,knowledg base=baixo
+116;foundat=baixo,fuzzi set=baixo,possibl distribut=baixo;lang=baixo,world=baixo;;foundat=baixo,fuzzi set=baixo,solut=baixo;fuzzi set=baixo,justifi=baixo
+116;fuzzi set=baixo,necess=baixo,rout=baixo;foundat=baixo,fuzzi set=baixo,knowledg base=baixo;;possibl distribut=baixo,solut=baixo;fuzzi set=baixo,inform=alto
+116;conclus=baixo,necess=baixo,rout=baixo;intellig=baixo,prade=alto;;previous=baixo,rout=baixo,vol=baixo;min max=baixo,way=alto
+116;foundat=baixo,fuzzi set=baixo,solut=baixo;estim=baixo,fuzzi set=baixo;;look=alto,rout=baixo;intellig=baixo,prade=alto
+116;conclus=baixo,fuzzi set=baixo,necess=baixo;min max=baixo,way=alto;;inform=alto,possibl distribut=baixo;fuzzi set=baixo,imprecis=baixo
+116;previous=baixo,rout=baixo,vol=baixo;fuzzi set=baixo,inform=alto;;foundat=baixo,fuzzi set=baixo,rout=baixo;estim=baixo,fuzzi set=baixo
+116;form=baixo,necess=baixo,rout=baixo;fuzzi set=baixo,imprecis=baixo;;fuzzi set=baixo,necess=baixo,rout=baixo;decomposit=baixo,foundat=baixo,fuzzi set=baixo
+116;possibl distribut=baixo,solut=baixo;lang=baixo,max=alto;;degre=alto,vol=baixo;lang=baixo,max=alto
+116;degre=alto,vol=baixo;academ=alto,fuzzi set=baixo;;establish=baixo,foundat=baixo,fuzzi set=baixo;academ=alto,fuzzi set=baixo
+116;lang=baixo,rout=baixo;fuzzi set=baixo,knowledg base=baixo,vol=baixo;;conclus=baixo,fuzzi set=baixo,necess=baixo;fuzzi set=baixo,knowledg base=baixo,vol=baixo
+116;rout=baixo,total order=baixo;foundat=baixo,fuzzi set=baixo,world=baixo;;fuzzi set=baixo,inconsist=baixo;foundat=baixo,fuzzi set=baixo,world=baixo
+116;look=alto,rout=baixo;decomposit=baixo,foundat=baixo,fuzzi set=baixo;;rout=baixo,total order=baixo;foundat=baixo,fuzzi set=baixo,intellig=baixo
+116;capabl=baixo,fuzzi=baixo;foundat=baixo,fuzzi set=baixo;;form=baixo,necess=baixo,rout=baixo;foundat=baixo,fuzzi set=baixo,vol=baixo
 116;inform=alto,possibl distribut=baixo;look=alto,prade=alto;;;
