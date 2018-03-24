@@ -64,10 +64,38 @@ Redes de crença (redes causais)
 
 # PageRank
 
+Propagação de crença e redes bayesianas
+
 # Conjunto total
+
+Redes de crença e grafos
 
 ### Comunidade 153 ###
 
 # PageRank
 
+Inferência sobre redes bayesianas
+
 # Conjunto total
+
+Inferência probabilística sobre redes bayesianas
+
+### Comunidade 156 ###
+
+# PageRank
+
+Inferência em redes bayesianas
+
+# Conjunto total
+
+Redes bayesianas de crença
+
+### Comunidade 256 ###
+
+# PageRank
+
+Inferência probabilística sobre redes de crença
+
+# Conjunto total
+
+Regras de inferência e lógica fuzzy
