@@ -1,0 +1,21 @@
+community;PageRank;TotalSet;rulesIntersection;onlyOnPageRank;onlyOnTotalSet
+151;dechter=alto,graphic=alto;and/or=alto,graphic model=alto;dechter=alto,graphic=alto;condit probabl=medio,tupl=alto;constraint=alto,graphic=alto,scope=alto
+151;dechter=alto,graphic model=alto;dechter=alto,graphic=alto;dechter=alto,graphic model=alto;condit probabl=medio,dechter=alto;and/or=alto,scope=alto
+151;and/or=alto,graphic model=alto;dechter=alto,weight=alto;and/or=alto,graphic model=alto;dechter=alto,ident=alto;dechter=alto,node=medio
+151;dechter=alto,weight=alto;dechter=alto,make=baixo;dechter=alto,weight=alto;assign=alto,dechter=alto,time=medio;graphic=alto,scope=alto,size=alto
+151;dechter=alto,idea=alto;dechter=alto,tabl=alto;dechter=alto,idea=alto;dechter=alto,let=medio;dechter=alto,tabl=alto
+151;dechter=alto,simpl=baixo;dechter=alto,graphic model=alto;dechter=alto,simpl=baixo;bucket=alto,dechter=alto;assign=alto,dechter=alto,ident=alto
+151;dechter=alto,tupl=alto;comput scienc=baixo,dechter=alto;assign=alto,bucket=alto;and/or=alto,ident=alto;dechter=alto,make=baixo
+151;dechter=alto,random=alto;dechter=alto,idea=alto;elimin=alto,graphic=alto,scope=alto;dechter=alto,output=alto;graphic model=alto,regular=baixo
+151;condit probabl=medio,dechter=alto;dechter=alto,describ=medio;dechter=alto,describ=medio;dechter=alto,given figur=alto;and/or=alto,ident=alto,therefor=alto
+151;dechter=alto,output=alto;dechter=alto,simpl=baixo;;dechter=alto,random=alto;comput scienc=baixo,dechter=alto
+151;assign=alto,bucket=alto;graphic=alto,scope=alto,size=alto;;dechter=alto,tupl=alto;dechter=alto,therefor=alto
+151;dechter=alto,ident=alto;dechter=alto,node=medio;;;
+151;elimin=alto,graphic=alto,scope=alto;assign=alto,bucket=alto;;;
+151;dechter=alto,describ=medio;and/or=alto,scope=alto;;;
+151;assign=alto,dechter=alto,time=medio;graphic model=alto,regular=baixo;;;
+151;and/or=alto,ident=alto;dechter=alto,therefor=alto;;;
+151;condit probabl=medio,tupl=alto;constraint=alto,graphic=alto,scope=alto;;;
+151;dechter=alto,let=medio;assign=alto,dechter=alto,ident=alto;;;
+151;dechter=alto,given figur=alto;elimin=alto,graphic=alto,scope=alto;;;
+151;bucket=alto,dechter=alto;and/or=alto,ident=alto,therefor=alto;;;

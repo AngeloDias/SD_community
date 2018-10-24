@@ -1,0 +1,21 @@
+community;PageRank;TotalSet;rulesIntersection;onlyOnPageRank;onlyOnTotalSet
+156;california los=alto,causal=alto;causal=alto,univers california los=alto;california los=alto,effect=alto;california=alto,los angel=alto,scienc depart=alto;intervent=alto,treatment=alto
+156;angel=alto,causal=alto,identifi=alto;effect=alto,pearl=alto,unobserv=alto;california los=alto,judea pearl=medio;california los angel=alto,identifi=alto;effect=alto,pearl=alto,unobserv=alto
+156;california los angel=alto,identifi=alto;california los=alto,effect=alto;;angel=alto,causal=alto,identifi=alto;california los=alto,judea=alto
+156;california los angel=alto,judea=alto;arrow=alto,causal=alto,pearl=alto;;angel=alto,identifi=alto,suffici=alto;pearl causal=alto,unobserv=alto
+156;california los=alto,effect=alto;depart=alto,pearl=alto,treatment=alto;;california=alto,causal model=alto;diagram=alto,pearl causal=alto
+156;suffici=alto,ucla=alto;california los=alto,judea=alto;;graphic=alto,model reason=alto;arrow=alto,unobserv=alto
+156;character=alto,write=alto;causal model=alto,probabilist reason=medio;;california los=alto,conclus=alto;induc=alto,pearl causal=alto
+156;cambridg univers=alto,judea=alto;intervent=alto,pearl=alto;;california los=alto,state=medio;induc=alto,unobserv=alto
+156;california=alto,causal model=alto;arrow=alto,causal model=alto,pearl=alto;;character=alto,effect=alto,graphic=alto;causal model=alto,pearl probabilist=alto
+156;angel=alto,identifi=alto,suffici=alto;causal=alto,diagram=alto,unobserv=alto;;california los=alto,causal=alto;depart=alto,pearl=alto,treatment=alto
+156;independ=alto,ucla=alto;california los=alto,judea pearl=medio;;california los angel=alto,judea=alto;causal model=alto,induc=alto
+156;california los=alto,judea pearl=medio;intervent=alto,treatment=alto;;suffici=alto,ucla=alto;causal=alto,univers california los=alto
+156;california los=alto,conclus=alto;induc=alto,unobserv=alto;;cambridg univers=alto,judea=alto;causal model=alto,probabilist reason=medio
+156;graphic=alto,model reason=alto;causal model=alto,induc=alto;;character=alto,write=alto;causal=alto,diagram=alto,unobserv=alto
+156;judea=alto,judea pearl=medio;pearl causal=alto,unobserv=alto;;independ=alto,ucla=alto;arrow=alto,causal model=alto,pearl=alto
+156;effect=alto,judea pearl=medio;diagram=alto,pearl causal=alto;;angel=alto,california=alto,shown=alto;causal=alto,ucla=alto
+156;angel=alto,california=alto,shown=alto;arrow=alto,unobserv=alto;;judea=alto,judea pearl=medio;arrow=alto,causal=alto,pearl=alto
+156;california los=alto,state=medio;causal model=alto,pearl probabilist=alto;;effect=alto,judea pearl=medio;intervent=alto,pearl=alto
+156;character=alto,effect=alto,graphic=alto;causal=alto,ucla=alto;;;
+156;california=alto,los angel=alto,scienc depart=alto;induc=alto,pearl causal=alto;;;

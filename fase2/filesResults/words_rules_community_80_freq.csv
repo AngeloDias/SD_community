@@ -1,0 +1,48 @@
+caracteristicasPageRank;freqWordPageRank;caracteristicasTotalSet;freqWordTotalSet
+univers california los=baixo;3;pittsburgh=alto;16.0
+moreov=alto;3;plausibl=baixo;4.0
+california los angel=baixo;3;pearl=baixo;3.0
+depart univers=baixo;3;let=baixo;2.0
+scienc depart univers=baixo;3;step=baixo;2.0
+los=baixo;3;california los=baixo;2.0
+similar=baixo;2;conclus=baixo;2.0
+dechter=baixo;2;observ=baixo;2.0
+network node=baixo;2;independ=baixo;2.0
+infer bayesian network=baixo;2;particular=baixo;1.0
+final=baixo;2;order=baixo;1.0
+causal independ=baixo;1;discret=baixo;1.0
+lead=alto;1;requir=baixo;1.0
+kaufmann publish=alto;1;vancouv=baixo;1.0
+resourc=baixo;1;proceed=baixo;1.0
+simplifi=baixo;1;pool=alto;1.0
+infer bayesian=baixo;1;equal=baixo;1.0
+los angel=baixo;1;vancouv canada=baixo;1.0
+cpts=baixo;1;british=baixo;1.0
+comput probabl=baixo;1;british columbia=baixo;1.0
+pittsburgh=alto;1;contribut=baixo;1.0
+pool=alto;1;instead=baixo;1.0
+publish inc.=alto;1;kaufmann publish inc.=baixo;1.0
+come=baixo;1;belief network=baixo;1.0
+publish=baixo;1;british columbia vancouv=baixo;1.0
+columbia vancouv=baixo;1;addit=baixo;1.0
+depart comput=baixo;1;canada=baixo;1.0
+univers british columbia=baixo;1;depend=baixo;1.0
+issu=baixo;1;issu=baixo;1.0
+david=baixo;1;cpt=baixo;1.0
+canada=baixo;1;univers california los=baixo;1.0
+zhang=alto;1;assum=baixo;1.0
+describ=baixo;1;connect=baixo;1.0
+map=baixo;1;data=baixo;1.0
+author=baixo;1;combin=baixo;1.0
+kaufmann publish inc.=alto;1;publish=alto;1.0
+independ=baixo;1;anonym=baixo;1.0
+fact=baixo;1;time=baixo;1.0
+empti=baixo;1;network node=baixo;1.0
+david pool=baixo;1;posterior=baixo;1.0
+graph=baixo;1;columbia=baixo;1.0
+infer belief=baixo;1;depart=baixo;1.0
+judea=baixo;1;univers british columbia=baixo;1.0
+adnan=baixo;1;;
+cpt=baixo;1;;
+vancouv=baixo;1;;
+network structur=baixo;1;;

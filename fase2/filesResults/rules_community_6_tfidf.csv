@@ -1,0 +1,21 @@
+community;PageRank;TotalSet;rulesIntersection;onlyOnPageRank;onlyOnTotalSet
+6;pool=alto,similar=baixo;freita=alto;;vancouv canada=medio;infer=baixo,univers british columbia=alto
+6;conclus=baixo,pool=alto;space=alto,univers british=alto;;pool=alto,similar=baixo;canada=alto,columbia=alto
+6;carri=alto,zhang=alto;canada=alto,univers british=alto;;pool=alto,vancouv=medio;lead=medio,univers british=alto
+6;vancouv canada=medio;columbia=alto,lead=medio;;british columbia=alto,upper bound=baixo;associ=baixo,univers british=alto
+6;choos=alto,littman=alto;obtain=alto,univers british=alto;;structur=baixo,vancouv=medio;columbia=alto,lead=medio
+6;columbia=alto,univers british=alto;conclus=medio,vancouv canada=medio;;columbia=alto,univers british=alto;respect=medio,univers british=alto
+6;comput scienc univers=alto,pool=alto;columbia=alto,shown=alto;;state=alto,zhang=alto;obtain=alto,univers british=alto
+6;pool=alto,vancouv=medio;canada=alto,columbia=alto;;conclus=baixo,pool=alto;cost=medio,univers british columbia=alto
+6;approxim=baixo,lang=alto;choos=alto,univers british columbia=alto;;british columbia=alto,pool=alto;choos=alto,columbia=alto
+6;littman=alto,research=baixo;lead=medio,univers british=alto;;choos=alto,littman=alto;larg=alto,univers british=alto
+6;state=alto,zhang=alto;respect=medio,univers british=alto;;comput scienc univers=alto,pool=alto;conclus=medio,vancouv canada=medio
+6;british columbia=alto,pool=alto;associ=baixo,univers british=alto;;british=alto,pool=alto;columbia=alto,shown=alto
+6;british=alto,pool=alto;choos=alto,columbia=alto;;littman=alto,research=baixo;choos=alto,univers british columbia=alto
+6;structur=baixo,vancouv=medio;british=alto,obtain=alto;;carri=alto,zhang=alto;freita=alto
+6;group=baixo,pool=alto;cost=medio,univers british columbia=alto;;group=baixo,pool=alto;canada=alto,univers british=alto
+6;british columbia=alto,lead=medio;infer=baixo,univers british columbia=alto;;approxim=baixo,lang=alto;space=alto,univers british=alto
+6;columbia=medio,univers british columbia=medio;conclus=medio,univers british=alto;;columbia=medio,univers british columbia=medio;univers british columbia=alto
+6;structur=baixo,univers british columbia=medio;larg=alto,univers british=alto;;optim polici=medio,zhang=alto;conclus=medio,univers british=alto
+6;british columbia=alto,upper bound=baixo;univers british=alto;;structur=baixo,univers british columbia=medio;univers british=alto
+6;optim polici=medio,zhang=alto;univers british columbia=alto;;british columbia=alto,lead=medio;british=alto,obtain=alto
