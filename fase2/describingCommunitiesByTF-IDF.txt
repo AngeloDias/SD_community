@@ -1,0 +1,101 @@
+Resumo da análise: Analisando os conjuntos das palavras a partir da matriz de TF-IDF, 
+
+### Comunidade 6 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+
+
+### Comunidade 80 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+
+
+### Comunidade 104 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+
+
+### Comunidade 116 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+
+
+### Comunidade 134 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+
+
+### Comunidade 145 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+
+
+### Comunidade 151 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+
+
+### Comunidade 153 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+
+
+### Comunidade 156 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+
+
+### Comunidade 256 ###
+
+# PageRank
+
+
+
+# Conjunto total
+
+

@@ -1,4 +1,4 @@
-Analisando o conjunto das frequências das características presentes nas regras foi possível compreender que os dados do cabeçalho do artigo dominam as frequências e isso dificultou a percepção da comunidade representada alí.
+Analisando o conjunto das frequências das características presentes nas regras foi possível compreender que os dados do cabeçalho do artigo dominam as frequências e isso condicionou a percepção da comunidade representada alí ao conteúdo dele.
 
 ### Comunidade 6 ###
 
