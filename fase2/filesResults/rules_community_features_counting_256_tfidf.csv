@@ -1,0 +1,21 @@
+community;PageRank;pr_features_counting;ts_features_counting;TotalSet
+256;conclud=alto,der=alto;2;2;junction tree=alto,mani=baixo
+256;distribut=baixo,jensen=alto,junction tree=alto;3;2;distribut=baixo,junction tree=alto
+256;aalborg=alto,tree=alto;2;3;aalborg=alto,junction tree=alto,tree=alto
+256;junction tree=alto,mani=baixo,tree=alto;3;2;aalborg=alto,distribut=baixo
+256;aalborg univers=alto,junction=alto;2;3;jensen=alto,mani=baixo,shall=alto
+256;aalborg=alto,lauritzen=alto;2;3;jensen=alto,junction tree=alto,margin=alto
+256;basic=alto,der=alto;2;3;allow=baixo,jensen=alto,junction tree=alto
+256;aalborg=alto,olesen=alto;2;2;assum=medio,junction tree=alto
+256;aalborg=alto,mani=baixo;2;3;junction tree=alto,let=alto,tree=alto
+256;aalborg=alto,condit probabl=medio;2;2;confer=medio,junction tree=alto
+256;aalborg=alto,distribut=baixo;2;3;distribut=baixo,jensen=alto,remov=alto
+256;correspond=baixo,junction tree=alto;2;3;associ=alto,jensen=alto,junction tree=alto
+256;accord=medio,jensen=alto;2;2;junction tree=alto,proceed=medio
+256;aalborg=alto,introduc=medio;2;3;jensen=alto,let=alto,tree=alto
+256;distribut=baixo,jensen=alto,shall=alto;3;3;distribut=baixo,introduc=medio,jensen=alto
+256;distribut=baixo,introduc=medio,jensen=alto;3;2;aalborg=alto,introduc=medio
+256;jensen=alto,shall=alto,tree=alto;3;3;correspond=baixo,jensen=alto,junction tree=alto
+256;henc=medio,jensen=alto;2;2;aalborg=alto,intellig=medio
+256;jensen=alto,let denot=medio;2;3;jensen=alto,junction tree=alto,method=alto
+256;probabilist network=alto,therebi=alto;2;2;aalborg=alto,indic=alto

@@ -1,0 +1,21 @@
+community;PageRank;pr_features_counting;ts_features_counting;TotalSet
+134;expect valu=baixo,partial=alto;2;2;mechan=baixo,use ani=baixo
+134;earli=baixo,use ani=baixo;2;2;earli=baixo,use ani=baixo
+134;bound=alto,use ani=baixo;2;2;benefici=baixo,precis=baixo
+134;usa=baixo,use ani=baixo;2;2;benefici=baixo,quantiti=baixo
+134;limit=alto,optim solut=alto,studi=baixo;3;2;algorithm develop=baixo,use ani=baixo
+134;limit=alto,studi=baixo,use ani=baixo;3;2;benefici=baixo,expect valu=baixo
+134;bound=alto,fewer=baixo,limit=alto;3;2;state set=baixo,use ani=baixo
+134;journal artifici=alto,limit=alto,solv=alto;3;2;instruct=baixo,valid=baixo
+134;develop=medio,guid=baixo,implement=alto;3;2;implement use=baixo,sequenc=baixo
+134;develop=medio,elimin=baixo,guid=baixo;3;2;elimin=baixo,veri larg=baixo
+134;develop=medio,implement=alto,limit=alto;3;2;perform better=baixo,use ani=baixo
+134;limit=alto,solv=alto,use ani=baixo;3;2;confer=alto,use ani=baixo
+134;mechan=baixo,solut=alto,solv=alto;3;2;intellig research=alto,use ani=baixo
+134;artifici intellig=medio,implement=alto,solv=alto;3;2;algorithm develop=baixo,mechan=baixo
+134;conclus=baixo,earli=baixo,solv=alto;3;2;quantiti=baixo,veri larg=baixo
+134;mechan=baixo,solv=alto,studi=baixo;3;2;benefici=baixo,limit=alto
+134;guid=baixo,use ani=baixo;2;2;benefici=baixo,stop=baixo
+134;local=alto,observ markov=medio;2;2;growth=baixo,set state=baixo
+134;journal artifici=alto,use ani=baixo;2;2;institut technolog=baixo,stop=baixo
+134;artifici intellig=medio,defin equat=baixo;2;2;benefici=baixo,given set=baixo

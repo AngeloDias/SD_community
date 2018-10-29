@@ -1,0 +1,21 @@
+community;PageRank;pr_features_counting;ts_features_counting;TotalSet
+151;dechter=alto,graphic=alto;2;2;and/or=alto,graphic model=alto
+151;dechter=alto,graphic model=alto;2;2;dechter=alto,graphic=alto
+151;and/or=alto,graphic model=alto;2;2;dechter=alto,weight=alto
+151;dechter=alto,weight=alto;2;2;dechter=alto,make=baixo
+151;dechter=alto,idea=alto;2;2;dechter=alto,tabl=alto
+151;dechter=alto,simpl=baixo;2;2;dechter=alto,graphic model=alto
+151;dechter=alto,tupl=alto;2;2;comput scienc=baixo,dechter=alto
+151;dechter=alto,random=alto;2;2;dechter=alto,idea=alto
+151;condit probabl=medio,dechter=alto;2;2;dechter=alto,describ=medio
+151;dechter=alto,output=alto;2;2;dechter=alto,simpl=baixo
+151;assign=alto,bucket=alto;2;3;graphic=alto,scope=alto,size=alto
+151;dechter=alto,ident=alto;2;2;dechter=alto,node=medio
+151;elimin=alto,graphic=alto,scope=alto;3;2;assign=alto,bucket=alto
+151;dechter=alto,describ=medio;2;2;and/or=alto,scope=alto
+151;assign=alto,dechter=alto,time=medio;3;2;graphic model=alto,regular=baixo
+151;and/or=alto,ident=alto;2;2;dechter=alto,therefor=alto
+151;condit probabl=medio,tupl=alto;2;3;constraint=alto,graphic=alto,scope=alto
+151;dechter=alto,let=medio;2;3;assign=alto,dechter=alto,ident=alto
+151;dechter=alto,given figur=alto;2;3;elimin=alto,graphic=alto,scope=alto
+151;bucket=alto,dechter=alto;2;3;and/or=alto,ident=alto,therefor=alto

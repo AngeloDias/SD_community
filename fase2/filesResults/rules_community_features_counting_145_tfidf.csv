@@ -1,0 +1,21 @@
+community;PageRank;pr_features_counting;ts_features_counting;TotalSet
+145;alberta=alto;1;2;approxim=alto,univers alberta=alto
+145;univers alberta=alto;1;2;alberta=alto,fix=alto
+145;learn=alto,proof=alto,stochast=alto;3;2;known=medio,univers alberta=alto
+145;alberta=medio,learn=alto;2;3;acknowledg=alto,approxim=alto,nserc=alto
+145;let denot=alto,univers alberta=baixo;2;2;alberta=alto,empir=alto
+145;empir=alto,nserc=alto;2;2;fix=alto,univers alberta=alto
+145;confer machin learn=medio,proceed intern=medio;2;2;acknowledg=alto,alberta=alto
+145;advanc neural inform=alto,proof=alto;2;2;assum=alto,univers alberta=alto
+145;inf=alto,learn=alto;2;2;empir=alto,nserc=alto
+145;background=medio,nserc=alto;2;2;alberta=alto,return=medio
+145;advanc neural inform=alto,proceed intern=alto;2;2;alberta=alto,start=alto
+145;real-valu=alto,result section=alto;2;2;alberta=alto,similar=alto
+145;averag=medio,univers alberta=baixo;2;3;empir=alto,method=alto,reinforc learn=alto
+145;loss=alto,univers alberta=baixo;2;3;approxim=alto,fix=alto,nserc=alto
+145;real-valu=alto,stochast=alto;2;2;mean=medio,univers alberta=alto
+145;result section=alto,stochast=alto;2;2;alberta=alto,nserc=alto
+145;proof=alto,univers alberta=baixo;2;2;alberta=medio,empir=alto
+145;element=medio,real-valu=alto;2;2;real-valu=alto,result section=alto
+145;loss=alto,real-valu=alto;2;2;alberta=medio,chang=alto
+145;nserc=alto,return=medio;2;2;reinforc learn=alto,result section=alto

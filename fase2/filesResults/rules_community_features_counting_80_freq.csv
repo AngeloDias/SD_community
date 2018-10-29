@@ -1,0 +1,21 @@
+community;PageRank;pr_features_counting;ts_features_counting;TotalSet
+80;final=baixo,moreov=alto,univers california los=baixo;3;2;addit=baixo,pittsburgh=alto
+80;infer belief=baixo,judea=baixo;2;2;pearl=baixo,pittsburgh=alto
+80;california los angel=baixo,network node=baixo;2;2;depend=baixo,pittsburgh=alto
+80;adnan=baixo,moreov=alto;2;2;cpt=baixo,univers california los=baixo
+80;cpt=baixo,univers california los=baixo;2;2;pittsburgh=alto,step=baixo
+80;dechter=baixo,scienc depart univers=baixo,univers california los=baixo;3;2;connect=baixo,pittsburgh=alto
+80;kaufmann publish inc.=alto;1;4;independ=baixo,pearl=baixo,plausibl=baixo,publish=alto
+80;publish inc.=alto;1;3;anonym=baixo,observ=baixo,pittsburgh=alto
+80;infer bayesian network=baixo,los=baixo,network node=baixo;3;2;california los=baixo,network node=baixo
+80;california los angel=baixo,comput probabl=baixo;2;2;kaufmann publish inc.=baixo,pittsburgh=alto
+80;dechter=baixo,los=baixo;2;2;depart=baixo,pittsburgh=alto
+80;resourc=baixo,scienc depart univers=baixo,similar=baixo;3;2;belief network=baixo,pittsburgh=alto
+80;causal independ=baixo,depart univers=baixo;2;2;instead=baixo,pittsburgh=alto
+80;california los angel=baixo,final=baixo,lead=alto;3;2;conclus=baixo,pittsburgh=alto
+80;kaufmann publish=alto,simplifi=baixo;2;2;discret=baixo,pittsburgh=alto
+80;infer bayesian=baixo,los angel=baixo,moreov=alto;3;2;let=baixo,pittsburgh=alto
+80;cpts=baixo,depart univers=baixo;2;3;observ=baixo,pittsburgh=alto,plausibl=baixo
+80;infer bayesian network=baixo,los=baixo,scienc depart univers=baixo;3;3;independ=baixo,pittsburgh=alto,plausibl=baixo
+80;pittsburgh=alto,similar=baixo;2;2;contribut=baixo,pittsburgh=alto
+80;depart univers=baixo,network structur=baixo;2;3;california los=baixo,pearl=baixo,plausibl=baixo

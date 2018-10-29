@@ -1,0 +1,21 @@
+community;PageRank;pr_features_counting;ts_features_counting;TotalSet
+153;stanford=alto,workshop uncertainti=alto;2;3;develop=alto,medic=alto,research=alto
+153;artifici intellig=alto,microsoft=alto;2;2;stanford=alto,workshop uncertainti=alto
+153;probabilist=alto,workshop uncertainti artifici=alto;2;3;intellig=alto,medic=alto,research=alto
+153;probabilist=alto,shachter=alto,stanford=alto;3;3;belief network=alto,probabilist infer=alto,stanford=alto
+153;stanford=alto,workshop uncertainti artifici=alto;2;3;probabilist infer=alto,stanford=alto,workshop=alto
+153;artifici intellig=alto,microsoft research=alto;2;3;probabilist=alto,workshop=alto,workshop uncertainti artifici=alto
+153;infer use=alto,medic=alto;2;2;knowledg=alto,workshop uncertainti=alto
+153;meek=alto;1;3;artifici=alto,medic=alto,research=alto
+153;belief network=alto,probabilist infer belief=alto;2;3;artifici=alto,probabilist infer=alto,stanford=alto
+153;medic informat=baixo;1;3;analysi=alto,probabilist infer=alto,stanford=alto
+153;redmond=alto;1;2;infer use=alto,medic=alto
+153;medic=alto,shachter=alto;2;2;medic=alto,workshop uncertainti=alto
+153;nonetheless=alto,transform=alto;2;2;confer=medio,workshop uncertainti=alto
+153;matheson influenc diagram=baixo,multipl=alto;2;3;develop=alto,intellig=alto,workshop uncertainti=alto
+153;shachter=alto,univers stanford=baixo;2;3;intellig=alto,medic=alto,workshop=alto
+153;medic=alto,workshop uncertainti artifici=alto;2;3;belief network=alto,medic=alto,research=alto
+153;horvitz=alto,medic=alto;2;3;analysi=alto,intellig=alto,workshop uncertainti=alto
+153;drawn=alto,shachter=alto;2;2;probabilist infer=alto,univers stanford=alto
+153;matheson influenc diagram=baixo,ross=baixo;2;3;medic=alto,probabilist infer=alto,stanford=alto
+153;ross=baixo,shachter=alto;2;2;belief network=alto,probabilist infer belief=alto

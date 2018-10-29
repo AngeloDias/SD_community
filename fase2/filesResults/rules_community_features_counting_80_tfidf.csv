@@ -1,0 +1,21 @@
+community;PageRank;pr_features_counting;ts_features_counting;TotalSet
+80;kaufmann publish=alto,pearl=medio;2;2;darwich=alto,moreov=alto
+80;darwich=alto,moreov=alto;2;2;druzdzel=alto,publish=alto
+80;moreov=alto,scienc depart univers=baixo;2;2;chang=alto,pittsburgh=alto
+80;morgan kaufmann publish=alto,pearl=medio;2;2;moreov=alto,scienc depart univers=baixo
+80;pittsburgh=alto,veri=alto;2;2;pittsburgh=alto,review=alto
+80;darwich=alto,moreov=alto,network=alto;3;2;instead=baixo,pittsburgh=alto
+80;network=alto,scienc depart univers=baixo;2;2;kaufmann publish=alto,pittsburgh=alto
+80;druzdzel=alto,publish=alto;2;2;darwich=alto,given network=alto
+80;univers pittsburgh=alto,veri=alto;2;2;follow section=alto,origin network=alto
+80;inc.=alto,pearl=medio;2;2;druzdzel=alto,univers pittsburgh=alto
+80;bayesian=alto,darwich=alto;2;2;druzdzel=alto,san=alto
+80;kaufmann publish=alto,reduc=medio;2;2;figur depict=alto,network figur=alto
+80;druzdzel=alto,scienc=alto;2;2;darwich=alto,figur depict=alto
+80;morgan kaufmann publish=alto,reduc=medio;2;2;belief=medio,druzdzel=alto
+80;inc.=alto,reduc=medio,studi=alto;3;2;inc.=alto,pittsburgh=alto
+80;bayesian=alto,chang=alto,kaufmann publish=alto;3;2;darwich=alto,depict=alto
+80;bayesian=alto,chang=alto,pearl=medio;3;2;becaus=baixo,druzdzel=alto
+80;druzdzel=alto,morgan kaufmann=alto;2;2;pearl=medio,univers pittsburgh=alto
+80;inc.=alto,laboratori=medio;2;2;darwich=alto,los=medio
+80;chang=alto,network node=medio;2;2;critic=medio,pittsburgh=alto

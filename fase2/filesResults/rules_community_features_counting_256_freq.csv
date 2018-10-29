@@ -1,0 +1,21 @@
+community;PageRank;pr_features_counting;ts_features_counting;TotalSet
+256;aalborg univers=baixo,let=alto;2;2;junction tree=alto,represent=baixo
+256;doe=baixo,junction tree=alto;2;2;confer=baixo,junction=alto
+256;aalborg univers=baixo,junction tree=alto;2;2;let=alto,netherland=baixo
+256;aalborg univers=baixo,cliqu=alto;2;2;junction=alto,larg=baixo
+256;aalborg univers=baixo,so-cal=baixo;2;2;aalborg denmark=baixo,junction=alto
+256;discret=baixo,junction tree=alto;2;2;junction tree=alto,potenti=alto
+256;aalborg univers=baixo,potenti=alto;2;2;box=baixo,netherland=baixo
+256;aalborg=baixo,let=alto,space=baixo;3;2;cliqu=alto,comput comput=baixo
+256;cliqu=alto,comput comput=baixo;2;2;aalborg denmark=baixo,junction tree=alto
+256;aalborg univers=baixo,comput comput=baixo,structur=baixo;3;2;cliqu=alto,present=alto
+256;aalborg univers=baixo,comput comput=baixo,inform=baixo;3;2;comput comput=baixo,junction=alto
+256;aalborg denmark=baixo,junction tree=alto;2;3;junction=alto,junction tree=alto,specifi=baixo
+256;allow=baixo,junction tree=alto;2;3;jensen=alto,junction=alto,local comput=baixo
+256;aalborg=baixo,so-cal=baixo;2;2;jensen=alto,remov=alto
+256;jensen=alto,so-cal=baixo;2;3;aalborg denmark=baixo,potenti=alto,represent=baixo
+256;discret=baixo,jensen=alto,pair=baixo;3;2;box=baixo,der=alto
+256;neighbour=alto;1;3;cliqu=alto,let=alto,local comput=baixo
+256;aalborg univers=baixo,comput statist=baixo,let=alto;3;3;assumpt=baixo,cliqu=alto,let=alto
+256;amsterdam=baixo,junction tree=alto;2;3;cliqu=alto,let=alto,remov=alto
+256;aalborg univers=baixo,let let=baixo;2;2;jensen=alto,so-cal=baixo

@@ -1,0 +1,21 @@
+community;PageRank;pr_features_counting;ts_features_counting;TotalSet
+104;toronto=alto;1;1;toronto=alto
+104;boutili=alto,certain=alto;2;2;factor=alto,surpris=baixo
+104;daphn=baixo,random=baixo;2;2;daphn=baixo,koller=alto
+104;boutili=alto,element=baixo;2;2;koller=alto,stanford=medio
+104;allow=alto,discuss abov=medio;2;2;daphn koller=baixo,factor=alto
+104;daphn koller=baixo,size=medio;2;2;affect=baixo,use learn=baixo
+104;dean=baixo,final=medio;2;2;koller=alto,stanford univers=medio
+104;allow=alto,daphn koller=baixo;2;2;daphn=baixo,signific=medio
+104;daphn koller=baixo,koller=alto;2;2;koller=alto,surpris=baixo
+104;boutili=alto,depart comput=alto;2;2;koller=alto,situat=alto
+104;craig=alto,techniqu=alto;2;2;allow=alto,daphn=baixo
+104;daphn koller=alto,prior=medio;2;2;daphn koller=alto,maxim=alto
+104;daphn koller=baixo,network=medio;2;2;individu=medio,koller=alto
+104;avail=baixo,boutili=alto;2;2;koller=alto,variabl set=baixo
+104;boutili=alto,knowledg=baixo,optim=alto;3;2;daphn=baixo,stanford=medio
+104;acknowledg=baixo,darpa=baixo;2;2;drawback=baixo,modif=baixo
+104;boutili=alto,final=medio,function=alto,optim=alto;4;2;daphn=baixo,random=baixo
+104;boutili=alto,dynam=alto;2;2;daphn=baixo,describ=alto
+104;assign=medio,daphn=baixo;2;2;daphn koller=baixo,let=medio
+104;daphn koller=baixo,let=medio;2;2;koller=alto,stanford=baixo
