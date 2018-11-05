@@ -3,11 +3,11 @@ Resumo da análise: Analisando os conjuntos das palavras a partir da matriz de T
 ### Comunidade 6 ###
 
 # PageRank
-
+A observação de três regras fez compreender que esse conjunto indica que a pesquisa predominante é feita sobre "Optimal Policies"
 
 
 # Conjunto total
-
+Da análise desse conjunto somente foi possível compreender que um pesquisar da Universidade da Colúmbia Britânica é dominante na área.
 
 
 ### Comunidade 80 ###
