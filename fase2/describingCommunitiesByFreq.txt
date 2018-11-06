@@ -4,27 +4,27 @@ Analisando o conjunto das frequências das características presentes nas regras
 
 # PageRank
 
-Com as palavras que podem descrever um pouco melhor a comunidade e fazendo uma pesquisa, foi possível ver que a tendência é dos temas dos artigos serem sobre inferência bayesiana com utilização de representações gráficas.
+Com as palavras que podem descrever um pouco melhor a comunidade foi possível ver que a tendência é dos temas dos artigos serem sobre inferência bayesiana.
 
 # Conjunto total
 
-De modo similar ao pageRank, exceto pela utilização de grafos.
+De modo similar ao pageRank.
 
 ### Comunidade 80 ###
 
 # PageRank
 
-Foi possível compreender que os artigos tendem a tratar sobre estruturas causais com redes de inferência bayesiana.
+Foi possível compreender que os artigos tendem a tratar sobre redes de inferência bayesiana.
 
 # Conjunto total
 
-Inferência bayesiana e independência intercausal.
+Inferência bayesiana.
 
 ### Comunidade 104 ###
 
 # PageRank
 
-Redes bayesianas dinâmicas, inferência bayesiana.
+Redes bayesianas de inferência.
 
 # Conjunto total
 

@@ -1,9 +1,9 @@
-Resumo da análise: Analisando os conjuntos das palavras a partir da matriz de TF-IDF, 
+Resumo da análise: Analisando os conjuntos das palavras a partir da matriz de TF-IDF, viu-se que as características predominantes são principalmente compostas pelos nomes dos autores e os locais ondem trabalham. Além disso, a frequência de uma característica nas regras não foi útil para dizer qual era o tema de pesquisa daquela comunidade, bastava que ela aparecesse em alguma regra e fosse realicionada a alguma área de pesquisa.
 
 ### Comunidade 6 ###
 
 # PageRank
-A observação de três regras fez compreender que esse conjunto indica que a pesquisa predominante é feita sobre "Optimal Policies"
+A observação das três regras que não estão somente com informações sobre a universidade fez compreender que esse conjunto indica que a pesquisa predominante é feita sobre "Optimal Policies"
 
 
 # Conjunto total
@@ -13,89 +13,89 @@ Da análise desse conjunto somente foi possível compreender que um pesquisar da
 ### Comunidade 80 ###
 
 # PageRank
-
+Fazendo a análise a partir das 11 mais frequentes características nas regras pode-se compreender que esta comunidade pesquisa sobre "Bayesian Networks".
 
 
 # Conjunto total
-
+Analisando as características viu-se que a Comunidade pesquisa sobre "Belief Networks" também chamadas de "Bayesian Networks".
 
 
 ### Comunidade 104 ###
 
 # PageRank
-
+Compreendeu-se pela análise das características que esta Comunidade pesquisa sobre "Bayesian Network" e conhecimento prévio.
 
 
 # Conjunto total
-
+Para esse conjunto compreendeu-se que a pesquisa tendia a ser sobre "Belief Networks" e usando conhecimento prévio da área, viu-se que há pesquisa em inferência em "Belief Networks".
 
 
 ### Comunidade 116 ###
 
 # PageRank
-
+Do conjunto compreendeu-se que ele pesquisa sobre "Bayesian Network" com conhecimento prévio, além de linguagem natural.
 
 
 # Conjunto total
-
+Do Conjunto total compreendeu-se que a pesquisa é feita sobre "Belief Networks" e linguagem natural.
 
 
 ### Comunidade 134 ###
 
 # PageRank
-
+Segundo esse conjunto esta comunidade pesquisa sobre "Bayesian Network" com conhecimento prévio, linguagem natural e algo com cadeias de Markov.
 
 
 # Conjunto total
-
+Belief Network com linguagem natural.
 
 
 ### Comunidade 145 ###
 
 # PageRank
-
+Rede Bayesiana, linguagem natural e cadeias de Markov
 
 
 # Conjunto total
-
+Rede Bayesiana, linguagem natural e aprendizado por reforço
 
 
 ### Comunidade 151 ###
 
 # PageRank
-
+Rede Bayesiana, conhecimento prévio, linguagem natural, uso de modelo gráfico e cadeia de Markov.
 
 
 # Conjunto total
-
+Aprendizado por reforço, linguagem natural, "Belief network" e uso de modelo gráfico.
 
 
 ### Comunidade 153 ###
 
 # PageRank
-
+Rede Bayesiana, "Belief network", inferência probabilística em "belief network", conhecimento prévio, uso de modelo gráfico, linguagem natural e cadeia de Markov.
 
 
 # Conjunto total
-
+Inferência probabilística em "belief network", uso de modelo gráfico, linguagem natural e aprendizado por reforço.
 
 
 ### Comunidade 156 ###
 
 # PageRank
-
+Modelo causal, cadeia de Markov, linguagem natural, uso de modelo gráfico, rede Bayesiana, inferência probabilística em "Belief Network", diagrama de influência e conhecimento prévio.
 
 
 # Conjunto total
-
+Modelo causal, linguagem natural, aprendizado por reforço, inferência probabilística em "belief network" e uso de modelo gráfico.
 
 
 ### Comunidade 256 ###
 
 # PageRank
-
+Junction tree, rede probabilística, conhecimento prévio, diagrama de influência, inferência probabilística em "belief network", modelo causal, cadeia de Markov, linguagem natural e uso de modelo gráfico.
 
 
 # Conjunto total
-
+Junction tree, uso de modelo gráfico, inferência probabilística em "belief network", modelo causal, linguagem natural e aprendizado por reforço.
 
