@@ -14,11 +14,11 @@ De modo similar ao pageRank.
 
 # PageRank
 
-Foi possível compreender que os artigos tendem a tratar sobre redes de inferência bayesiana.
+Redes de inferência bayesiana
 
 # Conjunto total
 
-Inferência bayesiana.
+"Belief network"
 
 ### Comunidade 104 ###
 
@@ -28,17 +28,17 @@ Redes bayesianas de inferência.
 
 # Conjunto total
 
-Inferência probabilística
+Belief network
 
 ### Comunidade 116 ###
 
 # PageRank
 
-Inferência de independância causal
+Inferência em rede bayesiana
 
 # Conjunto total
 
-Conhecimento impreciso e incerto
+Belief network
 
 ### Comunidade 134 ###
 
@@ -48,54 +48,54 @@ Inferência em redes bayesianas com utilização de grafos
 
 # Conjunto total
 
-Sistemas baseados em conhecimento de sistemas fuzzy
+Belief network
 
 ### Comunidade 145 ###
 
 # PageRank
 
-Problemas de conhecimento impreciso e bases de conhecimento fuzzy
+Inferência em redes bayesianas e independência causal
 
 # Conjunto total
 
-Redes de crença (redes causais)
+Redes de crença
 
 ### Comunidade 151 ###
 
 # PageRank
 
-Propagação de crença e redes bayesianas
+Inferência em redes bayesianas e independência causal
 
 # Conjunto total
 
-Redes de crença e grafos
+Redes de crença e grafos não-direcionados
 
 ### Comunidade 153 ###
 
 # PageRank
 
-Inferência sobre redes bayesianas
+Inferência sobre redes bayesianas, independência causal e grafo acíclico, direcionado e não-direcionado
 
 # Conjunto total
 
-Inferência probabilística sobre redes bayesianas
+Inferência probabilística sobre redes bayesianas, belief network e uso de modelo gráfico
 
 ### Comunidade 156 ###
 
 # PageRank
 
-Inferência em redes bayesianas
+Inferência em redes bayesianas, grafo acíclico, grafo não-direcionado e independência causal
 
 # Conjunto total
 
-Redes bayesianas de crença
+Redes bayesianas de crença, grafo não-direcionado, belief network, inferência causal e "predict search"
 
 ### Comunidade 256 ###
 
 # PageRank
 
-Inferência probabilística sobre redes de crença
+Junction tree, inferência probabilística sobre redes bayesianas e uso de modelo gráfico
 
 # Conjunto total
 
-Regras de inferência e lógica fuzzy
+Junction tree, regras de inferência, "belief network" e uso de modelo gráfico
